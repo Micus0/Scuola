@@ -1,0 +1,533 @@
+# Filosofia
+## Immanuel Kant
+
+- si accorge del problema del metodo irrisolto
+- --> bisogna cambiare prospettiva
+
+### Vita ed eredità/intro (1 e 3)
+
+- vita molto noiosa
+  - abitudinario
+- va all'uni e diventa prof (posto fisso)
+- studia, scrive, pensa e insegna
+- filosofo illuminista tedesco
+  - massimo esponente tedesco
+  - scrive il manifesto illuminista
+- grande merito --> introduce una rivoluzione
+- rivoluzione copernicana della conoscenza
+  - problema conoscenza non risolto
+  - bisogna cambiare **punto di vista**
+    - punto di vista dell'**oggetto conosciuto**
+      - al centro e il soggetto conoscente deve adattarsi
+  - --> al centro **soggetto conoscente** e oggetto ruota intorno
+  - es:
+    - l'azione di leggere dipende dal lettore non dal libro
+- rivoluzione astronomica conoscenza
+  - sole al centro (soggetto conoscente)
+    - Copernico inverte sole e terra --> stessa cosa Kant
+- --> **soggetto** compie l'**azione di conoscere**
+  - è nelle **condizioni**
+- **"sapere aude"** (abbi il coraggio di sapere)
+  - l'**uomo** non usa l'intelligenza
+    - ha paura e non ha voglia
+  - uomo è pigro e ha **viltà** (rifiuto affrontare pericoli)
+    - affrancati dall'etero direzione (diretto da altri)
+      - liberati dalla natura
+    - preferiscono usare soldi che intelligenza
+      - pigri
+      - si affidano agli altri se possono e pagano pure
+- illuminismo rende l'uomo libero attraverso la ragione
+  - con la ragione ti emancipi e diventi cosciente (18)
+    - se non ti emancipi, non sei cosciente (18) anche se liberi dalla natura
+  - sapere aude: abbi il coraggio di liberarti dall'ignoranza
+  - es IA
+    - gratis ma servono tanti dati
+- Kant maschilista
+  - gli uomini è tutto 
+    - maggioranza --> alcuni si salvano
+    - bel sesso --> nessuna donna si salva
+- cosciente (18) difficile e pericoloso
+  - uomo per paura non lo diventa
+  - per Kant non è impossibile
+    - bisogna 
+- --> prendendo responsabilità
+  - se non si è consapevoli di avere ragione, al massimo si cambia padrone
+  - se il padrone non ci piace, si può cambiare con una rivoluzione
+  - --> mito della caverna (platone)
+    - regno dell'apparenza
+  - domande per diventare (18)
+    - cosa sto facendo
+    - cosa stai facendo
+      - qualcuno che si accorge di te e si preoccupa
+  - Kant lo dice in modo diretto
+- (3) ha a cuore il cielo stellato sopra di lui e la legge morale dentro di lui
+  - scritta sulla sua lapide
+  - cielo --> infinito, innarrivabile
+  - dentro di noi --> anche qui c'è l'infinito: il mistero
+    - nessuno sa cosa c'è dentro
+  - legge morale --> bussola interna
+    - ci indica cosa è giusto o sbagliato
+      - forme a priori in tutti gli uomini
+    - guida le azioni umane indipendemente dall'esperienza
+    - voce della coscienza (ragion pratica)
+    - caratteristiche
+      - universale
+        - fondata sulla ragione
+      - a priori
+      - autonoma
+      - obbligante
+      - incondizionata
+- Kant punta all'infinito e **si scontra con il limite** (con il finito)
+  - **filosofia del limite**
+- due periodi
+  - precritico
+    - si confronta con razionalisti ed empiristi
+    - predecessori
+    - quello che ha studiato non sufficiente
+  - critico
+    - elaborazione del suo pensiero
+    - critica nei confronti del razionalismo ed empirismo
+
+---
+
+dal libro
+
+Parte da: *dissertazione del 1770*
+- festa accademica per inizio anno
+  - essendo prof di filo pronuncia un discorso
+- filosofia si chiama criticismo trascendentale
+  - critica la ragione davanti alla ragione stessa
+    - va a capire che la ragione non opera in relazione all'oggetto conosciuto (esperienza), ma è la ragione stessa portatrice delle condizioni a priori che dettato la conoscenza
+  - --> la conoscenza non dipende dall'oggetto conosciuto, ma dal soggetto conoscente
+- conoscenza divisa in 
+  - sensibile
+    - oggetto di studio il fenomeno
+      - può essere studiato grazie al riconoscimento della presenza di forma a priori
+    - distinguere materia e forma
+      - materia attraverso sensi
+      - forma ordina dati sensibilità
+        - sensazioni acquisiscono senso
+        - essenziale
+        - costituita da spazio e tempo
+          - assi cartesiani per la materia
+          - intuizioni pure
+            - precedono e indipendinti da ogni conoscenza sensibile
+    - es leggere
+      - materia: singole lettere
+      - forma: da ordine e tempo nella lettura di seguenze di leggere
+        - varia in base all'allenamento (condizioni a priori)
+    - miglior metodo: sintesi a priori
+      - fusione materia e forma
+  - intellettuale
+    - oggetto di studio il noumeno
+      - dio, mondo e anima
+        - conosciuti ma non giudicati
+          - mancano condizioni a priori
+- filosofia trascendentale
+  - studio delle condizioni a priori/forme per arrivare alla conoscenza che determina il fenomeno
+- problema
+  - come possono conoscere noumeno ma non poterlo conoscere?
+- accettazione del limite
+  - non continua ricerca delle condizioni a priori
+- 3 grandi opere se l'intuizione della dissertazione è vera (prova a smentirsi da solo)
+  - critica della ragion pura
+    - filosofia speculativa
+  - critica della ragion pratica
+    - morale
+  - critica del giudizio
+    - estetica
+
+
+
+---
+
+### Pensiero (2)
+
+- illuminismo 
+  - tutti gli uomini sono dotati di ragione
+  - --> tutti uguali
+  - --> tutti liberi
+- non più eterodiretti, ma autonomi
+  - cambiamento etico: **eteronomia** --> **autonomia**
+- **filosofia dell'universalità**
+  - non della particolarità
+    - no anarchia
+  - esalta la **soggettività universale** o l'**universo soggettivo**
+- centro --> soggetto universale (non uno qualsiasi)
+  - ha anche l'etica
+- **tu devi!**
+  - principio universale e risponde alla morale interiore della conoscenza
+    - siamo umani perché abbiamo conoscenza
+    - "il medico per la dieta" cit Kant
+- eterodirezione scarica responsabilità
+- **rivoluzione copernicana della conoscenza**
+  - nuova prospettiva e si accorge di qualcosa di diverso
+    - possibile solo in determinate condizioni
+- la conoscenza è **giudizio**
+  - **dipende dal soggetto** che è in grado di giudicare ciò che vede
+  - es libro
+    - il soggetto dà il significato alle parole e interpretazione
+- **la conoscenza non dipende da altri ma da noi**
+  - ci vogliono le condizioni e il **linguaggio**
+    - attraverso cui si spiega conoscenza
+- **solo gli uomini giudicano**
+  - animali solo istinto
+- **3 tipi** di giudizi
+  - **analitici a priori**
+    - giudizio dei **razionalisti**
+    - **espressioni dogmatiche insufficienti**
+      - es: sono calate dall'auto e il predicato non aggiunge nulla al soggetto
+        - il corridore corre
+        - la materia è estesa
+    - cogito ergo sum (penso dunque esisto)
+      - se penso esisto lo esplicita solo con il predicato
+    - definizioni **tautologiche**
+      - illusoria
+    - sono **universali**, **dogmatici** e **infecondi**
+  - **sintetici a posteriori**
+    - giudizio degli **empiristi**
+      - es: il fiore è rosso
+        - si può dire dopo aver visto il fiore (posteriori)
+        - non tutti i fiori sono rossi, solo il soggetto
+    - **non universali**, ma **particolari** e **probabili**
+    - sintetici perché espressi da una sintesi
+      - universalizzano ciò che non è universale
+      - aggiungono novità ma solo feconde particolari
+      - giudizio probabile
+  - **sintetici a priori**
+    - **preferita di Kant**
+    - **conoscenza è giudizio**
+    - giudizi in cui il predicato aggiunge qualcosa al soggetto (fecondi) ed esprimono dati universali
+    - es:
+      - ogni fenomeno ha la sua causa
+        - è universale, non è specificato nulla
+      - causa: scientifica, religiosa e magica
+    - possibili grazie alla **sintesi tra materia e forma**
+
+- non vuole cadere nello scetticismo --> vuole trovare una soluzione
+- (3) dopo teoria dei giudizi si scontra con una verità
+  - all'uomo è dato da conoscere solo il **fenomeno** e non il **noumeno**
+    - fenomeno: tutto ciò che esiste e può essere conosciuto
+      - solo attraverso giudizi sintetici a priori
+        - può essere giudicato
+    - noumeno: tutto ciò che esiste e non può essere conosciuto
+      - al soggetto conoscente mancano le condizioni (forme) a priori per poter giudicare l'oggetto
+      - dio, mondo e anima
+        - sappiamo che esistono ma non si possono giudicare
+          - perché tutto ciò che pensiamo esiste
+        - def mondo
+          - troppo grande per poterlo conoscere e definire interamente
+- --> uomo possiede condizioni a priori per conoscere il fenomeno, ma non per il noumeno
+
+---
+
+- film:
+  - maestro ebreo e nazista
+    - chiede lezione
+    - nazista indottrinato
+  - gli spiega cos'è la legge morale
+    - bussola dentro di noi che ci dice cos'è bene e male
+      - è la coscienza
+
+---
+
+- accettazione del limite
+  - non continua ricerca delle condizioni a priori
+- 3 grandi opere se l'intuizione della dissertazione è vera (prova a smentirsi da solo)
+  - critica della ragion pura
+    - filosofia speculativa
+  - critica della ragion pratica
+    - morale
+  - critica del giudizio
+    - estetica
+
+### Critica della ragion pura
+
+- pubblicata nel 1781
+  - dopo 11 anni della dissertazione
+    - ogni parola scritta con attenzione
+- riprende dissertazione e approfondisce
+- ribadisce rivoluzione copernicana conoscenza
+- **analisi critica dei fondamenti del sapere**
+  - alla ricerca delle forme a priori che lo permettono
+- indagine su due attività conoscitive (campi del sapere tradizionali)
+  - **scienza**
+    - studio: tutto mondo fenomenico
+    - linguaggio: matematico
+      - sintetici a priori
+    - oggetto di studio: natura
+  - **metafisica**
+    - studio: noumeno
+    - linguaggio: non si conosce
+    - oggetto di studio: dio, mondo, anima
+  - come aristotele
+    - scienze prime (teoretiche), pratiche, poietiche
+- struttura opera divisa in due (pag 158)
+  - dottrina del metodo
+    - studia le forme a priori del metodo
+    - troppo complicata (all'uni)
+  - **dottrina degli elementi**
+    - studia le forme a priori della conoscenza
+    - in due parti
+      - estetica trascendentale
+        - forme a priori della sensibilità
+          - spazio
+          - tempo
+      - logica trascendentale
+        - forme a priori del pensiero discorsivo
+          - analitica trascendentale
+            - forme a priori intelletto (categorie)
+          - dialettica trascendentale
+            - forma a priori della ragione (le idee)
+              - non ci sono (noumeno)
+- schema pag 286 importante
+- **conoscenza**
+  - sintesi tra:
+    - materia
+      - la molteplicità caotica e mutevole delle impressioni sensibili (elemento a posteriori)
+    - forma
+      - l'insieme delle modalità fisse attraverso cui la mente umana ordina le impressioni (elemento a priori)
+- **tre facoltà conoscitive**
+  - sensibilità --> oggetto dell'Estetica trascendentale
+  - oggetto logica trascendentale
+    - intelletto --> oggetto dell'Analitica trascendentale
+    - ragione --> oggetto della Dialettica trascendentale
+- **estetica trascendentale**
+  - **oggetto conoscenza sensibile**
+    - passiva
+      - dati dall'esperienza
+    - attiva
+      - organizza materiale tramite le due forme a priori
+        - **spazio** e **tempo**
+          - dove e quando
+        - --> giustifica forme a priori della matematica (geometria e aritmetica)
+  - **esposizione metafisica**
+    - contro:
+      - empirismo di lock
+        - capacità conoscitiva passiva
+          - aspettare a registrare dati
+        - --> registrazione passiva
+      - oggettivismo di newton
+        - spazio e tempo contenitori assoluti
+        - ma strumenti per la sensibilità
+      - concettualismo di leibniz
+        - conoscenza a concetti logici --> no intuizione sensibile
+    - spazio e tempo --> condizioni a priori del conoscere
+      - dati non solo registrati ma riordinati
+    - --> registrazione attiva
+  - **esposizione trascendentale**
+    - geometria e aritmetica --> scienze sintetiche a priori
+      - perché fondate sull'intuizioni pure dello spazio e del tempo
+- **logica trascendentale**
+  - da gita escursionistica a gita alpinistica
+    - fino al rifugio
+    - attrezzarsi diversamente
+  - **analitica trascendentale**
+    - fino al campo base
+    - **studia intelletto**
+      - intelletto studiato con l'ausilio di **12** **categorie**
+        - principi puri (a priori) sintetizzati con la conoscienza sensibile --> elaborazione **conoscienza intellettuale**
+      - es gli operai specializzati all'interno di un cantiere
+        - lavorano con materiale nel cantiere e il loro lavoro
+          - --> costruzione casa (conoscenza intellettuale)
+        - lavorano seguendo un ordine (dipingere dopo muro)
+          - coordinati da un capo cantiere
+          - ha in mano un progetto
+            - unifica lavoro operai
+    - **deduzione trascendentale**
+      - categorie coordinate/sintetizzate da **l'io penso**
+        - categoria delle categorie
+      - giudizi si basano sulle categorie
+      - oggetti non possono essere pensati senza essere categorizzati
+    - **schematismo trascendentale**
+      - modo in qui le categorie possono essere applicate
+        - schema a priori utilizzato da l'io penso
+      - perché:
+        - intelletto agisce sugli oggetti tramite l'immaginazione produttiva
+          - determina rete del tempo secondo schemi trascendentali
+        - schemi prefigurazione intuitiva (temporale) delle categorie
+    - **i principi dell'intelletto puro**
+      - regole per l'applicazione delle categorie agli oggetti
+      - si distinguono in
+        - assiomi dell'intuizione
+          - tutti i fenomeni intuiti sono quantità estensive
+        - anticipazioni della percezione
+          - ogni realtà percepita ha una quantità intensiva, ossia un grado
+        - analogie dell'esperienza
+          - l'esperienza è possibile solo mediante una trama necessaria basata sulle categorie di sostanza, causa e azione reciproca
+        - postulati del pensiero empirico
+          - possibile, reale o necessario sono, rispettivamente, ciò che si accorda con le condizioni formali, materiali e universali dell'esperienza
+    - bisogna avere valenza formale e logica
+  - **dialettica trascendentale**
+    - fino alla vetta
+      - ma non si può partire
+        - manca un gradino
+    - **studia la ragione** che cerca di andare **oltre l'esperienza**
+    - considerate idee di
+      - **anima**
+        - totalità assoluta dei fenomeni interni
+        - nasce
+          - unificazione dei dati del senso interno
+        - produce
+          - psicologia razionale
+        - contro (risulta dalla)
+          - errata applicazione della categoria di sostanza all'io penso (paralogismo)
+      - **mondo**
+        - totalità assoluta dei fenomeni esterni
+        - nasce
+          - unificazione dei dati del senso esterno
+        - produce
+          - cosmologia razionale
+        - contro (cade nelle)
+          - antinomie
+      - **Dio**
+        - totalità di tutte le totalità e fondamento di tutto ciò che esiste
+        - nasce
+          - unificazione dei dati del senso interno e del senso esterno
+        - produce
+          - teologia razionale
+        - contro (scontra con)
+          - impossibilità di dimostrare l'esistenza o la non-esistenza di Dio
+    - anche se non posso averne conoscenza rimangono utili
+    - **valore regolativo (non costitutivo) della conoscenza**
+      - --> **metafisica non è una scienza, ma è una disposizione naturale della ragione**
+        - kant ne è innamorato
+          - ma è sola ed è dialettica e ingannatrice
+        - dialettica accezione sofistica
+
+---
+
+riassuntino
+- vita
+  - abitudine
+- riv copern
+  - soggetto al centro
+- manifesto illuminista
+  - sapere aude
+    - minorità
+  - assolutismo illuminato
+  - uso ragione
+- (cielo sopra di me legge morale dentro di me)
+  - legge --> coscienza e bussola
+- divisione vita
+  - prima e dopo
+- dissertazione '70
+  - conoscenza sensibile e intellettuale
+    - fenomeno e noumeno
+- critica ragion pura
+  - 3 tipi di giudizi
+    - analitici a priori/sintetici a posteriori
+    - sintetici a priori
+      - conoscenza sintesi materia/forma
+        - forma necessaria --> riv cop
+  - 3 sezioni opera (sensibilità/intelletto/ragione)
+    - estetica trascendentale
+      - conoscenza sensibile (passiva/attiva)
+      - 2 forme a priori: spazio e tempo
+      - --> verifica matematica (esposizione trascendentale)
+      - (esposizione metafisica: confuta locke,...)
+    - analitica trascendentale
+      - intelletto unifica intuizioni sensibili mediante categorie
+        - intelletto giudica
+      - categorie coordinate da io penso
+      - io penso usa schema che contiene regole
+      - divisione (per le cat)
+        - deduzione trascendentale (validità)
+        - schematismo trascendentale (modo)
+        - principi intelletto puro (regole)
+      - --> verifica fisica
+        - ma oggetto conoscenza scientifica fenomeno
+          - noumeno serve per limiti, ma altrimenti universale
+    - dialettica trascendentale
+      - ragione oltre l'esperienza
+      - noumeno 3 idee
+        - anima (interni)
+          - io no sostanza spirituale
+            - sostanza --> cat --> fenomeni
+        - mondo (esterni)
+          - antinomie (contraddizioni)
+        - dio (tutte e due)
+          - relazione causa-effetto --> dio non è fenomeno
+            - esiste-nonesiste
+      - utili
+        - valore regolativo
+      - --> metafisica no scienza
+        - disposizione naturale della ragione
+
+io penso (1 cat) --> giudizi (altre cat) 
+
+io penso --> schema --> regole
+
+matematica e fisica sono scienze perché dotate di giudizi sintetici a priori. metafisica no
+
+
+---
+
+### Critica della ragion pratica
+
+- critica della ragione morale
+- dichiara il **primato della ragion pratica sulla ragion pura**
+  - la **ragion pratica porta più vicini alla meta**
+- cambia strada e prova la via della morale
+  - perché si interessa di morale
+- frase nella tomba: **"cielo infinito sopra di me, legge morale dentro di me"**
+  - riconosce che con la legge morale, l'uomo è un essere totalmente libero
+- **rivoluzione copernicana della morale**
+  - eteronoma --> autonoma
+    - **le norme morali non stanno fuori dall'uomo, ma dentro**
+      - all'interno della coscienza
+        - non solo educazione
+      - es devi essere onesto (o anche maestro ebreo)
+        - eteronomia --> pagare tasse altrimenti multa
+          - la legge lo impone
+        - autonomia --> perché bisogna esserlo
+          - non per la legge ma comando morale
+            - **perché è cosi**
+              - pensiero razionalista
+- **coscienza universale**
+  - attraverso **imperativo categorico**
+    - risuona dentro la coscienza dell'uomo in maniera universale
+    - es si dappertutto che uccidere è immorale
+- criteri quando riconoscere se un azione è morale
+  - **universalità**
+    - se l'azione viene ripetuta per tutti
+      - es uccidere morale --> tutti muoiono
+    - scalabilità
+    - chi va contro la morale è perché:
+      - sopprime la sua coscienza
+        - es grillo parlante di pinocchio
+          - non farlo! ma spiaccicato
+      - eterodiretto
+      - tolto della libertà di parola
+    - --> chiedersi se un azione possono farla tutti
+  - **considerare l'altro sempre come un fine e non un mezzo**
+    - non mi servo, ma mi relaziono con l'altro
+    - es persona amica per gli appunti
+  - **ragionevolezza azione**
+    - chiedersi se ha senso l'azione
+- **morale laica**
+  - non è basata su regole religiose
+    - seguire la morale per natura umana e non punizione divina
+  - possiamo agire perché siamo liberi
+    - dotati di coscienza
+- il fatto che non possiamo conoscere il **noumeno non è un limite** --> ma una grande fortuna
+  - se noi lo potessimo conoscere --> **sapremmo tutto** e non potremmo scegliere
+  - **capacità di scelta dipende dalla disponibilità azioni**
+    - azioni dipende dalla **mancanza di una parte di conoscenza**
+- **fortuna sta nella nostra imperfezione**
+- la ragione ci permette di ragionare sulle cose e di esprimere un pensiero
+
+
+### Critica del giudizio
+
+- rapporto tra idee di carattere estetico
+  - di fronte alla meta contemplo/ammiro
+    - bellezza così coinvolgente che **si trasforma in sublime**
+
+
+### Conclusione: Per la pace perpetua
+
+- pace esigenza fondamentale
+  - occasioni di riflessione
+- cos'è la pace?
+

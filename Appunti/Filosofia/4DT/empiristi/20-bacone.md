@@ -1,0 +1,155 @@
+# Filosofia
+## Empiristi
+
+### Bacone (Francis Bacon) (1)
+
+- riconosciuto non così grande come deve essere
+  - è inciampato in un pensiero filosofico
+- **profeta della tecnica**
+- libro: nuova Atlantite
+- mondo utopico perfetto che funziona benissimo
+  - governano i tecnici
+  - dominato dalla tecnica
+  - la conoscienza al servizio dell'uomo
+    - perché sapere è potere
+  - la natura la si comanda obbedendole
+  - emerge che la scienza ha un compito descrittivo, ma anche prescrittivo
+  - la verità è evidente che è figlia del tempo (veritas figlia temporis)
+  - **i moderni sono nani sulle spalle dei giganti**
+    - es
+      - quello che ha fatto Aristotele, non lo si può fare
+      - se Galileo vede più lontano è perché si sta nelle spalle di Aristotele
+- metodo
+  - **teorizza** un metodo che non è scientifico
+  - induttivo
+  - presuppone un operazione fondamentale e irrinunciabile che è quello della **distruzione degli idola**
+    - le falsi immagini, credenze, pregiudizi
+- perché non ha avuto il successo che merita?
+  - perché ha la testa proiettata nel futuro, ma i piedi piantati nel passato --> non riesce a fare il salto
+    - manca la matematica che invece aveva Galileo
+    - manca l'esperimento in laboratorio
+
+---
+
+appr libro
+
+- Galileo amante del sapere != bacone meno scienziato
+  - sua concezione non è matematica sperimentale, è solo sperimentale
+  - linguaggio dei sensi
+  - intravisto per primo potere che la scienza offre all'uomo sul mondo
+- **profeta della tecnica**
+  - scrive utopia (nuova atlantite)
+
+aggiunta
+- scienza sperimentale e tecnica
+  - sapere è potere
+    - non esaudisce solo desiderio di sapere, ma condizioni per poter agire ed esercitare un controllo sulla natura
+- tecnica estrememante collegata con la tecnologia
+  - tecnica è il modo di usare la tecnologia
+    - es idraulico senza cassetta degli attrezzi non può riparare
+      - ma la cassetta degli attrezzi senza saperli usare non servono a niente
+
+appr libro
+- vita
+  - nasce nel 1561
+  - **attratto dal denaro**
+- **nuova atlantite**
+  - tecnica
+    - diventa religione
+  - enorme laboratorio sperimentale
+- enciclopedia delle scienze (pag 154)
+  - schema
+- novum organum (nuovo organo)
+  - logica aristotelica (organum) != logica del procedimento tecnico-scientifico
+    - **da deduttivo a induttivo**
+    - da essere a natura
+      - per essere dominata
+  - **scienza al servizio dell'uomo**
+  - uomo ministro e interprete della natura
+  - strumenti efficaci: esperimenti (!= da quelli di Galileo)
+  - **conoscere la natura serve per prevederla**
+  - due vie
+    - **via dell'anticipazione**
+      - sterile
+        - più logica cbe esperienza
+        - certezza solo presunta
+    - **via dell'interpretazione**
+      - feconda
+        - dall'esperienza si trattano ragionamenti
+        - con metodo per arrivare alle leggi
+  - metodo di Bacone due fasi
+    - **destruens** (distruttiva)
+      - prima di costruire nuova scienza, mettere in discussione quella vecchia
+        - distruggere gli idola
+          - distruggere i pregiudizi della mente/false immagini
+      - se non si metteva in discussione, ci si accontentava il sapere vecchio
+        - es mondo di Aristotele è chiaro/pulito/perfetto, ma è vero? si mette in discussione
+          - ci si accorge che è un gran bel racconto
+      - pregiudizi in 4 categorie
+        - **idola tribus** (della tribù)
+          - **pregiudizi della stessa natura umana**
+            - è nella natura dell'uomo creare pregiudizi
+            - leggere quello che fa comodo
+          - es punto nero sul foglio
+            - noi vediamo punto nero, ma il foglio non lo vediamo
+              - il punto nero è quello che emerge
+              - attenzione cade su quelle che è più evidente/superficiale
+          - non fermiamoci all'apparenza
+        - **idola specus** (della spelonca)
+          - **giudizio del singolo**
+            - insieme alla natura umana, anche la specificità degli individui
+            - in base al carattere, luogo di crescita, abitudini...
+            - --> dipende dalla natura individuale di ciascuno
+          - es punto nero sul foglio
+            - pessimista: foglio sporco
+            - ottimista: punto di partenza per un disegno. Opportunità
+        - **idola fori** (della piazza)
+          - **giudizio dipende dal linguaggio**
+            - frase detta interpretata male
+            - si crea confusione
+          - es politically correct (merda)
+        - **idola theatri** (del teatro)
+          - **cultura del passato condiziona**
+            - moderni spalle sui giganti
+            - noi vediamo grazie alla base data dai predecessori
+          - **verità figlia del tempo**
+            - si rivela gradualmente nel tempo (Giordano Bruno)
+    - **costruens** (costruttiva)
+      - dopo aver riconosciuto la dubitabilità, si può procedere con l'applicazione del metodo
+      - dal semplice al complesso
+      - dai dati alla teoria
+      - fasi
+        - **osservazione e raccolta dei dati**
+        - **classificazione** dei dati in 3 tavole
+          - **presenza**
+            - casi in cui un fenomeno si presenta
+          - **assenza**
+            - casi in cui un fenomeno non si presenta
+          - **gradualità**
+            - casi in cui un fenomeno si presenta in gradi diversi
+        - **ipotesi**
+          - risultato della prima vedemmia
+          - dopo dati elaborare prima ipotesi
+          - dimostrare ipotesi se sia vera
+            - si torna all'inizio, finché non si trovano elementi che ribaltano l'ipotesi
+- Bacone empirista che scivola nell'empirico
+  - ripasso
+    - metodo migliore: induttivo
+      - estremamente strutturato che parte dall'osservazione
+      - categorizzazione dati
+      - ipotesi
+      - ciclo si ripete
+        - si osserva di nuovo per confermare di nuovo
+  - due motivi
+    - **non usa matematica e non la riconosce come linguaggio**
+    - l'esperiena che fa Bacone **non dà vita a degli esperimenti**
+      - come diceva Galileo
+      - non va in un'ambiente asettico e oggettivo
+        - non autentica rielaborazione dei dati
+      - torna ad accumulare esperienze soggettive
+        - ma se una parte dell'esperienza manca, cade la legge
+          - es osservazione cigni bianchi
+            - si vedono cigni bianchi, finché se ne vede uno nero
+- non riesce a fare il passo
+  - ancorato al passato
+  - ma dà lo slancio ai prossimi

@@ -1,0 +1,33 @@
+# Italiano
+## Romanticismo
+
+- movimento post riv francese e Napoleone
+- riv politica
+  - sempre di più il popolo
+- riv industriale
+  - borghesia e proletariato
+- intellettuale si modifica
+  - aristocratico --> borghese
+  - deve lavorare per vivere
+  - --> assecondare l'editoria
+  - frustrazione verso società
+  - rifiuta la realtà
+  - eroi...
+- distacco dall'illuminismo
+  - non solo ragione, ma anche **sentimento**
+    - ragione ha i suoi limiti
+      - cosa aveva causato nella riv francese e Napoleone
+  - --> **ragione passionata**
+- tendenza all'infinito
+  - nessuna cosa terrena può soddisfarlo
+  - --> **Sehnsucht** (zensurct)
+    - struggimento
+      - dolore che nasce da una mancanza
+    - viene colmato da persona a persona
+- --> molteplicità temi elevata
+  - anche contrastanti
+- concezione arte
+  - rifiuti canoni
+  - ricerca del vago
+- sublime
+  - contemplazione bello/grandezza di fronte all'uomo (--> paura)

@@ -1,0 +1,68 @@
+# Filosofia
+## John Locke (6)
+
+- importante empirista
+- **padre della corrente politica del liberalismo**
+  - giustifica la bonta di un governo del seguente tipo: monarchia parlamentare costituzionale di stampo liberale
+  - != da Hobbes
+    - giustifica la monarchia assoluta
+    - pessimista
+      - ragione calcolatrice
+      - non ci sono risorse per tutti
+        - attaccare per primi
+          - stato di guerra permanente
+      - c'è bisogno di qualcuno che calmi gli egoismi
+- forte fiducia data dall'esperienza
+  - parte dal basso
+  - ottimista
+    - vive dopo
+      - vede gli effetti della guerra civile
+      - tentativi di assolutizzazione
+        - da un'altra soluzione
+- --> **liberalismo**
+  - **ogni uomo nasce libero e felice**
+    - perché consapevole di non avere niente da temere
+  - ad un patto (lettera sulla tolleranza)
+    - che **tutti si rispettino**
+      - es la mia libertà finisce quando inizia la libertà dell'altro
+    - che le **risorse siano distribuite per tutti**
+      - es se prendo il doppio, uno rimane senza
+    - --> capacità di vivere insieme nonostante le diversità
+  - --> **principio costituzionale**
+    - fondamento alla base del vivere civile
+  - bisogna garantirlo
+    - persone onorevoli
+      - scelti come particolarmente rappresentativi della comunità (votati)
+  - necessario mantenere la pace
+    - guerre di religione
+  - (basi del pensiero occidentale)
+- esperienza
+  - è quel fare che nella quotidianità, ci permette di elaborare le idee
+  - due critiche al razionalismo di Cartesio:
+    - la **ragione cartesiana è sterile** (così com'è concepita)
+      - la ragione senza l'esperienza, non può fare nulla
+      - è necessario il confronto con l'esperienza
+        - dai dati si possono elaborare dei ragionamenti
+    - all'**innatismo** (idee innate)
+      - **l'uomo nasce dotato di ragione, ma senza idee**
+      - **idee si creano dalle esperienze**
+      - tre categorie
+        - **semplici**
+          - basiche
+          - le acquisiamo quando da bambini ci confrontiamo con il mondo
+            - es io e tu, mamma, papà, fratello, Tobi...
+          - mente registra l'esperienza
+        - **complesse**
+          - deduzioni da quelle semplice
+            - es da tobi a cane
+        - **generali**
+          - non si applicano più deduzioni
+            - es da cane ad animale
+              - idea generale
+          - si applica a tante cose
+          - idee finali
+            - dio, mondo, anima
+            - al contrario di Cartesio
+  - semplice --> complesso
+  - particolare --> generale
+  - concreto --> astratto

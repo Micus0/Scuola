@@ -1,0 +1,350 @@
+# Italiano
+## Giuseppe Parini
+
+### Vita
+
+- modesta provenienza socio-economica
+- formazione culturale buon livello
+- ...
+- diventa sacerdote
+  - per poter studiare
+    - può svolgere comunque attività lavorative
+  - precettore privato
+    - Serbelloni: moderna e colta
+      - investe nella cultura
+      - rapporti si rompono
+        - Parini prende le difese della figlia del maestro di musica
+        - La duchessa mena la figlia, lui non ci vede più
+        - La attacca verbalmente
+  - direttore di un quotidiano (Gazzetta di Milano)
+    - sotto richiesta del governatore
+  - insegnante nelle scuole Palatine
+    - politica innovativa di Maria Teresa d'Austra
+    -  anche Carlo Magno
+      - non sapeva scrivere
+      - per funzionari pubblici
+  - poeta del Palazzo Ducale
+    - ruolo molto importante
+- accettava politica di Maria Teresa
+- favorevole agli ideali della rivoluzione francese
+  - dopo distanze con il terrore giacobino
+- con favore ritorno a Milano degli austriaci
+  - sonetto *predaro filistei*
+- rapporti illuminismo
+  - illuminista moderato
+    - unisce valori con i quali è stato formato con i valori presi dalla nobilità
+  - accoglie rifiuto per:
+    - oscurantismo
+    - dogmatismo
+      - verità assolute non dubitabili
+    - pregiudizi
+  - respinge
+    - materialismo
+    - ateismo
+      - religione controlla le passioni umane e da risposte a domande esistenziali
+        - != da machiavelli
+          - religione strumento di controllo
+
+
+### Visione sociale
+
+- cultura
+  - strumento per entrare nella coscenza dei nobili e farli avere uno scatto di orgoglio...
+  - illusione
+- favorevole:
+  - tesi ugualitarie
+  - istanze umanitarie
+- rigetta:
+  - visione rivoluzionaria
+    - non con violenza
+  - abolizione delle classi sociali
+    - vuole rispetto tra le classi sociali
+    - popolo vive rispettosamente
+    - aristocrazia privilegi se li guadagna
+  - ascesa della borghesia o del popolo
+- propone:
+  - critica all'altezzosità della nobiltà e alla loro vita inoperosa
+    - al servizio dei nobili
+      - sa com'è vivono
+        - ?es bonati, servelloni
+  - rifiorire di una nobiltà che assuma nuovamente ruolo leadership
+- obiettivo: satira educativa
+  - mettere in versi il mondo aristocrazia cosi com'è
+    - di conseguenza aristocrazia scatto d'orgoglio volto a modificarsi
+  - utopia
+    - aristocrazia del suo tempo inattiva, viziosa...
+      - es moda del cicisbeismo
+        - fenomeno di costume aristocratico del '700
+          - donne apparivano in società con un uomo cicisbeo
+            - serviva per apparire
+          - uomini diventavano cisbei di altre donne
+            - accompagnavano altre donne
+        - alimenta tradimento coniugale
+    - --> vive dei suoi privilegi
+      - rendita vissuta dai latifondi (goldoni)
+- è un classicista
+  - forma e struttura pensiero presa dai classici latini
+  - italiano di registro molto alto
+  - tradizione classica del verso e poesia
+    - es scrive sul primo vaccino messo a punto
+      - in poesia
+    - figure retoriche
+    - != forma dell'illuminismo 
+      - stile più asciutto/prosa
+      - es Cesare Beccaria
+- temi di attualità
+  - salubrità dell'aria
+    - aria che si respira a Milano
+    - modernità ha un prezzo da pagare
+      - aria pessima
+- il ruolo del caffè
+  - posti in cui discutere dell'attualità
+  - anche testi semplici
+    - != Parini
+      - poesia fondamentale
+
+
+
+### Dialogo sopra la nobiltà (p 476)
+
+- dialogo tra nobile e poeta
+  - sono morti
+  - si incontrano le loro anime
+- si confrontano sulla tematica della nobiltà
+- testo:
+  - prima parte
+    - anche nel regno dei morti, c'è sempre qualcuno che vuole essere migliore degli altri
+      - nobiltà che non si fonda su virtù importanti
+      - si portano con se i beni di lusso
+        - oro, velluto, aromi, balsami
+        - utilizza tono ironico
+  - dialogo
+    - poeta chiede perché si crede superiore
+      - nobile: perché sono nobile e tu plebeo
+        - marchese locandiera
+    - poeta: perché lasciare spazio ad un nobile che occupa cosi tanto spazio
+      - nobile: nobile perché i miei antenati lo erano
+        - non vuol dire niente
+    - poeta: gran parte di voi ignoranti....
+      - nobile: taci, mi fai morire una seconda volta
+    - poeta: ho tentato di farvene accorgere
+      - nobile: blatera
+    - poeta: lingua si è attorcigliata. riposate nel vostro letame. lingua dei poeti sempre ultima a guastarsi. desiderei essere (se fossi rinato): per bene, sano, d'ingegno, e poi: ricco, e infine nobile
+- il nobile non ha altro da dire
+- poeta coscienza che i nobili non hanno
+- adulatori inutili
+
+
+### Il Giorno
+
+- diviso in 4 parti
+  - mattino, mezzogiorno, pomeriggio, sera
+- poema satirico in versi
+  - endecasillabi sciolti
+- giornata tipica di un giovane aristocratico
+  - spreco di tempo
+    - rapporti
+    - chiacchere futili
+    - d'azzardo di sera
+- insegna a vivere bene il tempo, non in futili attività
+
+Dedica alla moda (p 490)
+- presente nella prima edizione soltanto
+- **antifrastico**
+  - si dà valore a ciò che si vuole negare
+  - per sottolineare quanto sia inutile la moda
+- testo:
+  - 1/3
+    - in quest'opera non si tratterà argomenti dedicati a persone di una certa età
+      - argomenti seri di economia, etica, questioni apprezzate da fascia di età avanzata
+    - due elementi ironici per indicare anziani
+      - cisposi occhi
+      - fluidi nasi (nasi colanti)
+    - anche Leopardi scrive un dialogo della moda e della morte
+      - dicendo che sono sorelle
+      - si ispira a Parini
+  - 4/5
+    - dedicato alla moda definita come una dea
+    - anima i giovani
+  - 5/8
+    - c'è qualche giovane che non partecipa alla moda
+    - moda cantata come eroina
+      - liberato i giovani dal rispetto di noiose regole
+      - ha messo all'angolo la ragione, buonsenso, ordine
+        - appartenevano alla società precedente
+  - 8/11
+    - giovani passano ore davanti allo specchio per truccarsi
+      - davanti alla toilette
+    - accostamento di alto basso
+      - descrizione attività non rilevante (basso)
+        - ore davanti allo specchio
+      - si chiede alla divinità di conseguire questo compito (alto)
+    - --> effetto ridicolo
+      - ironia
+  - 11/13
+    - autore fa riferimento alla nuova letteratura
+      - critica dettami moda della poesia
+        - es in poesia non si fa più la rima
+        - es versi sciolti (senza rima)
+    - per andare incontro alla moda, anche poesia cambia
+  - 13/15
+    - ripreso completamente da Leopardi
+      - moda rende opera d'arte vuota in base ai gusti
+        - es antologie ora diverse da un tempo
+          - es carducci non si legge più
+      - --> moda potere della morte
+        - agiscono nello stesso modo
+          - morte sulle persone
+          - moda sulle opere
+  - 15/16
+    - si accontenterà di vivere finché la moda rimanga in quell'aspetto
+  - 16/19
+    - se opera ritenuta di moda, autore potrà scrivere altre parti del giorno
+
+Il risveglio del "giovin signore" (p 496)
+- Parini non scrive in prosa come gli altri illuministi, ma è in versi
+  - endecasillabi sciolti
+  - non si stacca completamente
+- giovane signore va a dormire dopo aver passato la sera a giocare d'azzardo
+  - va a dormire quando si svegliano i contadini
+- testo:
+  - 1/4
+    - l'incipit mattino idilliaco
+      - descrizione del sorgere dell'alba che appare sull'orizzonte
+  - 5/10
+    - villan: contadino
+    - si sveglia e va a lavorare nei campi
+      - si porta i strumenti che Cerere (dea della pastorizzia)
+        - **usa mito per criticare**
+          - strumento per criticare la società
+          - != dagli illuministi
+  - 11/15
+    - mentre attraverso bosco, scuote rugiada
+  - 14/16
+    - anche fabbro si alza all'alba
+    - continua opere che aveva iniziato ieri
+  - 17/20
+    - elenco attività del fabbro
+      - chiave usata per nobile
+      - oggetti preziosi per nobile
+    - != da fabbro di oggi
+      - serrature, coltelli....
+        - artigianato
+  - 21/23
+    - ironia poeta
+      - giovane gli si alzano i capelli a pensare di svegliarsi a quest'ora
+  - 24/25
+    - giovane non ha cenato al tramonto
+  - 26/28
+    - non sei andato a dormire quando le luci naturali si sono spente
+  - 29/31
+    - a voi che siete un'assemblea di semi-dei
+      - ironia
+  - 31/32
+    - poeta si assume il compito di accompagnarlo
+  - 33/34
+    - giovane a passato la notte:
+      - canòre scene (spettacoli di canto)
+      - con patetico gioco (adrenalinico)
+  - 35/41
+    - usciva con il cocchio
+      - carrozza
+    - disturba la notte
+      - carrozza lanciata a grande velocità
+      - fiaccole dei servi
+  - 42/44
+    - paragonato al dio Plutone
+      - mitologia
+  - 45/52
+    - arriva a casa verso mattina
+    - si siede alla mensa
+      - ci sono cibi saporiti
+      - irrorati con liquore
+      - vini francesi, spagnoli, toscani
+    - vino ungherese lo fa tornare a dormire
+  - 52/55
+    - Sonno: diventà divinità (S maiuscola)
+      - mito
+      - il sonno cala giù le coperte e le tende
+  - 56/57
+    - il gallo cantava svegliava il resto del popolo e chiudeva i lumi del nobile
+      - lumi: occhi della donna amata
+        - ironica
+  - 58/65
+    - salto
+  - 65/66
+    - leggiadre cure
+      - preoccupazioni futili del nobile
+        - vanità inutili delle attività del nobile
+  - 66/68
+    - poeta accompagna il nobile nella sua attività quotidiana
+      - alte imprese (inutili)
+  - 69/75
+    - nobile si sveglia e suona il campanello
+      - servi sono pronti ad iniziare la giornata
+    - subito si vengono ad aprire le tende
+    - servi fermi a fare da scudo alla luce per il nobile
+  - 76/81
+    - nobile mette cuscini dietro la schiena
+    - si stropiccia gli occhi dolcemente per togliere la nebbia dagli occhi
+  - 82/83
+    - sbadiglia
+      - delicatezza gesto
+        - piccolo arco con le labbra
+  - 84/91
+    - paragone con capitano di un esercito
+      - sbadiglia aprendo tanto la bocca e facendo un gran suono
+    - come Minerva tentava a suonare nel flauto
+      - bellezza dea deformata
+  - 92/95
+    - il servo chiede al nobile che cosa vuole bere
+      - alla moda
+      - caffe e cioccolata
+        - da poco entrate nell'uso dei ricchi e nobili
+  - 96/97
+    - merci dall'oriente
+  - 97/103
+    - chiede se preferisce una bevanda più energitica/tonica
+      - ciocolatte (cioccolata)
+        - arriva dal guatemala e caraibi
+          - prodotti da uomo che hanno il capo decorato da barbare penne
+  - 104/110
+    - ma se vuoi svegliarti
+    - caffe
+      - perifrasi
+        - bevanda nettarea
+          - cibi degli dei
+        - colore scuro
+        - proveniente da Aleppo e Moca e arriva in occidente
+  - 111/124 (anche parafrasi)
+    - per scoprire cioccolata e caffe, qualcuno si allontanasse dai suoi confini
+      - Spagna era andata a conquistare l'america
+    - grande polemica e giudizio sulla colonizzazione
+      - Pizarro e Cortes hanno sterminato intere popolazioni
+      - con armi da fuoco spodestarono i re messicani
+      - per portare queste delizie che arrivano al palato del nobile
+    - critica sull'utilità della colonizzazione
+      - portare merci pregiate per pochi
+  - 125/136
+    - mentre nobile beve la bevanda ospiti innopportuni
+      - sarto presenta conto
+      - castaldo mandare avanti il campi
+        - non opera lui
+      - notaio amministrava tutti i beni
+    - delegava i compiti ad altri
+  - 137/143
+    - antenati parlavano con i loro servi
+    - ora più raffinati
+      - ironico
+  - 143/146
+    - come puoi resistere alle parole barbare di questi
+      - urlavano
+      - paura: balbettio, titubanti
+        - percezione differenza di classe
+  - 147/149
+    - non sapevano neanche fare l'inchino
+    - arrivavano al palazzo con scarpe sporche
+  - 150/153
+    - dopo questo, la bevanda lo farebbe ruttare tutto il giorno
+
+

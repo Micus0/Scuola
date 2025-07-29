@@ -1,0 +1,180 @@
+# Italiano
+## Schema
+
+- Situa inizio medioevo
+  - Società: mentalità religiosa
+---
+- Testi
+  - **Interpretazione allegorica** (per capire signif. più nascosti)
+    - caso Virgilio
+      - viaggio Enea rappr. quello umano e analogia bambino porterà età dell'oro
+  - luoghi
+    - comuni medievali, università, **monasteri e conventi, cattedrali,** castelli
+  - persone
+    - **clero** (soppr elevato), nobili, re e regine
+  - opere
+    - **enciclopedie** --> raccolta info
+    - **lapidari** --> effetti pietre
+    - **erbari** --> effetti erbe
+    - **bestiari** --> descrizione animali e bestie
+    - **agiografie** --> biografie vita dei santi
+  - lingua ufficiale --> latino
+---
+- periodo carlo magno
+  - rinascita carolingia --> boom cultura e arte
+  - latino inizia ad essere dimenticato
+    - nascono **volgari**
+      - danno vita a lingue **neolatine** o **romanze**
+        - nel territorio della romània
+---
+- concilio di Tours (813)
+  - necessità predicazione fedeli in volgare
+- giuramenti di Strasburgo (842)
+  - sanciscono **separazione** volgare dal latino
+---
+- primi documenti in volgare (ita)
+  - **indovinello veronese** (fine VIII sec) (testo)
+    - breve sequenza versicoli
+    - due divergenze
+      - origine testo latino, ma scarsa competenza copista
+      - consapevole adozione volgare
+  - **placito di Capua** (960) (testo)
+    - contesa terre tra monastero montecassino e un privato
+    - volgare necessario per comunicare con il privato
+  - **inscrizione di san Clemente** (XI sec)
+    - misto tra immagine e parola scritta
+---
+- prime forme letterarie in volgare
+  - clerici --> testi per preghiere
+    - trasmissione volgare tramite orazioni
+  - **giullari**
+    - testi in versi con musica
+    - viaggiavano tra le corti
+  - in Italia
+    - tra fine XI e inizio XII sec
+---
+- letteratura romanza europea
+  - menestrelli, giullari e trovatori
+  - fenomeno letteratura cortese --> generi nuovi
+    - **epica** medievale
+    - **romanzo**
+    - **lirica d'amore**
+---
+- cultura cortese
+  - ideale perfezione morale e sociale
+    - lealtà, generosità, buona educazone, modi eleganti
+  - opposto a villania: opposizione morale e culturale
+- cavalieri: giovani. antidoto disordine
+  - paladini: affianco all'imperatore
+  - cavalieri erranti: dimostrazione valore e percorso conoscitivo
+    - avventura
+---
+- epica medievale
+  - rivestire carattere mitico-leggendario le origini di un popolo
+  - racconto in versi
+  - tramandato prima a voce e poi forma scritta
+  - es:
+    - **chanson de gest**
+      - canzoni di gesta Francia del nord
+      - esaltano guerra santa
+      - imprese Carlo Magno e dei 12 paladini
+      - in part:
+        - **chanson de Roland** (1070) (testo)
+          - paladino Orlando si sacrifica con i suoi soldati per fermare avanazamento arabo a roncisvalle in nome fedeltà carlo magno e valori cristiani
+---
+- romanzo cavalleresco
+  - genere originale
+  - elementi con epica: natura narrativa, uso verso, ambientazione pass. leggend.
+  - novità
+    - ottosillabo rima baciata
+    - individualità eroi e casualità eventi
+    - eventi storici come pretesto
+    - lettura privata
+  - si dividono in
+    - romanzi antichi (ambientazione antica)
+    - romanzi **bretoni** (leggende antica bretagna: es re artù: ciclo bretone e arturiano: cavalieri della tavola rotonda)
+  - temi
+    - avventura
+    - amore: vicende si generano da vicenda amorosa
+    - meraviglioso: eroe alle prese con componenti leggend./magiche
+  - es
+    - **romanzi di chretien de troyes** (testo)
+      - opera di spicco: sacro graal perceval
+---
+- amore cortese
+  - dedizione assoluta a donna amata
+  - amore e adulterio
+    - **più e lontano e impossibile** = meglio è
+  - es:
+    - **abelardo ed eloisa** (testo)
+      - professore innamorato di alunna di classe superiore a lui
+---
+- lirica provenzale
+  - tra aquitania e provenza
+  - eseguito in pubblico
+  - creati dai **trovatori**: poesia trobadorica
+  - novità:
+    - poesia laica e colta in volgare
+    - nuove forme metriche
+    - raffinate tecniche di versificazione
+  - tematica amorosa:
+    - sottommissione poeta alla donna
+    - lode alle qualità femminili
+  - due stili:
+    - **trobar leu**
+      - stile dolge e leggero: pubblico ampio
+    - **trobar clus**
+      - stile chiuso e complesso: pubblico stretto
+  - trovatori importanti:
+    - guglielmo IX
+      - poeta bifronte (tutti i due stili)
+    - fronte trobar leu:
+      - jaufré Rudel
+        - amore di lontano (testo)
+      - bernart de ventadorn
+        - canto dell'allodola e il volo della mente (testo)
+    - fronte trobar clus
+      - arnaut daniel
+  - metrica:
+    - **canzone**
+      - fin amors
+    - **sirventese**
+      - temi interessi e valori società
+    - **tenzone**
+      - dibattico amore
+  - strofa chiamata stanza
+---
+- scuola siciliana
+  - nasce da corte federico II
+    - scelte tematiche diverse
+    - lett privata
+    - amore arg principale
+    - divorzio musica e poesia
+    - poesie originali perse
+    - invenzione **sonetto** (giacomo da lentini) (2 testi)
+      - ottetto
+        - quartina-quartina
+      - sestetto
+        - terzina-terzina
+---
+- ordini mendicanti (fine XII sec) (ideale di povertà)
+  - **ordine francescano** (francesco d'assisi)
+    - agire nel mondo ma rinunciare bene terreno
+    - due divisioni success:
+      - frati spirituali
+        - totale povertà (prendono alla lettera)
+      - frati conventuali
+        - povertà meno rigorosa
+  - **ordine domenicano** (domenico di guzman)
+    - combattere eresia
+    - frati predicatori
+    - studio teologia
+---
+- poesia religiosa
+  - ordini mendicanti grande importanza comunicazione con masse
+  - rivitalizzazione fede --> poesia religiosa (preghiere)
+    - nasce la **lauda**
+  - es
+    - **cantico di frate sole** (franceso d'assisi) (testo)
+      - creature unite in un senso di fraternità
+      - paura morte seconda (dannazione eterna)
