@@ -1,0 +1,64 @@
+# English literature
+## Victorian age
+
+### Introduction
+
+- name by queen Victoria
+  - longest monarchy after queen Elizabeth II
+  - 1837-1901
+    - came in throne when she was just 18 years old
+- colonialism
+  - expanding his power
+  - greatest expansion of the empire
+- economic power
+  - industrial revolution
+    - lower class exploited
+      - women and children working
+      - crambling building
+      - overcrowded
+      - bad igienic conditions
+- compromise policy
+  - for incoming revolutions
+    - chartism
+      - repress the movement by force approved by the parlament
+  - reforms
+    - right of vote for the male middle class
+    - --> better condition of lower classes
+      - but just apparent
+  - --> hypocricy of middle class
+    - higher class said that they helped them, but they were exploited
+    - writers deals with this
+    - decided that their are poor because is their predestination 
+      - they are lazy
+- victoria symbol of morality
+  - traditional family with children
+  - religion important value
+  - references to sexuality were forbidden
+  - but just apparently
+    - double life
+    - oscar wild rappresented that
+- united nation
+  - national education system
+  - literacy +
+- liberalism and free trade
+  - war with china
+    - oppium wars
+  - war with russia
+    - crimea war
+      - for protecting the silk road
+- civil war in usa
+- all victorian age was rappresented by Charles Dickens
+  - scientific method
+    - before writing, he visited/observed society in all of his manner
+    - --> better realistic rappresentation
+  - narrator omniscient/obtrusive
+    - obtrusive: a type of omniscient that intervenes directly in the story by commenting events of characters etc...
+- women
+  - not indipendent
+    - they obbligeted to serve the family
+  - in the novel this women have a strong will
+    - revolutionary
+- david copperfield and oliver twist
+
+
+
