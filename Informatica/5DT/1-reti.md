@@ -1,0 +1,60 @@
+# Informatica
+## Reti
+
+- connettere dispositivi per scambiarsi informazioni
+- **commutazione**
+  - collegare due dispositivi attraverso un collegamento virtuale
+  - diversi tipi:
+    - **commutazione di circuito**
+      - rete fisica gestita attraverso centraline
+    - **commutazione di messaggio**
+      - no impiego fisico ma percorso logico obbligato
+        - riutilizzo linee
+    - **commutazione di pacchetto**
+      - messaggi divisi in parti (pacchetti)
+      - messaggio si può inviare senza aspettare che i precedenti siano arrivati a destinazione
+        - anche con un percorso diverso
+- nella rete sono presenti anche componenti software
+  - non solo hardware
+- **protocolli di comunicazione**
+  - *Insieme di regole che standardizzano e governano le operazioni delle unità funzionali che sovrintendono la comunicazione*
+  - convenzioni/regole condivise formalizzate
+  - definisce come avviene lo scambio di dati
+  - in particolare:
+    - usare efficacemenete la rete
+    - coordinare l'instradamento (routing)
+      - invio di dati da un pc all'altro
+    - assicurare buona riuscita comunicazione
+    - controllo e risolvere eventuali errori (arbitraggio)
+    - consentire funzionamento particolari servizi di rete
+      - es file e posta
+- classificazione per architettura
+  - **master-slave**
+    - un dispositivo controlla altri dispositivi
+  - **client-server**
+    - modello internet comune
+    - presenza server (fornitore servizi)
+      - si occupa di rispondere alle richieste dei client
+      - diverse funzioni
+  - **peer-to-peer**
+    - dispositivi tutti alla pari
+      - nessun punto di controllo centralizzato
+      - si occupano sia di gestire servizi che richiederne
+        - sia server che client
+    - es: torrent
+- tipologia rete
+  - a stella
+    - utilizzando un **concentratore** come gestore
+    - serve come centro per gestire in messaggi
+    - **hub**
+      - ripete il messaggio a tutti gli altri
+        - senza specificare il destinatario
+      - sniffing
+        - si può recepire il messaggio
+          - tutti possono in teoria accedere
+    - **switch**
+      - ripete il messaggio solo al dispositivo interessato
+  - ad anello
+    - diverse direzioni
+  - backbone/albero
+  - maglia parziale

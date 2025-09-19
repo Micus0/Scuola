@@ -30,6 +30,8 @@
     - writers deals with this
     - decided that their are poor because is their predestination 
       - they are lazy
+- trading unions in 1867
+  - conseguence of chartism movement
 - victoria symbol of morality
   - traditional family with children
   - religion important value
@@ -59,6 +61,11 @@
   - in the novel this women have a strong will
     - revolutionary
 - david copperfield and oliver twist
-
-
-
+- outcast
+  - jobless people
+  - fallen women
+    - made childrens outside wedding
+- mister hide
+- a lot of different autors
+  - period of production
+- (gown: camicia da notte)

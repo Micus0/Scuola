@@ -93,6 +93,10 @@
 - padre
   - conosce le abilità di Leopardi
     - lo obbliga a studiare tanto
+- madre
+  - inaffettiva
+  - nb
+    - non ha a che fare con la natura
 - 6 lingue
 - studio matto e disperatismo
   - problemi fisici
@@ -105,3 +109,331 @@
 - 1822 riesce ad uscire da Recanati
   - visita Roma
     - realtà lo delude
+      - corruzione ignoranza
+  - periodo silenzio poetico
+    - solo 20 operette morali
+- torna a Recanati
+  - ritorna a scrivere (dopo silenzio poetico)
+- 1827 si trasferisce a Firenze
+  - incontra Manzoni, Gioberti...
+- 1828 si trasferisce a Pisa
+  - periodo scrive Canti Pisano-Recanatesi/Idilli
+- 1830 lascia definitivamente Recanati
+- Ciclo di Aspasia
+  - si innamora di Fanny Targioni Tozzetti
+- approfondisce l'amicizia con Antonio Ranieri
+- [..]
+- 1835 colera si diffonde a Napoli
+  - si trasferisce nelle falde del Vesuvio
+- ispirazione per la sua opera: La ginestra
+  - soprendentemente messaggio finale positivo
+- 1837 muore malato a Napoli
+
+## Punti di contatto con illuminismo e romanticismo
+
+- illuminismo: centro la ragione che libera dalla superstizione
+  - concorda ma,
+- la ragione mostra il vero che è brutto
+  - --> non è lo strumento del progresso
+- romanticismo: centro è l'io/interiorità
+  - diventa il nucleo fondante della sua poesia ma,
+- no orrido come i scrittori del nord, no vero come oggetto poetico
+
+## Zibaldone
+
+- raccolta di appunti e pensieri di 4000 pagine circa
+  - snodati stu tanti argomenti differenti
+  - numerati e datati
+- ci aiuta a capire meglio il suo pensiero --> le sue poesie
+- tante congiunzioni
+  - pensiero subito scritto
+
+
+### Teoria del piacere (pag 627)
+
+- 1821
+- influenza materialistica sensistica
+  - piacere che colmi i sensi del corpo
+- per natura portato a trovare il piacere infinito
+  - ma ciò che può ottenere è un piacere finito e materiale
+- --> limite ontologico
+- e anche limite biologico
+
+### Poetica del vago e della lontananza (pag 629)
+
+- scia dell'uomo tende all'infinito, ma può raggiungere solo una cosa finita
+- se la vista è bloccata per vedere il vero, si inizia ad immaginare
+  - strumento per allontanarsi dal vero
+- punteggiatura
+  - fa capire la natura indefinita della notte
+- nella memoria rimane indeterminato --> rimembranza
+
+## Filosofia
+
+- **infelicità nucleo pensiero**
+- **pessimismo** diviso in 3:
+  - **pessimismo individuale**
+    - dalla infelicità considera dolore personale diventa mezzo di conoscenza
+    - e nella sua infelicità non preclude che gli altri possano essere felice
+      - quindi solo personale non universale
+  - **pessimismo storico**
+    - nel rapporto tra uomo e natura, gli antichi fossero più felici
+    - epoche storiche:
+      - **età primitiva** è lo strato di **perfezione** e **innocienza** perché anteriore alla civiltà
+      - antichità classica: sintesi equilibrata tra natura e ragione
+      - medioevo: periodo cupo in cui non c'è niente
+        - influenzato dal concetto vecchio
+      - **età moderna**: predominio assoluto della **ragione**
+        - rimpiangere età antica
+    - schema
+      - antico --> natura --> illusione
+      - moderno --> ragione --> vero
+    - scopre **strumenti** per essere meno infelici
+      - gli usano gli antichi e i bambini
+        - bambini usano l'imperfetto
+          - innocienti e perfetti per questo
+      - **immaginazione/illusione**
+      - **rimembranza/ricordo**
+      - attenzione!
+        - strumenti per **alleviare lo stato di infelicità**
+          - non può raggiungere la felicità
+
+
+### Infinito (pag 485)
+
+- uno dei piccoli idilli
+- siepe non gli fa vedere l'orizzonte
+- Ma sedendo e mirando interminati
+  - sinalefe: ..endo e, ..ando in..
+    - tante vocali
+  - tranquillità
+- enjambemant
+- si ferma in spaura
+  - accento sulla vocale più cupa
+  - a metà
+  - perdersi nell'immaginazione
+    - inizia con la vista
+  - si scontra con l'io
+    - perde un battito
+- ora parte uditiva
+  - altra parte indefinita
+    - stavolta il tempo (prima lo spazio)
+- il vento
+  - dura poco
+    - sovvien l'eterno
+    - morte stagioni
+      - tutto passa, tutto è vano
+- back to astolfo sulla luna
+  - quando va nella luna vede tutto quello che non c'è sulla terra
+    - anche il senno di orlando
+  - grandi periodi rappresentati in vescicole
+    - grandi epoche finiranno nell'indefinito/vago
+- Cosi tra questa immensità
+  - tra lo spazione e nel tempo, si abbandona in questa immensità
+    - naufragar nel mare
+  - abbandona il vero
+    - dimensione di salvezza
+  - --> diventa dolce
+- l'infinito si rileva fonte inesauribile di piacere
+  - grazie all'innesco sensoriale
+    - causato da un limite
+- tensione tra abbandono e controllo
+  - si spaura
+  - ma si abbandona di nuovo
+  - utilizzo di questo e quello
+    - questa siepe/quella siepe
+      abbandono e controlo
+- gioco metrico dell'abbandono con gli enjambemant
+  - verso non finisce la frase e quindi non finisce più
+  - si spezza soltanto in mezzo
+
+
+## I canti
+
+- redazioni in più anni
+  - iter più lungo
+- tre pubblicazioni (1831-35-45)
+- composizione parte a fine 1810'
+- canti sono il titolo
+  - rimanda ad una pluralità
+    - ripartizioni interne rispetto a temi diversi
+  - attraverso cui è possibile ricollegare i temi
+    - temi presenti in qualunque sezione dei canti
+  - biografia del suo pensiero
+- 1
+- parte con le canzoni civili
+  - struttura petrarchesca
+  - funzione della poesia di sollecitare il valore eroico ed esaltare i valori etico civili
+    - fallimentare
+    - ma nella sua epoca non c'è questa esaltazione
+      - colpa della ragione
+- confronto con l'età antica
+  - pessimismo storico
+- 2
+- due canzoni sul suicidio
+  - personaggi dal mondo antico
+    - Bruto
+      - antica roma
+      - ucciso Cesare
+        - non vuole che Roma cada di nuovo in una monarchia/impero
+        - rischio di cadere nelle mani del nemico
+        - ribellione nel mancato riconoscimento del gesto da parte degli dei
+    - Saffo poetessa greca
+      - (fondato scuola educazione delle fanciulle alla buona cultura/usi/amore)
+        - aggettivo lesbico: da isola Lesba
+      - suicidata pk un giovane l'ha rifiutata
+        - ribellione nel non avere ricevuto l'amore che l'avrebbe portata alla felicità
+  - nell'atto estremo
+    - attinto dal mondo antico
+    - gesto di protesta/ribellione
+      - contro indifferenza della natura
+- 3
+- gli Idilli
+  - prima divisi dalla critica in
+    - piccoli idilli/grandi idilli
+  - ora
+    - idilli e canti pisano/recanatesi
+  - idiglio --> idilliaco
+    - qualcosa di bello/tranquillo
+  - deriva dalla poesia greca
+    - idilli brevi componimenti
+    - a tema pastorale/bucolico (campagna/paesaggio campestre)
+      - stereotipato
+  - in Leopardi non è cosi
+    - Infinito: visione importante della natura
+      - ma natura non di sfondo, ma innesca la riflessione
+      - es siepe e vento
+        - epoche antiche/vanità del tutto
+    - natura fonte (attraverso i sensi) delle riflessioni filosofiche
+  - differenza tra le due parti
+    - piccoli idilli
+      - disperazione furibonda
+      - es
+        - infinito, la sera del dì di festa
+    - grandi idilli
+      - disperazione rassegnata
+      - es
+        - a silvia, il sabato del villaggio, canto notturno di un pastore errante dell'asia
+    - ma rimane un pensiero dialogante
+      - ma cmq arriva al punto che la natura è indifferente
+        - rassegnazione
+      - memoria non perforza salvarsi dal presente, ma la presa di coscienza di quello che ormai è andato e perduto e non sarà più
+        - la giovinezza
+          - es A Silvia
+            - morta giovane [..]
+- 4
+- ciclo di aspasia (non lo faremo)
+  - si innamora di una contessa
+    - ma lei cede al corteggiamento del suo amico Ranieri
+- 5
+- canti finali
+  - la ginestra
+    - pensiero maturazione ulteriore
+    - quasi messaggio di speranza/pedagogico
+
+## La sera del dì di festa (pag 492)
+
+- piccoli idilli
+- natura benigna
+  - ha dato dei strumenti
+  - ha creato l'uomo con il desiderio ma non con la possibilità di raggiungerlo
+- la sera della domenica
+- testo:
+  - passaggio tranquillo
+    - inizio: descrizione notte
+      - enjambements
+  - passaggio doloroso:
+    - versi spezzati
+    - a te la speme...
+    - Or dov' il suono dei quiei popoli antichi?
+    - disperazione furibonda
+  - esatta metà
+    - Mi getto, e grido e fremo
+    - come l'Infinito
+      - spaura
+    - richiamo del passaggio forte
+      - ora qui c'è qualcuno gli è molto indifferente
+        - la donna
+      - seconda metà storia del tempo
+        - ricordo
+  - indifferenza O donna mia
+    - donna inconsapevole
+      - segue gli uomini e non lui
+      - indifferenza non sprezzante
+    - non la natura
+      - anche pk c'è all'interno del testo
+- temi:
+  - velocità scorrere il tempo e vanità del tutto
+  - rimembranza corto circuito tra passato e presente
+    - ma che salvifica
+  - indifferenza
+    - natura
+  - atteggiamento titanico
+    - andavano contro gli dei sapendo di perdere
+    - es mi getto e grido
+
+## Operette morali
+
+- testi in prosa
+- molti sono dialoghi
+  - tra reali/storici/immaginari
+    - storici estrapolati dal contesto
+- stile totalmente diverso
+  - dissacrante
+    - non sacro: contro i dogmi..
+- sintesi tra produzione filosofica e produzione letterale
+  - durante silenzio poetico
+
+### Dialogo della natura e di un islandese
+
+- ha scritto l'opera sollecitato dalla natura di un articolo sull'eruzione di un vulcano islandese
+  - riflessione su climi particolarmente inospitali nel mondo
+- e quindi questo islandese alla ricerca di un posto che lo rende felice
+- testo:
+  - riga 25:
+    - ginestra
+  - prima fase fino a 31
+    - ha visto che gli uomini fanno guerre --> sofferenze
+      - quindi ha pensato di tenersi lontano da questo
+  - secondo passaggio 45
+    - problema relazione con gli uomini --> allontanarsi
+  - terzo passaggio 58
+    - problema il clima lo impedivano di stare sereno
+  - 65-75
+    - colpa dell'uomo nel non essere rimasto nel suo ambiente ideale
+      - come le piante e gli animali
+  - ma l'uomo patisce ogni ambiente
+  - 94-102
+    - hai dato il desiderio del piacere, ma non ci hai dato gli strumenti per raggiungerlo
+  - 102-106
+    - limite biologico
+      - peggiore nel tempo
+  - 106-111
+    - ci ammaliamo, ma almeno qualche momento in cui stiamo veramente bene (invece no)
+  - 122-130
+    - ancora peggio: non smette mai di calzarci
+    - perde la speranza
+  - 130-136
+    - riflessioni sulle età dell'uomo
+      - fiorire (1/3): giovinezza
+      - pochi istanti quando prendi coscienza
+      - il resto a vivere con la condizione (rassegnazione)
+  - 137 torna a parlare la natura
+    - ma da quando la natura è per l'uomo?
+      - contro antropocentrismo
+    - visione meccanicistica
+      - natura fatta da meccanismi/leggi per funzionare
+  - 147 ritorna a parlare l'islandese
+    - ma ho chiesto io essere generato per poi vivere in queste condizioni?
+  - 168 natura
+    - universo è un perpetuo ciclo
+    - è una catena
+      - se toglie l'uomo, altera il ciclo
+    - è tutto bilanciato
+  - 173 islandese
+    - **ma quindi se è un ciclo, che senso ha vivere?**
+      - **domanda senza risposta**
+  - 179 narratore
+    - arrivano i leoni e mangiano l'islandese
+    - il suo corpo coperto da un mausoleo di sabbia e si distrusse con il tempo e i suoi pezzi, trovati da dei ricercatori, vennero messi in un museo
+      - mausoleo monito di chi si è posto la domanda ma non ha avuto la risposta
