@@ -58,3 +58,30 @@
     - diverse direzioni
   - backbone/albero
   - maglia parziale
+- comunicazione in fasi
+  - apertura comunicazione
+  - mantenimento comunicazione
+  - chiusura
+- diagrammi di seguenza
+  - rappr domande e risposte con frecce inclinate (non per forza)
+    - per indicare il tempo di ricezione mess
+- **modello architetturale ISO/OSI**
+  - come poter costruire un modello per inviare le informazioni
+  - standard per condividere info tra sistemi diversi
+  - **mezzo fisico** e **sottorete di comunicazione**
+    - tra host A e B
+      - invio mess solo tramite mezzo fisico
+        - ma gestito prima e dopo dalla sottorete di comunicazione
+    - **protocolli di elaborazione di basso livello**
+      - **trasporto dei dati**
+      - fisico --> linea --> rete --> trasporto
+    - **protocolli di elaborazione di alto livello**
+      - **gestione dei dati**
+      - sessione --> presentazione --> applicazione
+  - caratteristiche layer
+    - **simmetria**
+      - bilanciare carichi elaborativi tra i vari sistemi
+    - **struttura gerarchica**
+      - ogni livello ha il suo compito
+    - **modularità**
+      - possibilità di cambiare la parte implementativa senza cambiare l'interazione con l'esterno (interfaccia)

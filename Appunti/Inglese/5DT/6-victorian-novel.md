@@ -1,0 +1,74 @@
+# English literature
+## Victorian novel
+
+- period
+  - early
+  - mid
+  - late
+- Novel of manners
+  - thackeray
+- Humanitarian novel
+  - dickens
+    - criticise utilitariarism and middle class
+      - not straight critic, but irony/nickname
+    - exploitation of children in factories
+      - fairy tail: positive and negative characters
+        - positive wins
+      - childrens more sensible than adults
+- novel of formation
+  - from child to adult
+  - charlotte bronte and dickens
+    - but different
+      - dickens: early
+      - charlotte: mid
+        - not cronologically
+          - flashforwards and flashbacks
+        - narrator is internal and protagonist
+          - speaks in first person
+        - some autobiograph reference
+        - characters are well defined != stereotipes
+          - description of personality
+        - innovative
+- thomas hardy
+  - outcast
+  - not belong to a social class
+  - deals with womens, ...
+  - social darwinism
+  - pessimist
+    - some compare him to leopardi
+  - greak tragedy
+  - comparison with verga
+- women writers
+  - charlotte
+  - eliot
+  - indipendent womens
+- stevenson and oscar wilde
+  - hypocrisi of middle class
+- aestheticism movement (wilde)
+  - just english
+  - "art for art sake"
+    - rappresent beauty
+      - and just contemplate it
+  - against utilitarianism
+  - narrator shouldn't change opinion of the reader
+    - mirror the reader
+      - art comunicate with all people and in different manners
+  - immortality 
+- importance of earnest (wilde)
+  - double attitude of victorian middle class
+    - apparently respectable
+    - corn of values..
+- doctor jackie and mister hide (stevenson)
+  - doctor jakie: good side
+  - mister hide: evil part
+  - repressive attitude of middle class
+  - pun (gioco di parole)
+  - in the end he commit suicide
+    - we became mister hide without the potion
+- lewis carroll
+  - through fairy tail critisize amministration of england
+  - caleidoscopic rappresentaion of reality (it can change)
+- detective stories (stevenson)
+  - not center narrator
+  - true just in the end of the stories
+  - this technique was used also by mary shelley (frankestein)

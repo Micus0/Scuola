@@ -1,4 +1,5 @@
 # Filosofia
+## Banalità del male
 
 - canzone marrakesh **la banalità del male**
   - doveva finire dentro una serie
@@ -40,4 +41,7 @@
 - banalità del male è stupidità
   - manca il senso/consapevolezza
     - **manca l'empatia/umanità**
+      - empatia: capacità di mettersi nei panni degli altri
       - es scena assenza empatia nel film processo di norimberga
+- rendere banale il male
+  - non serve essere colui che si sporca le mani
