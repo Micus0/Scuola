@@ -2,7 +2,7 @@
 ## Hannah Arendt
 ### Introduzione
 
-- nel gruppo di filosofe che partoriscono sapienza
+- nel gruppo di filosofi che partoriscono sapienza
 - '900 diverse esperienze significative al femminile
   - in ambito filosofico stanno sempre aumentando
 - le più importanti:
@@ -23,7 +23,7 @@
 
 - nasce ad Hannover
 - famiglia ebrea
-- politologa/filosoa/storica
+- politologa/filosofa/storica
 - cresce a Konigsberg (kant)
 - allieva di **Heidegger**
 - laurea nel 1929 (wallstreet nel mentre)
@@ -75,3 +75,78 @@
   - esistenza che non ha un fine
     - visione alla negazione al senso dell'esistenza
   - --> la vita ha senso?
+
+## Pensiero
+
+- male assoluto in fondo banale
+  - nasce dall'assenza di empatia
+- --> riconoscere che l'altro è sacro
+  - inviolabile
+  - relazione più importante dell'orgoglio stesso
+- come si perde questo?
+- l'origine del totalitarismo si afferma in vari punti:
+- avvento della **società di massa** (del pieno)
+  - tutti i luoghi sono pieni di persone
+    - che svolgono una determinata funzione
+  - tende a massificare gli individui
+    - ogni individuo perde la propria identità
+    - prende l'identità della massa
+      - es folla allo stadio
+      - es film onda
+  - --> **individui scoscientizzati**
+  - --> **assumere coscienza collettiva**
+    - etichetta che si mette perché la coscienza individuale diventa debole
+- **antisemitismo latente**
+  - identità collettiva deve distinguersi
+    - un altro da sé
+      - deve essere riconosciuto come un nemico
+        - perché diverso da me
+    - --> per poter unire le forze ed essere coesa
+  - nel '900 sono gli ebrei
+    - basta poco per riattivare il fuoco
+    - storia dell'europa antisemita
+      - deicidi
+      - mantenuto identità nonostante fossero dispersi
+      - colti e intraprendenti
+      - affari non ben visti
+        - banchieri ed usurai
+      - perfettamente integrati
+        - posti importanti della società
+      - --> tante dispersioni
+  - riconosce una nuova effervescenza
+    - politiche espansive verso colonie che servivano all'industrializzazione
+    - guerre scoppiano grazie al caso Dreifuss
+      - film ufficiale la spia
+      - uomo innociente ma accusato di spionaggio contro i tedeschi
+        - ma in quanto ebreo, persona più adatta per assumere la colpa
+  - --> ebreo riconosciuto come il capro espiatorio
+    - propaganda porta a dire che gli ebrei sono comunisti e banchieri
+      - si pensa che siano autori di un complotto
+        - portare il popolo ebreo il più importante nel mondo
+          - secondo loro popolo di dio
+      - --> ad est comunismo
+        - marx era di origine ebrea
+        - lo zar fa pubblicare un documento
+          - protocolli dei savi di sion
+            - insieme di verbali/riunioni dei rabbini delle comunità ebraiche in cui si decide l'avvento del comunismo/rivoluzione
+      - --> ovest banchieri
+        - si lavora sia sui poveri che su i ricchi
+        - in USA e UK
+          - ai vertici delle banche e gestiscono l'economia
+    - situazione in Germania
+      - si muore di fame
+      - inflazione altissima
+        - i soldi non valevano niente
+        - pure i ricchi impoveriti
+      - crolla pure la borsa di wallstreet
+      - --> facile dire che gli ebrei hanno la colpa
+- **la politica imperialista degli stati**
+  - ha bisogno di quelle masse
+    - masse banali e stupide
+      - individui senza conscienza in cui è facile intervenire sulla coscienza
+    - facilmente manipolabili
+      - linguaggio semplice, chiaro ed effetto
+        - bisogna dire quello che il popolo vuole sentirsi dire
+        - concreti e trovare soluzioni a qualsiasi costo
+    - dare impasto un nemico da combattere
+- "molto del male viene compiuto da persone che non si decidono mai ad essere buone o cattive"

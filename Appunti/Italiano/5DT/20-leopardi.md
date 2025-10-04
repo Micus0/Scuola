@@ -437,3 +437,272 @@
     - arrivano i leoni e mangiano l'islandese
     - il suo corpo coperto da un mausoleo di sabbia e si distrusse con il tempo e i suoi pezzi, trovati da dei ricercatori, vennero messi in un museo
       - mausoleo monito di chi si è posto la domanda ma non ha avuto la risposta
+
+
+### Dialogo di un folletto e di uno gnomo (pag 569)
+
+- da operette morali
+  - testi in prosa con dialoghi
+  - in silenzio poetico
+    - riflessione
+      - sintesti filosofia/letteratura
+- **critica all'antropocentrismo**
+  - visione teocentrica medievale
+    - uomo viandante/pellegrino che si avvicina a dio
+    - in dante
+      - libero arbitrio
+  - successivamente antropocentrismo --> uomo padrone del suo destino
+  - es papa Francesco
+    - laudato si (san francesco)
+      - fratello sole, sorella luna (uomo non comanda)
+  - es nel covid si riprende il suo posto
+- dialogo precedente
+  - rapporto uomo natura
+- a l'uomo essenziale per la natura
+  - non è vero
+- presente lo **specismo**
+  - alcune specie superiori alle altre
+  - es "chi non sa che il mondo è fatto per gli gnomi?"
+
+
+## Grandi idilli/canti Pisano-Recanatesi
+
+- caduta delle illusioni e acquisizione consapevolezza del vero
+- tra "arido vero" e "caro immaginar"
+  - differenza
+    - immaginar: tipico bambini, primitivi
+    - memoria: bambini, chi ha vissuto bei periodi e li va a ricordare
+  - arido vero
+    - non porta alla crescita delle piante != primavera
+    - il vero spogliato dai fiori che possono dare ricordo ed immaginazion
+    - è il vero che è brutto
+- figure più assottigliate/vaniscenti
+  - accompagnate dalla presenza del dolore
+    - donzella: rose e fascio d'erba
+  - anche se dimensione lieta e festosa
+    - ma consapevolezza dell'arido vero
+- manca la disperazione furibonda --> **disperazione rassegnata**
+  - il vero è brutto
+
+
+### A Silvia (pag 501)
+
+- 1828
+- primo dei canti della memoria
+- si presenta come testo della rinascita poetica dopo silenzio
+- silvia: il motivo che genera una riflessione sul ricordo, giovinezza e speranze
+  - != dedicata solamente per la ragazza che vedeva nel balcone
+  - verso la fine non si riesce a capire se fa riferimento a lei o altro
+- Silvia, rimembri ancora (primo verso)
+- primo paragrafo
+  - pensare sorridento
+  - enjambemant
+  - silvia/salivi: anagramma
+    - stesse parole ma usate diversamente
+  - silvia filtro letterario
+    - nome di opera del Tasso
+      - no teresa fattorini (nome reale)
+  - occhi fuggitivi
+    - avidità giovanile --> non stanno mai fermi
+    - occhi importanti
+      - filtro
+  - lieta e pensosa
+    - elemento doppio con arido vero
+- secondo paragrafo
+  - nostalgia dolce
+  - perpetuo canto
+    - circe che canta: filtro letterario
+    - vago indefinito come suono
+  - maggio odoroso: primavera
+  - immagine lieta di una 20enne
+    - lui dentro la biblioteca che vede all'esterno
+      - filtro: sta guardando da un'altra prospettiva
+      - finestra che lo separa
+- terzo paragrafo
+  - memoria, dolcezza
+  - sua memoria
+    - studi leggiadri e sudate carte
+      - figura di posizione: chiasmo (nome-aggettivo/aggettivo-nome)
+    - sua giovinezza passata a studiare
+  - costante dimensione: di qua e di la
+  - vie dorate, mare, monte
+    - atmosfera del vago indefinito
+  - a lessico più aspro
+    - ultimi due versi
+    - ineffabilità
+      - non riuscire a dire a parole qualcosa
+      - "lingua mortal non dice quel ch'io sentiva in seno"
+- quarto paragrafo
+  - malinconia
+  - leopardi e silvia (aristocratico e popolana)
+    - accostati alla stessa vita
+      - ma lei muore *
+  - verbi al presente
+    - "un affetto mi preme"
+  - *si accosta all'arido vero
+- quinto paragrafo
+  - perivi o tenerella
+    - imperfetto: distacco --> più dolce
+  - lui prosegue nell'autunno, ma lei non vede le stagione
+    - "non vedevi il fior degli anni tuoi"
+  - cose che non ha potuto vivere
+- sesto paragrafo
+  - disperazione/rassegnazione
+  - sintassi spezzata, ritmo spezzato, domande
+  - "mia lacrimata speranza"
+    - silvia ma anche immaginazione
+  - emozioni più dure
+  - le opere, i fatti, incontri amorosi che noi abbiamo pensato?
+    - approdo tragico dell'arido vero
+    - lessico molto determinato, connotato, aspro
+  - silvia coincide con ricordo/speranza
+- silvia connottata da cenni di tratti fisici
+  - molto assottigliate: stilnovo, petrarca
+- passato ricordo: indefinito, imperfetto, tempi lontano
+- presente drammaticità: determinato, presente
+  - perivi tenerella-cadesti
+    - 1: vago indefinito: carico immaginar
+    - 2: approdo tragico al vero: arido vero
+- aggettivo dolce:
+  - dolce lode/speranza mia dolce: chiasmo
+    - accompagna lei nell'immaginar cosa sarebbe stato al presente, dove è più duro
+    - l'inversione dal passato al presente
+      - cattura l'attenzione nel seguire il discorso fino all'approdo
+- sintassi inarcata
+  - da "Ahi.." il verso è più breve, spezzato, inarcato
+    - lettura non distesa
+    - più tensione
+
+### Canto notturno del pastore errante dell'asia
+
+- si ispira ad un articolo
+  - usanza poetica dei pastori trascorre notti su una pietra e dedicare versi tristi alla luna
+  - come per il vulcano
+- apostrofe
+  - quando ci si riferisce a qualcuno
+- rivolge delle domande alla luna
+- fascio sulle spalle
+  - peso della vita/donzelletta fiori e fascio d'erba
+- per montagna, per sassi...
+  - enumerazione azioni
+  - affranta
+  - tante azioni
+- arriva alla meta di questo andar affannoso
+  - abisso orrido...precipitando
+  - arriva alla morte
+  - determinato
+  - arriva all'arido vero
+- nasce l'uomo...
+  - il bambino piange e i genitori passano la vita a consolarlo
+- allora perché dare al sole
+  - se la vita è sventura
+  - luna intatta --> indiffenza dello stato
+- l'uomo cos'è di fronte a tutto?
+  - niente
+- giovinetta immortal (luna) sai tutto
+- qualcuno forse riuscirà a trovare godimento, ma per me è soltanto dolore
+- o greggia mia che posi
+  - invidia per l'animale
+    - non prova l'angoscia esistenziale
+- forse se io avessi le ali...
+  - se fossi in alto come la luna o in basso come la greggia
+    - --> potrei stare meglio
+      - condizione dell'uomo
+- o forse..
+  - forse è per qualsiasi essere
+  - quando nasci --> parte la tua condanna
+    - sia covile che culla
+    - "è funesto.."
+- approdo al pessimismo assoluto
+  - vede il primitivo come portatore del dolore
+    - rappresentazione bambini
+- sull'infinito
+  - non tanto dell'immaginazione: naufragar nel mare
+    - infinito che non percepisce razionalmente ma come mezzo per perdersi nell'immaginazione
+  - ma portatore della ragione: io cosa sono di fronte a tutto questo?
+    - infinito razionalmente sopra di noi
+    - prendere atto che l'uomo è un granello di sabbia
+
+
+---
+
+- leopardi contro l'ottimismo progressista
+  - sulla scia dell'illuminismo
+  - il progresso può portare al miglioramento
+    - ed usa come strumento la ragione
+  - lo critica profondamente
+
+---
+
+
+### La ginestra (pag 534)
+
+- abbandona napoli dal colera
+- alle falde del vesuvio
+  - vede un erruzione
+- ginestra
+  - ambiente intorno arido/brullo
+    - unico fiore che cresce sulle lande di terra coperte di lava
+  - simbolo della rivoluzione etica
+    - con un messaggo costruttivo
+- nb: non si fa tutta
+- inizia con citazione testo sacro in greco
+  - lo capovolge
+    - tenebre: oscurantismo che non ti permette di vedere
+    - la luce: consapevolezza reale della condizione dell'uomo
+    - contrario dell'illuminismo
+      - non fa vera luce sul vivere felici
+- testo
+- luogo desolato anti idillico
+  - lo ha reso la natura
+  - 10-20
+    - grigio
+- prima c'era la grandissima civiltà dei romani (progresso antico)
+  - 25-35
+    - colorato
+    - perché ricorda il passato
+      - ma non dimensione della memoria
+  - basta niente per distruggere tutto
+  - inutile credere nel progresso
+- da 37
+  - venga a vedere...
+    - antifrastico
+      - si dice qualcosa con enfasi ma si dice il contrario
+        - che belli questi temi!
+- **le magnifiche sorti progressive**
+  - citazione di chi ci credeva veramente
+  - vieni tu a vedere quello che decanti del progresso
+- salto fino a Uom di povero stato...
+  - debole e povero
+    - accettarlo
+      - --> onesto intellettualmente
+      - nobile d'animo
+    - non accettarlo
+      - credere di essere ricco e povero
+        - pensare di essere felice
+      - --> non è cosi
+- magnanimo animale
+  - sta per essere umano
+  - crede che invece è stolto
+    - sono nato per essere creato felice
+- e fetido orgoglio
+  - basta un terremoto che distrugga tutto senza lasciare niente
+- nobil natura è
+  - se sei onesto, devi fare questo: accettare il destino
+  - inutile millantare cose che non sono
+  - incolpa non l'altro uomo, ma chi dà veramente le sofferenze:
+- 125 madre è di parto e di voler matrigna
+  - natura che ti ha generato ma non ti ama
+- costei è nemica fino a guerra comune
+  - chiama la natura nemica
+  - già nell'antichità gli esseri umani si sia congiunti
+    - prime società/civiltà
+  - --> **per contrastare la vera nemica: la natura**
+    - gli **uomini devono tutti unirsi** in questa guerra comune
+- 135-40
+  - se noi siamo un esercito in guerra ci facciamo guerra tra di noi: perdiamo la guerra
+  - --> smettere di fare la guerra tra di noi
+  - --> unirsi in social catena
+- **messaggio potentissimo**
+  - nei nostri tempi si fa passare nemico chiunque
+  - bomba di umanità

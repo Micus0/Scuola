@@ -1,6 +1,8 @@
 # Informatica
 ## Reti
 
+<!-- 1 perché mancano appunti su argomenti precedenti della 4dt -->
+
 - connettere dispositivi per scambiarsi informazioni
 - **commutazione**
   - collegare due dispositivi attraverso un collegamento virtuale
@@ -85,3 +87,45 @@
       - ogni livello ha il suo compito
     - **modularità**
       - possibilità di cambiare la parte implementativa senza cambiare l'interazione con l'esterno (interfaccia)
+- **imbustamento multiplo in OSI**
+  - si parte dai dati (**payload**):
+    - applicazione: ah + dati
+      - Application **header + dati**
+        - metadati: informazioni aggiuntive
+      - la loro **somma** diventa il **nuovo payload**
+        - il quale diventa sempre più grande
+          - si aggiungono gli altri header
+    - fino a
+      - data link: si aggiunge anche un data link **trailer**
+        - coda terminale
+      - **fisico**: **tutto** in **bit**
+        - qualcosina si aggiunge cmq all'inizio e alla fine
+          - per sincronizzare emittente e ricevente
+- vari nodi per instradare da parte del router
+  - arrivare fino al livello della rete
+  - funzionamento:
+    - da applicazione a fisico
+    - **nodo di instradamento**
+      - poi fisico a rete
+        - capire indirizzo ip destinatario
+      - da rete a fisico
+    - da fisico ad applicazione
+  - si può passare per più nodi
+- **strati modello iso/osi**
+  - lv1: fisico
+  - lv2: collegamento dati
+  - lv3: rete
+  - lv4: trasporto
+    - protocollo TCP e UDP
+  - lv5: sessione
+    - stabilire, mantenere e chiudere comunicazione
+  - lv6: presentazione
+    - sintassi messaggi --> tradurli in linguaggio comune
+    - cifratura e compressione
+      - protocolli di sicurezza
+- per raggiungere un dispositivo:
+  - server o router: ip pubblico
+  - lan: non ne hanno bisogno
+    - quindi gestito attraverso tabelle
+      - informazioni aggiuntive per distinguire i dispositivi all'interno della rete locale
+    - newtwork address translation (NAT)
