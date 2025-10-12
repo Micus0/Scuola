@@ -1,0 +1,97 @@
+# English literature
+## Charles Dickens
+### Intro
+
+- born in Portsmouth in 1812
+- unhappy childhood
+- father imprisoned for debt --> went work in a factory
+  - Boot blanking warehouse
+  - as a child for helping family
+- irony language
+  - but harsh critic
+- before becoming a writer
+  - court reporter (stenografo: segni per trascrivere frasi e verbalizzare velocemente)
+- writing
+  - using stereotypes
+    - for describing middle class
+    - difference between bad and good characters
+      - with bad: ridicoulize them
+        - using pam (word/expression with two meanings) as pseudonims
+  - inspired from bible and fairy tails
+  - not tragedy in the final of his stories: spawn/appear a character that solve the situation
+  - buildungromane
+    - formation romance
+    - narrator: external and omniscente and provides comments (obtrusive)
+    - didattic aim
+  - serialized novels
+    - appeared in installments (episods)
+    - he worked as a journalist
+      - part of the romance in journals
+    - --> direct contanct with the reader
+  - exploitation of children
+  - some biography aspect
+  - children more sensible/wise (di buon senso)
+  - protagonist
+    - some aspect of social darwinism (you heredity the social class) --> predestination
+      - es Pip (great expetation)
+        - he thought that was part of higher bourgousy
+          - but he spent all money and he heredity from a prisoner
+    - metamorphosis
+- scientific method
+  - es a character mentally disturb (miss Haveshon)
+    - he visited mental hospital
+      - analised all cases
+
+## Oliver Twist
+
+- most popular novel
+- a poor boy
+  - work in a factory
+- escaped in london
+- he bumps on a gang
+  - the boss: faggin
+  - pickpocketing
+- was arrested
+- a gentlmen (borlow) decided to adopt him
+- then was kidnapped by the gang
+  - he forced to steel in a house
+- half brother wants him killed or arrested
+  - step brother != half brother
+    - step: son of a parent by familiary union
+    - half: son of a parent that is also your parent
+  - he wants his ineritance
+    - descovery that he's from a welthy family
+- but gets arrested and dodger (member of a geng)
+  - he died handcapping him self by error
+- themes
+  - child labour
+  - baby gangs
+- text: Olive wants some more (pag 41)
+  - children were starving
+    - size of a spoon (it was their lunch)
+    - polish the bowl
+    - staring on the copper
+      - with eager eyes
+      - want more food
+    - a lot of kid died on starvation
+      - too much work for the available food
+  - 2 part (from 20)
+    - stands in front of the master asking food
+    - description of the master
+      - fat and healthy man
+    - pale and astonished for the request
+      - what! (with what courage you made this request!)
+    - threated as a little rebel/criminal
+    - --> beats him
+      - he run from this
+    - start shouting to him
+  - Horror was depicted on every countenance (volto)
+    - irony
+  - from film
+    - depth of field
+      - distance from master
+      - number of childrens
+    - light in the children's dining room: dark
+    - dining room of the board: bright
+      - candels
+    - difference in cloths, food and body fat

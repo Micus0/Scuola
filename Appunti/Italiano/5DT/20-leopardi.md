@@ -699,10 +699,85 @@
     - prime società/civiltà
   - --> **per contrastare la vera nemica: la natura**
     - gli **uomini devono tutti unirsi** in questa guerra comune
-- 135-40
+- parole chiavi
+  - umana compagnia, confederati, guerra comune
+- 135-50
   - se noi siamo un esercito in guerra ci facciamo guerra tra di noi: perdiamo la guerra
   - --> smettere di fare la guerra tra di noi
   - --> unirsi in social catena
+  - --> si che si arriva alla consapevolezza vera
+  - contro sorti progressive
+    - invece deve essere illuminato da questa consapevolezza
 - **messaggio potentissimo**
   - nei nostri tempi si fa passare nemico chiunque
   - bomba di umanità
+  - uomo nasce infelice
+    - se fossimo in grado unirci, possiamo proteggerci e non peggiorare la situazione
+- da 158
+  - sintassi incarcata
+    - spazio senza confine
+    - si dilata
+- da 183
+  - di fronte a tutto questo cosa siamo?
+    - percezione infinito in cui l'uomo è nulla
+- da 190
+  - granel di sabbia
+  - quanto è piaciuto all'uomo di favoleggiare di essere al centro
+  - non so se il riso o la pietà prevale (non so se ridere o piangere)
+    - riso: amaro verso la stoltezza
+      - di come abbiamo pensato a questo
+    - pietà: provare dolore e sofferenza per questo
+- da 203
+  - picciol pomo (piccola mela)
+    - cade e schiaccia i dolci alberghi (casa di formiche)
+  - ricchezze adunate
+    - il formicaio tanto lavoro e fatica
+  - schiaccia, diserta e copre
+  - mela cade dall'utero
+    - natura come madre
+  - ceneri...
+    - descrizione eruzione vesuvio
+  - arena, cittadi..
+    - pompei ercolano
+  - onde
+    - ora nuove città sopra la grandiosa civiltà romana
+- da 231
+  - trattamento natura uguale anche per l'uomo
+    - se sembra che sia più frequente nelle formiche, vuol dire che ne sono di più
+      - statistico
+- 237-296 salto
+- da 298
+  - ginestra
+  - non ti piegherai perché sei codarda o per distruggerti
+  - ma ti trovi a vivere li
+    - e non si comporta come l'uomo
+  - e non ti opponi alla lava
+    - ma rifiorisci dopo
+  - uomo stessa cosa deve fare:
+    - **non opporsi alla condizione**
+    - **ma in social catena rifiorire ogni volta che la natura va contro di lui**
+  - ricreazione: meccanismo naturale
+    - es città sopra pompei
+
+---
+
+- contessa che si innamora
+  - ma ranieri vince lo scontro
+- Idillio: A se stesso
+  - stanco mio cor
+  - è deluso
+  - versi spezzati, suoni secchi
+    - singhiozzo di qualcuno che piange
+
+Giornale fiorentino con Ranieri (per andare contro tendenza)
+
+Premio miglior letterato
+- carlo botta vince
+  - ma tanto leopardi più importante
+
+Unirsi per battersi contro la natura
+- ranieri dice che è colpa del governo
+- altri colpa dei poveri
+- --> facile lasciarsi andare dall'odio
+
+Film ricostruzione di tutti i suoi scritti (opere e lettere)

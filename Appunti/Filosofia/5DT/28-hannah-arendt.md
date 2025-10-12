@@ -12,7 +12,7 @@
   - Luce Irigaray (1930)
 - nucleo essenziale pensiero:
   - **gli insignificanti occhi del male**
-    - "molto del male viene compiuto da persone che non si decidono mai ad essere buone o cattive"
+    - **"molto del male viene compiuto da persone che non si decidono mai ad essere buone o cattive"**
       - male dei indifferenti/dei grigi/tiepidi/ignavi
         - vomitati da dio e non trovano posto neanche nell'inferno
           - pena del contrapasso (Dante)
@@ -33,6 +33,25 @@
 - Apolide '37-'51
   - non hanno la cittadinanza --> niente passaporto
 - 1951 diventa statunitense
+- scrive le origini del totalitarismo *1
+  - mette in atto un approccio genetico al problema
+    - ricerca cause alle origini
+    - totalitarismo non ce n'erano stati prima (novità originale)
+  - "esaminare e portare coscientemente il fardello che il nostro tempo ci ha posto sulle spalle"
+    - noi siamo qui e ora per morire, ma qui e ora come viviamo?
+      - al tempo il male assoluto --> dice che è "solo" banale *2
+- 1958 altra opera: **vita activa**
+  - approfondisce discorso
+  - **scomparsa della dimensione politica dell'uomo**
+- 11 maggio 1960 arresto Adolf Eichmann in Israele
+  - dal processo di Norimberga c'erano ancora dei sospesi
+    - molti fuggirono anche in Argentina
+  - militare e funzionario tedesco e uno dei maggiori responsaibli dello sterminio
+- --> processo Eichmann
+  - lui non sembra un mostro (persona normale)
+  - Hannah Arendt viene mandata ad assistere al processo
+
+
 
 ## Eredità di Heidegger
 
@@ -70,11 +89,27 @@
   - l'essere è esser-ci (Dasein)
     - è un essere collocato in una situazione, in un mondo, in un contesto in cui ci si trova gettati
   - essere qui e ora
-- gettatezza --> trovarsi ad essere
+- **gettatezza** --> trovarsi ad essere
   - senza sapere il come e il perché sono stato messo al mondo
   - esistenza che non ha un fine
     - visione alla negazione al senso dell'esistenza
   - --> la vita ha senso?
+    - fine (scopo) della nostra esistenza --> fine della nostra esistenza (morte)
+      - nati per morire
+        - opera più importante: essere e tempo
+  - comporta una scelta
+    - vita inautentica
+      - si impersonale alla vita
+        - vita di chi non si preoccupa di vivere autenticamente
+          - cercare di riconoscere cos'è veramente la vita
+            - cioè vita per morire
+            - si affida al giudizio altrui, criteri degli altri, mode e si accontenta
+      - --> **deiezione**
+        - caduta dell'essere e dell'uomo al livello delle cose del mondo
+    - vita autentica
+      - si personale alla vita
+        - si rende conto e accetta che il suo essere è per la morte *1
+
 
 ## Pensiero
 
@@ -150,3 +185,43 @@
         - concreti e trovare soluzioni a qualsiasi costo
     - dare impasto un nemico da combattere
 - "molto del male viene compiuto da persone che non si decidono mai ad essere buone o cattive"
+- --> trasformazione della natura umana *2
+  - **attentato ontologico all'umanità dell'uomo**
+    - togli libertà e il suo essere
+      - per arrivare a cosi tanto tu non puoi pensare
+        - scoscientizzazione massima --> totale mancanza di empatia
+          - male giustificato sia per il carnefice che per la vittima
+    - --> reificazione dell'uomo
+      - ridurre l'uomo a cosa
+- "l'**inferno**, nel senso più letterale della parola, era costituito da quei tipi di campi perfezionati dai nazisti, in cui l'intera vita era sistematicamente organizzata per infliggere il **massimo tormento possibile"**
+- (parentesi) come fare nella posizione degli ufficiali
+  - primo levi non dà la colpa ai tedeschi, ma ai nazisti
+    - tutto quello che aveva subito la germania
+      - non è stato in grado di riconoscere un'alternativa
+        - pochi casi di resistenza
+- **vita activa**
+  - approfondisce discorso
+  - **scomparsa della dimensione politica dell'uomo**
+    - politica: si sente parte di una comunità più grande con coscienza
+      - cittadino ateniese partecipava ai dibattiti
+      - azione + discorso
+    - quando non c'è discorso/dibattito:
+    - --> fine politica = società del lavoro che ci trasforma in **impiegati**
+- processo Eichmann
+  - crimini? no azioni di stati
+    - campi di concentramento = amministrazione
+    - campi di sterminio = economia
+  - "quanto più lo si ascoltava, tanto più era evidente che la sua incapacità di esprimersi era strettamente legata a un'**incapacità di pensare**" (collegamento george orwell)
+- --> si apre discussione filosofica importante (si ritorna al discorso iniziale)
+  - Unde malum? (da dove il male)
+    - "se dio è buono e ha creato tutte le cose buone, da dove viene il Male?" (sant'Agostino)
+  - Hannah: via della banalità
+    - no indole maligha (radicata nell'anima)
+      - completa incosapevolezza di cosa significassero le proprie azioni
+      - --> non più io
+      - --> ingranaggio di una macchina
+  - chi è responsabile?
+    - quando tutt
+    - da primo levi (i sommersi e i salvati)
+      - "chi erano, di che stoffa erano fatti, i nostri "aguzzini" [..] Erano fatti della nostra stessa stoffa, essere esser umani medi, mediamente intellingenti, meidamente malvagi [..] non erano mostri: **erano stati educati male**"
+      - (primo levi si salva grazie ad essere chimico, sapeva un po' di tedesco)
