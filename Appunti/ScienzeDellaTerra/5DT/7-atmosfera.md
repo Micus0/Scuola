@@ -1,0 +1,83 @@
+# Scienze della terra
+## Atmosfera
+
+- ogni sistema (atmosfera) elemento di un più vasto sistema (ambiente)
+  - si colloca all'interno e interagisce con gli altri sistemi
+- **clima**: insieme condizioni atmosferiche (temp, umidità, press, venti..) **medie** per lunghi periodi su scala globale
+- caratteristiche principali
+  - involucro gassoso che circonda la terra
+  - non ha un'altezza precisa
+    - diventa sempre più rarefatta andando sempre più in alto
+- classificazione generale (criterio classificatore)
+  - bassa atmosfera: fino a 100km
+  - alta atmosfera: oltre i 100km
+
+Regioni atmosferiche
+- classificazione in base al profilo di temperatura
+  - troposfera: fino a 12km
+    - valore molto indicativo
+      - spessore varia da:
+        - latitudine
+        - stagione
+    - temp diminuisce
+      - abbastanza linearmente
+      - circa 6,5 °C/km
+    - sede del tempo meteorologico
+      - temp più bassa --> acqua condensa o si solidifica
+        - si formano le nuvole
+        - acqua non va oltre la troposfera
+    - contiene 80% massa atmosfera
+      - forza di gravità
+        - attrae di più le particelle
+    - tropopausa: temp rimane invariata
+  - stratosfera: 12-50km
+    - temp aumenta
+    - quasi assenza di turbolenza
+    - quasi assenza di scambi con la troposfera
+      - differenza densità
+    - 99,9 massa atmosferica sotto la stratosfera
+    - stratopausa
+  - mesosfera: 50-90km
+    - temp decresce
+    - gas rarefatti e ionizzati
+    - mesopausa
+  - termosfera: 90-500km
+    - non c'è tanta differenza tra termosfera e spazio
+      - poca massa
+        - riceve comunque tanto irraggiamento dal sole
+    - temp aumenta
+      - è elevata
+      - temp cinetica
+        - ci si iberna a quella quota
+    - non c'è tanta forza di gravità
+      - forza centrifuga
+  - altre regioni non facente parte della classificazione
+    - ionosfera: importante per i satelliti
+    - ozonosfera: strato di ozono che protegge dai raggi uv e da oggetti spaziali
+- profili verticali della temp (grafico)
+  - in base alle coordinate geografiche
+  - 10°S-10°N
+    - temp al suolo maggiori
+    - troposfera + alta --> temp minori
+      - più possibilità di creare perturbazioni
+    - --> più quantità di acqua
+  - verso i poli (70-84°N)
+    - temp al suolo inferiori
+    - troposfera + bassa --> temp maggiori
+      - meno possibilità di creare perturbazioni
+    - --> meno quantità di acqua
+  - 40-50°N (nostre coordinate)
+    - via di mezzo
+- composizione dell'atmosfera (principali elementi)
+  - azoto: 78%
+  - ossigeno: 21%
+- parte più bassa dell'atmosfera: strato limite
+  - gas risentono attrito suolo e particelle
+    - strato più denso
+  - fino ad un 1km
+  - strato più coinvolto all'inquinamento e moti turbolenti
+- radiazione e distanza terra-sole
+  - orbita terrestre non è circolare ma ellittica
+  - la terra è più vicina al sole a Gennaio e non a Luglio
+  - l'inclinazione dell'asse terrestre determina le stagioni
+- solstizio e tropici posizione (da vedere)
