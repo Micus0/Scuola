@@ -55,6 +55,22 @@
         - colloquiale, dialetto, gergo
     - figure retoriche
       - da sapere :(
+- incipit:
+  - titolo e autore del testo
+  - nel testo o solo autore si dice dopo per non ripetere
+- introduzione (parte interpretazione)
+  - chiarisco termine chiave (banale)
+  - ad effetto
+    - domanda
+    - citazione
+    - anedottoto
+    - rompicapo (difficile)
+      - inizio con qualcosa che non c'entra e poi spiegarlo
+- conclusione
+  - domanda provocatoria
+  - se iniziato con domanda, finire con la risposta
+  - citazione
+  - sintesi
 
 
 ### Tipologia B

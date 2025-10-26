@@ -60,4 +60,17 @@
 
 ### Secondo Heidegger
 
+- di fronte ad essere nati per morire: non ha senso vivere
+- --> angoscia
+- necessaria svolta
+- accogliere il tempo che si ha a disposizione
+  - e lasciare che si rilevi a noi
+    - riservarci sorprese e meraviglie
+- non decidere come spendere il **tempo**, ma saperlo **accogliere**
+  - riconoscere pregi e difetti e darli del valore
+- arte e poesia
+  - disinteressate e capaci di cogliere la bellezza profonda e fascinosa del mondo
+  - es scarpe di Van Gogh
+- no pensiero dell'uomo come strumento per realizzare la tecnica e tecnologia --> ma come meditazione e contemplazione profonda mistero della vita e dell'essere
+  - "pensare è ringraziare"
 
