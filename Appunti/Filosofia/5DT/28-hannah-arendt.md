@@ -211,7 +211,7 @@
   - crimini? no azioni di stati
     - campi di concentramento = amministrazione
     - campi di sterminio = economia
-  - "quanto più lo si ascoltava, tanto più era evidente che la sua incapacità di esprimersi era strettamente legata a un'**incapacità di pensare**" (collegamento george orwell)
+  - "quanto più lo si ascoltava, tanto più era **evidente** che la sua **incapacità di esprimersi** era strettamente legata a un'**incapacità di pensare**" (collegamento george orwell)
 - --> si apre discussione filosofica importante (si ritorna al discorso iniziale)
   - Unde malum? (da dove il male)
     - "se dio è buono e ha creato tutte le cose buone, da dove viene il Male?" (sant'Agostino)
@@ -225,3 +225,28 @@
     - da primo levi (i sommersi e i salvati)
       - "chi erano, di che stoffa erano fatti, i nostri "aguzzini" [..] Erano fatti della nostra stessa stoffa, essere esser umani medi, mediamente intellingenti, meidamente malvagi [..] non erano mostri: **erano stati educati male**"
       - (primo levi si salva grazie ad essere chimico, sapeva un po' di tedesco)
+
+---
+
+schema:
+- banalità del male
+  - mancanza di empatia e scoscientizzazione
+    - coscienza no individuale ma collettiva
+- causa totalitarismi
+  1. società di massa
+      - tante persone: individuo diventa debole
+        - --> scoscientizzazione
+  2. antisemitismo latente
+      - origine
+      - caso dreyfus
+  3. politica imperialista stati
+      - bisogno di masse banali, stupide e facilmente manipolabili
+  - --> scomparsa dimensione politica uomo (in vita activa)
+    - non come atene
+    - ora niente più discorso dibattito --> fine politica
+- --> attentato ontologico all'umanità e all'uomo
+  - --> reificazione uomo (ridurre uomo a cosa)
+- allora dove deriva il male?
+  - via banalità: completa inconsapevolezza azioni (ingranaggio macchina)
+- chi è il responsabile
+  - levi: educati male

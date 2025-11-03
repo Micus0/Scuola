@@ -45,3 +45,29 @@
       - es scena assenza empatia nel film processo di norimberga
 - rendere banale il male
   - non serve essere colui che si sporca le mani
+
+---
+
+Approfondimento:
+- teoria del male già dai filosofi greci
+  - socrate: male a causa della mancanza di conoscenza (ignoranza)
+  - platone: male a causato dalla volontà dell'uomo di farsi prendere dagli impulsi
+- ma platone reminscenza dell'anima
+  - a priori l'anima decide che vita compiere
+- --> caso non chiuso
+- filosofia cristiana: peccato dentro ognuno di noi e all'uomo scelta di compiere il bene o il male
+- problema uomo cattivo o buono per natura
+  - hobbes: cattivo
+  - rousseau: buono
+- problema fine del bene
+  - hume: bene è fatto per essere utile
+  - kant: bene è fatto per dovere morale
+    - ognuno ha una bussola morale che ci indica cosa è giusto o sbagliato
+      - bisogna soltanto seguirla
+  - via di mezzo
+    - solo utile comporta fare del male
+    - solo dovere può giustificare anche il male se effetto accidentale di buona intenzione
+      - in più perde l'unità del "bene" e "ben-essere"
+  - morale e politica
+    - aristotele: uomo è un'animale politico
+    - machiavelli: virtù politico capacità di scegliere i mezzi più opportuni per ottenere ciò che giova alla comunità

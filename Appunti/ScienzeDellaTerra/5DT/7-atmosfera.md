@@ -81,3 +81,68 @@ Regioni atmosferiche
   - la terra è più vicina al sole a Gennaio e non a Luglio
   - l'inclinazione dell'asse terrestre determina le stagioni
 - solstizio e tropici posizione (da vedere)
+- albedo: enorme riflessione ai poli (ghiacci)
+  - nell'atmosfera
+- bilancio termico pari
+- radiazione sole di qualsiasi tipo
+  - anche radio
+    - ionosfera le blocca
+      - altrimenti non si possono usare
+  - maggior parte assorbita dalla terra
+  - E = h v (lettera greca)
+    - costante di plank e frequenza
+  - grande lunghezza d'oda catturate dai (della combustione)
+    - metano (CH4)
+    - CO2
+    - H20
+  - ultravioletti
+    - alta frequenza --> contro la vita
+      - strato ozono
+        - prima non c'è sempre stato
+          - infatti vita nata in acqua
+- venti
+  - capacità termica acqua elevata
+    - equatore
+      - bassa pressione costante
+      - aria calda e umida
+    - tropici
+      - alta pressione costante
+      - aria calda e secca
+    - circoli polari artico e antartico
+      - bassa pressione costante
+      - aria fredda e umida
+    - poli
+      - alta pressione costante
+      - aria fredda e secca
+  - molecola acqua pesa meno di qualsiasi altra molecola
+    - massa aria umida < massa aria secca
+    - --> aria umida abbassa la pressione
+  - direzione non dritta venti
+    - --> effetto coriolis
+      - forza apparente
+      - fluidi risentono della forza (atmosfera e oceano)
+      - velocità cambia perché cambia la distanza dall'asse
+        - velocità angolare const
+        - velocità tangenziale cambia
+          - --> effetto coriolis
+  - venti costanti
+  - venti si muovono seguendo le celle e sono costanti
+    - cella di hadley: sull'equatore
+      - superficie: tropici --> equatore
+        - alisei
+      - alta quota: equatore --> tropici
+    - cella di ferrel: ai tropici
+      - superficie: tropici --> circolo polare
+        - venti occidentali
+      - alta quota: circolo polare --> tropici
+    - cella polare: ai poli
+      - superficie: poli --> circolo polare
+        - venti orientali
+      - alta quota: circolo polare --> poli
+  - cicloni tropicali
+    - si formano in autunno
+      - acquee più calde
+    - oceano li rifornisce
+      - si esaurisce a pochi chilometri dalla costa
+  - monsoni
+    - venti periodici

@@ -24,9 +24,9 @@
     - esistere è essere gettati nel mondo
       - del tutto casuale
 - vita
-  - autentica
-    - illusione
   - inautentica
+    - illusione
+  - autentica
     - accetta vero senso dell'esistenza: non un senso
       - noi siamo essere per la morte
 - concetto di cura (paragrafo pag 70) (importante)
@@ -74,3 +74,63 @@
 - no pensiero dell'uomo come strumento per realizzare la tecnica e tecnologia --> ma come meditazione e contemplazione profonda mistero della vita e dell'essere
   - "pensare è ringraziare"
 
+---
+
+- secondo heidegger dopo la svolta (45)
+- sia autobiografia che pensiero
+  - data spartiacquee
+    - disfatta germania
+    - trasformazione del suo lavoro
+- indagine esistenzialista --> indagine di tipo ontogico
+  - daisen (esser-ci) --> essere in sé
+- realizza opere della Kehre (svolta)
+- interruzione Essere e Tempo
+  - procastinare con materie che sono difficili --> esperienza inconcludente
+  - problema essere: tema talmente difficile/evanescente che nel tempo è stato tralasciato
+    - mai stato affrontato adeguatamente
+    - affrontato dai filosofi greci
+      - parmenide
+      - aristotele
+    - attraverso gli enti
+      - non basta
+- Kehre
+  - essere come esistere --> dimensione generale essere
+  - **ricercare senso essere non a partire dagli enti** (manifestazione essere)
+    - --> superare categorie e metafisica
+    - cogliere essere
+      - nella sua totale alterità rispetto ente --> differenza ontologica
+      - come **illuminazione/orizzonte/apertura originaria/evento**
+        - se si apre non si può contenere
+        - --> indefinibile
+  - estremo compimento nullificazione essere da metafisica e rappresentato dalla tecnica
+    - accostare essere ad avere
+      - avere è il contenere/possedere/conoscere
+        - rivoluzione scientifica: da problema dell'essere a come studiare la natura
+          - diventa inutile
+          - qualitativa --> quantitativa/meccanicistica
+          - sapere è potere
+            - bacone: mondo governato dai tecnici
+      - --> tecnica illude di avere
+      - --> porta a riconoscere che essere è nulla (la morte)
+    - --> uomo porsi all'ascolto dell'essere
+      - si rivela dal nulla
+      - rivolgendosi alla poesia
+        - apertura originaria essere tramite linguaggio
+        - opera d'arte --> messa in opera della verità
+          - attraverso l'artista
+  - pensiero
+    - ascolto del linguaggio
+      - essere si rivela
+      - pensiero ermeneutico
+        - dall'essere proviene ogni senso e significazione
+    - --> uomo pastore dell'essere
+      - lavoro pastore: osservare/accompagnare il bestiame
+        - al massimo recuperare la pecorella, ma non può impedire la sua fuga
+        - fare la guardia
+      - non posso comprendere nulla, ma pascolare all'essere
+  - ultima intervista
+    - un solo dio ci può salvare
+      - nulla può essere fatto
+        - gorgia
+    - --> fonte inesauribile di domande e conoscenza
+- pag 126-7 schema
