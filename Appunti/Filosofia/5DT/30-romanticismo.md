@@ -1,0 +1,156 @@
+# Filosofia
+## Romanticismo
+
+- ripresa kant: manifesto illuminismo
+  - tutti uomini dotati di ragione
+  - maggioranza rifiuta di emanciparsi
+    - codardi e paurosi
+  - rivoluzione copernicana conoscienza
+    - atto di giudizio
+  - critica ragion pura
+  - critica ragion pratica
+    - più importante
+    - non solo conosciere, ma cos'è autenticamente morale
+      - es video prigioniero ebreo e soldato nazista
+  - morale laica
+    - più vicino al noumeno
+  - ma impossibile
+    - anche alla critica del giudizio
+      - bello e sublime
+    - giudizio collegato solo alla realtà fenomenica e non noumenica
+      - fenomeno: conoscere con forme a priori
+      - noumeno: solo pensato ma non conoscere
+        - non condizioni a priori
+- apre le porte al pensiero successivo
+- illuminismo entra in crisi
+  - storico
+    - bagno di sangue rivoluzione francese
+      - contesto in cui la ragione illuminista affoga
+      - principi rivoluzione da nobili illuminati
+      - terrore giacobino e ghigliottina
+        - nemico rivoluzione destinato al patibolo (alla faccia della libertà)
+    - fine riv --> ascesa napoleone
+      - lui è tutto o niente
+        - non si può rimanere indifferenti
+      - fermato dal gelo e tattica terra bruciata
+        - superato il limite
+      - uomo di una passione: non capisce poi più niente
+        - --> **uomo non solo fatto di ragione, ma anche passione/irrazionalità che brucia**
+  - filosofico
+    - **ragione illuminista** riconoscerne il limite
+      - ragione empirica/statica
+        - **non riesce ad andare oltre se stessa**
+          - es kant fenomeno e noumeno (limite)
+      - gli stessi allievi notano una debolezza
+    - **falla pensiero di kant**
+      - concetto di **noumeno**: non si è accorto che è un concetto estremamente **contradittorio**
+        - **non si può pensare che ciò che è pensato non può essere conosciuto**
+          - se la penso, posso conoscerla in parte
+          - parmenide diceva cosi (ciò che penso, esiste)
+          - heidegger pensiero --> ascolto del linguaggio --> linguaggio casa dell'essere
+        - es vetta
+          - anche se non riesco a raggiungerla, posso vederla (dato di conoscenza)
+            - solo ora non posso raggiungerla, in futuro si può raggiungere
+    - si apre di nuovo la ricerca/dibattito filosofico
+      - si nutre di gusti letterari estetici
+        - sturmungrand
+          - esalta la tempesta e assalto
+            - animo uomo pura irrazionalità
+            - parte più buia dell'essere umano
+              - affascinata dal mistero
+              - es dentro cimitero quando piove
+        - neoclassicismo
+          - moda greca
+          - armonia delle forme
+            - es statue di canova
+          - gusto per il bello --> che è anche buono (kalokagathia)
+- unione dei due --> romanticismo
+  - non esalta passione e ragione
+  - ma esalta il **sentimento**
+    - **passione ragionata**
+      - atteggiamento sentimentale uomo verso se stesso e la realtà
+      - sento, provo, brucio ma non divampa (senza rimanere con pugno di cenere), ma arde (grazie alla ragione)
+  - sentimento tipico della cultura romantica: **amore**
+    - non amore di platone
+    - stile di vita
+      - non solo per la persona amata, ma anche per la natura, per la patria, per se stessi
+  - romanticismo tende a recuperare dimensione religiosa
+    - abbandonata dall'illuminismo
+    - religioni positive monoteiste
+    - avviene perché la religione è via di accesso all'assoluto
+      - libro 2b (nuove vie di accesso all'assoluto)
+      - noumeno contradittorio
+        - separazione inutile
+      - --> visione del mondo unitaria/assoluta
+        - superato finito e limite kantiano
+  - --> si torna ad affermare l'esistenza dell'infinito, illimitato, assoluto
+    - realtà è una
+      - trovare modo per raggiungerlo
+    - trovare metodi
+      - **religione** una via di accesso
+        - avvicinarsi a dio
+          - e si rivela
+          - es fuoco che arde e non brucia
+        - simbolo: gotico medievale
+          - si entra nel buio (in basso)
+            - vetrate storie della bibbia
+              - e andando in alto c'è la luce
+                - grazie al sentimento religioso (passione ragionata per dio)
+      - **arte**
+        - soltanto il poeta/artista è capace di mettersi in relazione autentica con l'assoluto
+          - perché l'assoluto lo si sente, non si vede (si percepisce)
+            - grazie all'empatia e capacità di sentire
+          - forma d'arte prediletta dei romantici: musica
+            - non si vede, non si gusta...si sente
+              - comunicazione solo emotiva
+                - armonia: mettere insieme dei suoni (calcolo matematico)
+                  - --> passione ragionata
+          - altri es (anche se non prediletti)
+            - potenza romantica di guernica (picasso)
+              - seguito al bombardamento di guernica durante guerra civile spagnola
+              - non più gernica, ma dresda/sarajevo/gaza/kiev...
+- grande novità: la **ragione** (terzo metodo)
+  - messa in discussione quella illuminista
+  - ora **ragione dialettica**
+    - **processo processuale/dinamico** != empirica e statica, in 3 fasi
+      - testi
+        - momento dell'**affermazione** dell'idea
+        - prendere atto di qualcosa
+      - antitesi
+        - momento di **opposizione** all'affermazione
+        - se dico A, allora dico B
+      - sintesi
+        - superamento del rapporto tra tesi e antitesi
+        - A e B diventano C (A+B=C)
+          - C risultato rapporto
+          - es il dì + la notte = il giorno
+      - che si ripetono
+    - dialettica insieme al problema dell'unità (ontologia) e conoscenza dell'assoluto (gnoseologia), costituisce il cuore della corrente filosofica del romanticismo:
+      - --> **idealismo**
+        - visione unità non più duplice (res cogita/extensa, fenomeno/noumeno..)
+        - realtà unica
+          - superata questa dicotomia
+        - il principio **fondante** della realtà e anche principio in cui la realtà si **spiega**
+      - --> **fusione ontologia e gnoseologia**
+  - 3 filosofi importanti dell'idealismo con 3 riflessioni importanti
+    - Fickte
+    - Schelling
+    - Hegel
+  - cosa hanno in comune
+    - idealisti perché riscoprono dimensione ideale/spirituale della realtà
+      - realtà non solo materia, ma manifestazione materiale della realtà spirituale/ideale
+    - Hegel: qualsiasi cosa
+      - (astratto è anche concreto)
+    - Fickte: lo chiama egoità (io)
+    - Schelling: lo chiama propriamente assoluto
+- schema
+  - filosofia più alta: idealismo
+    - raggiungere assoluto: ragione dialettica
+      - come principio che fonda e spiega la realtà (ontologia e gnoseologia) (logos eraclito, unione ontologia/pensiero/linguaggio parmenide)
+        - realtà assoluta/spirituale/coscienziale/divina/infinita
+      - --> ragione è dialettica
+        - processuale/dinamica è in grado di comprendere se stessa
+          - caratteristica fondamentale: dinamismo
+  - dov'è la passione? (discorso della passione ragionata)
+    - amore/desiderio/nostalgia per sapere della conoscenza (giordano bruno)
+      - tensione titanica verso l'assoluto

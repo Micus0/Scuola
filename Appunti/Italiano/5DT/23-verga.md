@@ -77,3 +77,139 @@ Foto fatte da verga
 - adesso narratore entrato nella sua ottica
   - inizia a capirlo
 - dalle più che puoi, altrimenti te le danno (malpelo)
+- (da finire per conto proprio)
+- analisi
+  - inattendibilità narratore
+    - punto di vista primitivo/rozzo filtrato da chi vive quell'ambiente
+    - non capisce determinate cose
+    - disumanizza malpelo
+    - visione ottusa
+    - --> effetto di straniamento
+      - es malpelo preso dal diavolo quando invece stava male per suo padre
+  - impraticabilità dei valori
+    - negazione di valori umani nella società dominata per la lotta della vita (darwinismo)
+      - affetto e amore negati e impraticabili
+    - es dimensione famiglia
+  - data questa prospettiva: straniamento rovesciato
+    - incominciamo a capire malpelo
+      - è normale quello che non dovrebbe esserlo
+  - raccontare dagli umili
+    - es manzoni con promessi sposi
+      - umili ancora soppravvivono valori
+      - i forti no
+    - per verga umili: non più aura di mitizzazione
+      - mondo rurale --> ancora di più lotta per la vita
+      - anche nei forti
+        - negli umili si vede di più perché necessario non solo accrescere potere
+  - con rosso malpelo, verga acquisisce strumenti per raccontare questo tipo di narrazione
+  - malpelo capisce poi il meccanismo (e lo racconta a ranocchio)
+    - lottare e lo ha capito anche più degli altri
+      - != altrimenti disperazione titanica
+- concetto impersonalità verga
+  - da incipit tre novelle
+  - lettore faccia a faccia con il fatto nudo
+  - novella sembra essersi fatta da sé
+  - come se il lettore camminasse e sentisse di essere raccontato i fatti da chi vive li
+  - --> effetto straniamento
+    - dopo racconto attivo i miei valori
+  - regressione ed eclissi dell'autore
+    - eclissi: voce narrante copre l'autore
+      - != zola: mette il suo giudizio (aria avvelenava)
+        - scienziato
+    - regressione (non sociale): si abbassa alla vicenda che sta raccontando (toglie i panni da scienziato)
+    - uno interdipende dall'altro
+      - stesso procedimento
+  - "chi osserva questo spettacolo, non ha il diritto di giudicare"
+    - non c'è possibilità di progresso
+    - es cellula e scienziato
+      - scienziato vede il problema e cerca di migliorare
+      - cellula non vede il problema e quindi NON cerca di migliorare
+  - risultato
+    - il più forte vive
+    - il più debole muore
+- differenze
+  - --> conservatorismo verghiano
+    - per verga: ideale dell'ostrica
+      - non c'è dinamismo --> **statico**
+        - es libertà: inizia e finisce allo stesso modo
+    - verga proprietario terriero del sud
+      - appoggia bava beccaris che spara alla folla
+    - non alla stessa famiglia
+      - come nelle classi sociali si sviluppano gli stessi meccanismi
+        - non scientifico ma antropologico
+  - impersonalità zola --> progressismo zoliano
+    - per zola: **dinamico**
+    - zola borghese parigini
+      - si schiera con dreyfus
+    - --> nutrito con idea di progressismo
+    - punta ad una dimensione sociale
+      - tutti fanno parte della stessa famiglia
+      - cosa determina azioni: storia ed eredità
+    - positivismo
+      - tutto quello che è scientifico è verificabile
+
+
+## Ciclo dei Vinti
+
+- parallelamente alle novelle
+- visione
+  - lotta della vita
+  - l'ideale dell'ostrica
+    - in una novella a pag 269
+    - riga 43
+      - [..]
+      - religione della famiglia
+    - concetto (analisi lo spiega bene)
+      - ostrica quando si stacca dallo scoglio: il pesce lo divora
+        - soppravvive il + forte
+- chi sono i vinti?
+  - vinti da questo meccanismo, dall'ondata del progresso
+    - non consente all'ostrica di soppravvivere quando lascia il suo scoglio+
+- parte dalla classe sociale bassa: I Malavoglia
+- alla classe sociale alta: Mastro Don Gesualdo
+  - ancora più superiore aveva pensato: Duchessa di Leira, Onorevole Scipioni, Uomo di Lusso
+    - pianificati ma non conclusi
+
+### Prefazione (267)
+
+- testo:
+  - studio sincero e spassionato (scientifico/oggettivo)
+  - 5: la fiumana del progresso
+    - travolgente nella sua strada
+      - per raggiungere il progresso, schiaccia
+    - concezione progresso
+      - progresso va avanti, ma non è possibile ad avere il progresso zoliano
+      - progresso non migliora sempre
+        - meccanismo lotta per la vita
+  - 25: dichiarazione di stile
+    - discorso sull'essere sinceri
+    - non scrive in dialetto, ma forme dialettali
+      - pronome relativo che usato in sostituzione in cui, quali (nel parlato si fa)
+      - più verace
+      - ma linguaggio mimetico rispetto all'ambiente
+        - malavoglia si, nelle altre di meno
+  - 28: il cammino fatale...è grandioso nel suo risultato, visto nell'insieme, da lontano
+    - ma dall'interno vediamo chi cade, calpestato...
+    - non si vedono i meccanismi da vicino che hanno portato al risultato
+  - 53: Chi osserva questo spettacolo non ha il diritto di giudicarlo
+    - giudizi sono i giudizi degli altri e i pregiudizi dei personaggi nel contesto, non dal narratore
+
+### Malavoglia (314/5 trama)
+
+- famiglia di pescatori proprietari di una barca (provvidenza) e una dimora (casa del nespolo)
+- tenta carico di lupini (frutti di mare)
+- naufragio della provvidenza
+- cogliere fatti storici e percorso lineare/circolare
+  - primo
+    - leva obbligatoria
+    - battaglia di Lissa
+    - colera
+  - secondo
+    - circolare: casa del nespolo (venduta e ricomprata)
+      - non proprio cerchio ma aspirale (unione dopo averlo ricomprato non è uguale)
+    - lineare: giovane 'Ntoni
+- temi
+  - [..]
+  - nucleo e villaggio
+  - mondo pescatori non mondo idilliaco secondo i valori
+    - lotta per la vita in ogni luogo e tempo è il meccanismo che schiaccia

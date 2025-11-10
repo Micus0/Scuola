@@ -116,6 +116,7 @@ Regioni atmosferiche
       - aria fredda e secca
   - molecola acqua pesa meno di qualsiasi altra molecola
     - massa aria umida < massa aria secca
+      - per pV=nRt (a condizioni uguali --> stesso numero particelle)
     - --> aria umida abbassa la pressione
   - direzione non dritta venti
     - --> effetto coriolis
@@ -146,3 +147,65 @@ Regioni atmosferiche
       - si esaurisce a pochi chilometri dalla costa
   - monsoni
     - venti periodici
+- umidità
+  - più temperatura, più volume d'aria può contenere più vapore acqueo
+    - ma se si raffredda --> l'acqua condensa (precipitazioni)
+  - relativa
+    - oggi c'è 30/60..% di umidità
+      - percentuale in base alla massima quantità di vapore acqueo che quella massa d'aria a quella determinaata temperatura può contenere
+    - giornate di afa
+      - temp corpo non si abbassa perché sudore non evapora
+  - assoluta
+    - quantità effettiva di vapore acqueo nell'aria
+- correnti a getto
+  - fiume d'aria ad alta quota di forte intensità
+    - alta atmosfera
+    - non ci sono nuvole
+    - sono fisse
+    - seguono rotazione terrestre
+  - differenza temp aria fredda poli e aria calda equatore
+  - per ogni emisfero due tipi
+    - corrente a getto subtropicale
+    - corrente a getto polare
+      - onde di Rossby
+        - corrente a getto che cambia il suo percorso
+        - forma insenature (sacche)
+        - aria fredda si abbassa in zone tropicali
+        - sacche possono rimanere bloccate/intrappolate (si staccano)
+        - quelle di aria fredda si scaricano velocemente in zone localizzate
+- monsoni
+  - sono vitali per l'india e sudest asiatico
+    - economie basate sul riso
+      - aspetta i monsoni
+  - caratterizza la stagione delle piogge
+  - forti venti che cambiano direzione stagionalmente (periodici)
+    - ogni 6 mesi
+    - differenza velocità di riscaldamento/raffreddamento terraferma e acqua
+  - verso terraferma
+    - estate
+    - vento carico di pioggia
+  - verso il mare
+    - inverno
+    - vento secco
+- venti locali
+  - basati sulla circolazione locale
+  - es maestrale, bora, tramontana, scirocco
+- strato di ozono
+  - assottigliamento
+    - evento ciclico
+    - uso di clorofluoro carburi (gas usati in vecchie bombolette)
+      - carbonio con fluoro e 3 clori
+      - come raggi rompono legami, anche alogeni
+        - alogeni si spezzano dalla molecola iniziale
+      - successivamente si creano degli ossidi
+      - O molto reattivo si attacca alla molecola aO (alogeno + O)
+      - alogeno si stacca e si forma un O2
+      - alogeno di nuovo libero --> reazione ricomincia
+  - molecola 03
+  - strato nella stratosfera
+  - funzione
+    - assorbe radiazione ultravioletta
+      - si spezzano le molecole
+  - come si ricreano
+    - O da solo specie molto reattiva
+      - si unisce subito a O2

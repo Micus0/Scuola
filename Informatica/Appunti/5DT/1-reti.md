@@ -129,3 +129,46 @@
     - quindi gestito attraverso tabelle
       - informazioni aggiuntive per distinguire i dispositivi all'interno della rete locale
     - newtwork address translation (NAT)
+- [..] ora veloce lettura
+  - raggruppa i livello in sovragruppi
+- livello applicativo
+  - servizi erogati
+  - paradigma client-server
+    - cliente chiede informazioni al server, server provvede un servizio
+  - principali protocolli
+    - SNMP (Simple..)
+      - apparecchiatura connessa alla rete
+    - FTP (FileTransferProtocoll)
+      - trasferimento file
+    - SMTP/POP3(deprecato/limitato)/IMAP(più evoluto)
+      - posta elettronica
+    - HTTP (HyperTextTransferProtocoll)
+      - alla base del WWW
+  - SAP (ServiceAccessPoint)
+    - porta di comuncazione dei diversi livelli
+      - modo in cui interagiscono
+    - interfaccia
+    - concetto di socket
+      - socket = indirizzo IP + numero di porta (indirizzo SAP)
+        - identificare dispositivi
+      - processi in esecuzione
+  - protocolli gestire: perdita di dati, ritardo, banda
+    - TCP: non si perdono pacchetti
+    - UDP: si possono perdere pacchetti
+  - DNS (DomainNameSystem)
+    - schema gerarchico di server di denominazione (dominio)
+      - gestione richieste
+    - database distribuito (implementa schema denominazione)
+      - problema mantenere info aggiornate
+    - --> esistenza protocollo
+    - strutturato a livelli
+      - una volta arrivato al livello richiesto, il livello risponde direttamente
+        - richiesta contiene info per ritornare al client originario senza tornare al DNS di partenza
+    - lo spazio dei nomi
+      - host.subdomain.[..].topleveldomain
+  - L'IoT (Internet of Things)
+    - esigenza dare nome e ruoli oggetti collegati alla rete
+    - web fatto di "cose" non righe di codice (things, not strings)
+      - oggetti fisici che interagiscono con internet (dispositivi/macchinari/oggetti smart)
+        - es domotica (automazione edifici)
+    - sempre passare da un server
