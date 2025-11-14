@@ -80,7 +80,8 @@
 - in due parti
   - interpretazione
   - produzione
-
+    - pensiero personale
+    
 
 ### Tipologia C
 

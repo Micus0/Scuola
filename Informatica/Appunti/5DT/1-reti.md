@@ -136,7 +136,7 @@
   - paradigma client-server
     - cliente chiede informazioni al server, server provvede un servizio
   - principali protocolli
-    - SNMP (Simple..)
+    - SNMP (SimpleNewtworkManagementProtocol)
       - apparecchiatura connessa alla rete
     - FTP (FileTransferProtocoll)
       - trasferimento file
@@ -172,3 +172,18 @@
       - oggetti fisici che interagiscono con internet (dispositivi/macchinari/oggetti smart)
         - es domotica (automazione edifici)
     - sempre passare da un server
+    - problemi di hacking
+      - soprattutto se problemi di obsolescenza lato sicurezza
+  - big data
+    - tante info
+    - attorno 3 V (ora 5)
+      - volume
+      - velocità
+      - varietà (legacy)
+      - veridicità
+      - variabilità
+    - dati viaggiano su internet in formato json
+  - realtà aumentata/VR
+  - industria 4.0
+    - con IA
+    - dalle macchine al servizio

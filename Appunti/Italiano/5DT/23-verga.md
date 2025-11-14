@@ -194,7 +194,7 @@ Foto fatte da verga
   - 53: Chi osserva questo spettacolo non ha il diritto di giudicarlo
     - giudizi sono i giudizi degli altri e i pregiudizi dei personaggi nel contesto, non dal narratore
 
-### Malavoglia (314/5 trama)
+## Malavoglia (314/5 trama)
 
 - famiglia di pescatori proprietari di una barca (provvidenza) e una dimora (casa del nespolo)
 - tenta carico di lupini (frutti di mare)
@@ -213,3 +213,56 @@ Foto fatte da verga
   - nucleo e villaggio
   - mondo pescatori non mondo idilliaco secondo i valori
     - lotta per la vita in ogni luogo e tempo è il meccanismo che schiaccia
+
+### Intro e fine Malavoglia (323/344)
+
+- (mancano appunti)
+- intro
+  - famiglia come nucleo
+- fine
+  - si stacca dall'ostrica e torna che lo stato di partenza non è più come prima
+  - è un vinto
+- romanzo anti idillico
+- pleonasmo
+  - ripetizione sinteticamente dello stesso complemento
+    - per questa cosa ce ne dobbiamo dimenticare (questa cosa/ne: ripetizione)
+
+## Mastro Don Gesualdo
+
+- titolo rispecchia il protagonista
+- il signor Gesualdo
+- trama (348)
+  - vicende di Gesualdo Motta
+    - un "uomo nuovo" (self made men)
+  - grazie intelligenza e tenacia diventa ricchissimo
+  - da muratore a capomastro, da appaltatore a latifondista
+  - nome da mastro a don (nasce mastro muore don)
+  - fortuna permette di trattare con i nobili senza un soldo
+  - sposa una nobile decaduta
+    - aveva già una donna con cui aveva due figli
+  - inizio parabola discendente
+    - rompe rapporti con Diodata --> disprezzato da vecchio ambiente
+    - rifiutato dalla nobiltà (intruso)
+      - nasce figlia che forse non è neanche suo
+  - la nobile matrimonio convenienza con duca di Leyra
+  - disprezzato dalla figlia ed emarginato --> si chiude
+    - ostrica mangiata dallo squalo
+      - cavalca l'onda ma viene travolto
+    - si rende conto vanità vita conseguita all'accumulo di ricchezze
+- impianto narrativo rimane fedele alla impersonalità
+  - narratore rosso malpelo e malavoglia: narrazione corale (collettiva)
+  - narratore mastro don gesualdo: non più corale, sembra più distaccata con giudizio critico ma non di Verga --> la voce di un singolo personaggio
+  - religione della roba
+    - qualcosa che si crede superando la barriera razionale
+    - della roba --> guadagno/accumolo
+      - mastro don gesualdo sacrifica affetti/tutto per l'ascesa sociale (non soppravivenza)
+- si innalza la scrittura
+- morte mastro don gesualdo quando comprende i meccanismi (360)
+  - tecnica discorso indiretto libero
+    - diretto con virgolette
+      - legato: disse ""
+      - libero: ""
+    - indiretto:
+      - legato: lui chiese...
+      - indiretto: senza lui chiese
+        - espone pensiero protagonista cosi com'è
