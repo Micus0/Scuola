@@ -1,0 +1,69 @@
+# Filosofia
+## Idealismo
+
+- espressione filosofica del romanticismo
+- supera definitavemente problema tra rapp fenomeno e noumeno
+  - fenomeno conoscibile e noumeno no
+  - noumeno solo pensarlo
+    - ma diventa già un aspetto di conoscenza
+- problemi che affronta
+  - qual'è principio unitario che spiega la realtà
+    - non più diviso (dicotomia insostenibile)
+  - attraverso quale via possiamo raggiungere questo principio unitario
+- idealismo risponde in maniera complessa
+- supera l'idea di idealismo tradizionale
+  - essere idealisti: avere idee e ideali
+    - anche in filo es: platone, filosofia cristiana, cartesio, locke
+      - idealismo di senso gnoseologico
+- idealismo romantico
+  - trascendentale
+    - occhio! es kant
+      - filosofia trascendentale: riv copernicana conoscienza su forme a priori
+    - viene dopo kant
+      - fare i conti con la sua riv: al centro il soggetto
+  - soggettivo
+    - --> soggetto al centro
+    - no l'io penso kantiano (principio ordinatore)
+      - finito
+    - --> **io principio soggettivo creatore**
+      - **infinito**
+  - assoluto
+    - --> infinito = assoluto
+      - non esiste altro da lui
+    - unico, è tutto
+      - essendo tutto, si manifesta attraverso le parti
+      - insieme di soggettività
+  - es puzzle
+    - tante tesserine
+    - scopo ricostruire immagine
+      - quindi non fare quello che vogliamo
+        - prima di essere tesserine, erano un unico quadro successivamente diviso in parti
+    - puzzle --> unità/tutto
+    - si manifesta attraverso le tesserine
+    - tesserine espressione precisa del tutto
+    - tesserina --> parte/manifestazione del tutto
+    - in rapporto con altre persone --> **costruisce una sintesi**
+      - diverso da società individualista
+- **mondo visione spirtuale**
+  - tutto è spirito
+  - lo spirito crea la realtà
+  - cos'è la materia?
+    - manifestazione dello spirito
+  - corpo manifestazione del nostro spirito
+  - relazione spirito-materia di identità (immanentismo come spinoza)
+    - spirito --> materia
+    - materia --> spirito
+    - sono la stessa cosa: identità
+- **visione panteistica**
+  - assoluto in quanto infinito, spirito, tutto --> caratteristiche di dio
+  - non sta fuori dal mondo, ma sta nel mondo stesso
+  - uomo è dio (perché spirito)
+    - attraverso ragione dialettica --> può conoscerlo
+  - --> problema kant risolto
+- 3 impostazioni pensiero idealismo
+  - Fichte idealismo etico/soggettivo
+    - principio di fondo che spiega la realtà è l'io: egoità
+  - Schelling idealismo estetico/oggettivo
+    - principio è l'assoluto: identità tra natura e spirito
+  - Hegel idealismo logico
+    - principio è tutto ciò che è razionale è reale, tutto ciò che è reale è razionale

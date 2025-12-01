@@ -9,3 +9,8 @@ Poesia sui giocattoli
 - concetti citati ma non approfonditi
   - concentrarsi sui pochi temi approfonditi
 - manca conclusione
+
+Tema B: estratto dialogo sul male
+- divisione paragrafi
+  1. Storia della discussione
+  2. Chi è

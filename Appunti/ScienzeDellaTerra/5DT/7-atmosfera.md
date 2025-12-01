@@ -81,9 +81,14 @@ Regioni atmosferiche
   - la terra è più vicina al sole a Gennaio e non a Luglio
   - l'inclinazione dell'asse terrestre determina le stagioni
 - solstizio e tropici posizione (da vedere)
-- albedo: enorme riflessione ai poli (ghiacci)
+- albedo (superficie innevata): enorme riflessione ai poli (ghiacci)
   - nell'atmosfera
+  - luce attraversa maggior spazio nell'atmosfera
+    - inclinazione e sfericità terra
 - bilancio termico pari
+  - curva emmissione e assorbimento
+    - equatore si assorbe
+    - poli si riflette
 - radiazione sole di qualsiasi tipo
   - anche radio
     - ionosfera le blocca
@@ -140,11 +145,15 @@ Regioni atmosferiche
       - superficie: poli --> circolo polare
         - venti orientali
       - alta quota: circolo polare --> poli
-  - cicloni tropicali
+  - cicloni tropicali (e anche anticicloni)
     - si formano in autunno
       - acquee più calde
     - oceano li rifornisce
       - si esaurisce a pochi chilometri dalla costa
+    - ciclone: bassa pressione (acqua) si alza --> nuvole --> pioggia
+      - depressione
+    - aria umida tende sempre a salire (densità più bassa)
+    - anticiclone: alta pressione --> verso esterno --> al centro scende bassa pressione
   - monsoni
     - venti periodici
 - umidità

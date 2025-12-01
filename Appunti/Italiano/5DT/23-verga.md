@@ -266,3 +266,128 @@ Foto fatte da verga
       - legato: lui chiese...
       - indiretto: senza lui chiese
         - espone pensiero protagonista cosi com'è
+
+
+## Mazzarò (testo da fare)
+
+- accumulo della roba
+
+
+## Raccolta Per Le Vie: Osteria dei Buoni Amici
+
+- 12 racconti
+- gran parte della sua vita a Milano
+- --> ambientati a Milano
+- oggetto: proletariato milanese
+  - difficile rapporto con la borghesia cittadina
+- verismo più cittadino
+- all'inizio nome: vita d'officina
+  - in contrapp vita dei campi
+- storie quotidiane nel grigiore cittadino
+- chi è calpestato dal progresso
+- testo e analisi
+  - turco si ripete
+  - stivali guardie...ai parenti: ellissi
+    - manca elemento ma si capisce cosa manca
+    - arrestato
+  - discorso libero indiretto
+  - dialetto non presente tanto
+    - non lo conosce bene
+      - non frequentava questi tipi di ambienti
+      - ambienti della scapigliatura/intellettuali
+    - ne, ve, articoli davanti al nome
+    - che dirompente (a cui nel caso)
+  - racconta un ambiente non tanto un personaggio in particolare
+    - come se personaggi malavoglia emigrati al nord
+  - [..]
+  - qua più racconto ambiente. nelle altre racconto vita
+
+
+## Estratto Ragazzo di vita di Pier Paolo Pasolini
+
+- intro autore
+  - posizioni molto polemiche sul consumismo, è di matrice comunismo
+  - vissuto personale molto scandaloso (biografia)
+  - poeta, romanziere, regista, filosofo
+- biografia
+  - nasce a bologna nel 1922
+  - padre tenente di fanteria di origini nobili
+    - conflitto profondo con lui
+  - mamma maestra elementare di origine contadina
+    - amore profondo
+    - instradato verso la letteratura
+  - dopo serie di trasferimenti/armistizio, si sposta in friuli in un paese Casarsa
+  - prima raccolte poesie: Poesie a Casarsa
+    - in dialetto friuliano
+  - cos'è il dialetto per lui?
+    - simbolo di purezza/incontaminato
+      - scelta morale/attingere ad un mondo puro
+  - con la mamma apre una scuola per i bambini che non ci possono andare a causa dei bombardamenti
+    - attenzione verso mondo infanzia/adolescenza e istruzione
+  - '45 fratello ucciso in ep molto controverso
+    - militante resistenza delle brigate cattoliche/socialiste
+    - da altri partigiani di brigate comuniste
+      - in friuli con tito
+  - si laurea in lettere e insegna in una scuola media
+  - impegno politico nel partito comunista
+  - '49 durante festa paese si apparta con un ragazzino di 16 e 3 amici di 15
+    - attratto dai bambini
+    - masturbazione di gruppo
+    - assolto perché non atto di stupro, ma non andava bene
+  - deve scappare da li e andare a Roma
+    - con la madre
+    - condizioni sottoproletariato di roma
+      - affascinato
+        - capacità viscerale di queste persone ai drammi della vita
+        - attaccamento alla vita
+  - avvicinamento ideologia comunista/marxista
+    - opera cenere di gramsci
+  - mutazione antropologica
+    - investe sottoproletariato
+      - si è fatto trasformare da questa società capitalista
+  - (calvino marcovaldo)
+  - '60 film accattone
+    - elementi verga
+      - lotta per la vita
+      - ignoranza delle persone
+      - riferimenti Osteria dei Buoni Amici
+      - prefazione germini fratelli boncour
+  - '70 gira grandi film
+    - anche di opere letterarie
+    - decameron, salo
+  - 2 novembre '75 ucciso all'idroscalo di Ostia (50 anni dalla morte)
+    - investito, picchiato
+    - colpevole uno dei ragazzi di vita
+    - c'è un po' un mistero
+      - stava ultimando un romanzo di nome Petrolio
+        - molto corposo
+        - tra i personaggi ricostruito lo scandalo morte di Enrico Mattei
+          - quindi magari assassinio politico
+- degrado paese dopo il conflitto
+  - proletariato no versione coltivano determinati valori
+  - pasolini lo vede
+
+
+Ragazzi di Vita
+
+- ragazzi di vita molto criticato
+  - a processo
+  - da PCI (al tempo con la DC)
+    - descrive questo mondo senza futuro disperato e negazione di possibilità di riscatto/crescita
+      - PCI stava lavorando duramente
+      - visione disperata del sottoproletariato
+  - da DC
+    - elementi di prostituzione
+    - versione nera di Cuore
+      - ragazzini che vivono in questo modo e non vanno a scuola
+- anni '43/'50
+- protagonista (all'inizio come accattone)
+  - il Riccetto
+    - accusato di aver rubato un pezzo di formaggio
+    - finisce in galera
+    - quando esce è cambiato
+      - più spettatore che protagonista
+- lingua
+  - come verga: dialoghi dialetto, discorso impostato come il dialetto
+  - dialetto: forma pura di espressività primordiale (non come  verga)
+    - parte più verace di se non di eclissi

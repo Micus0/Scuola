@@ -187,3 +187,37 @@
   - industria 4.0
     - con IA
     - dalle macchine al servizio
+- livello fisico
+  - schema comunicazione
+  - mezzi di trasmissioni
+    - guidati
+      - doppini in rame
+      - coassiale
+      - fibra ottica
+    - non guidati
+      - aria
+      - vuoto (etere)
+  - tipologia di cavi
+    - U/UTP (UnshieldedTwistedPairs)
+      - no isolante nei cavi singoli, ma uno che comprende tutto
+      - cavi avvolti e isolati singolarmente
+    - F/UTP (FoiledWithUnshieldedTwistedPairs)
+      - foglio che avvolge sotto la guaina
+    - S/UTP (ShieldedWithUnshieldedTwistedPairs)
+      - schermo/calza che avvolge sotto la guaina
+    - SF/UTP(ShieldedAndFoldedWithUnshieldedTwistedPairs)
+      - sia foglio che schermo/calza
+    - U/FTP (UnshieldedWithFoiuledTwistedPairs)
+      - fogli sui singoli cavi
+    - F/FTP
+      - foglio cavi singoli ed esterno sotto la guaina
+    - S/FTP
+      - foglio cavi singoli ed schermo/calza esterna sotto la guaina
+    - SF/FTP
+      - foglio cavi singoli ed foglio e schermo/calza esterna sotto la guaina
+    - più usati: UTP, FTP, STP
+  - doppino in assenza di ripetitori massimo 100m
+  - categorie doppini per trasmissione (princ per lan)
+    - cat da 1 a 7
+  - fibra ottica
+  - trasmissione wireless

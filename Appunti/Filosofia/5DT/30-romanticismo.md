@@ -41,6 +41,7 @@
       - ragione empirica/statica
         - **non riesce ad andare oltre se stessa**
           - es kant fenomeno e noumeno (limite)
+        - annegata nel sangue ghigliottina e nella riv francese
       - gli stessi allievi notano una debolezza
     - **falla pensiero di kant**
       - concetto di **noumeno**: non si è accorto che è un concetto estremamente **contradittorio**
@@ -70,6 +71,8 @@
     - **passione ragionata**
       - atteggiamento sentimentale uomo verso se stesso e la realtà
       - sento, provo, brucio ma non divampa (senza rimanere con pugno di cenere), ma arde (grazie alla ragione)
+    - **sensuct**
+      - senso nostalgia e tensione verso infinito
   - sentimento tipico della cultura romantica: **amore**
     - non amore di platone
     - stile di vita
@@ -113,7 +116,7 @@
   - messa in discussione quella illuminista
   - ora **ragione dialettica**
     - **processo processuale/dinamico** != empirica e statica, in 3 fasi
-      - testi
+      - tesi
         - momento dell'**affermazione** dell'idea
         - prendere atto di qualcosa
       - antitesi
@@ -153,4 +156,7 @@
           - caratteristica fondamentale: dinamismo
   - dov'è la passione? (discorso della passione ragionata)
     - amore/desiderio/nostalgia per sapere della conoscenza (giordano bruno)
-      - tensione titanica verso l'assoluto
+      - tensione **titanica** verso l'assoluto
+- 1831 esperienza romantica finisce
+  - anno muore Hegel
+  - --> finisce stagione romantica
