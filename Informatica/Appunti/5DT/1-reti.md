@@ -221,3 +221,19 @@
     - cat da 1 a 7
   - fibra ottica
   - trasmissione wireless
+- [..] (diversi livelli)
+- livello trasporto (4)
+  - buffer
+  - sto and wait
+  - sliding windows
+- gestione errori
+  - correzione errori
+    - es troppi pacchetti persi, si riduce velocità
+  - errori singoli: un solo bit di un frame
+  - errori multipli: due o più bit di un frame
+  - trasmissione undirezionali
+    - codici di hamming
+  - trasmissioen bidirezionali
+    - checksum
+  - controllo di parità
+    - pari e dispari
