@@ -237,3 +237,6 @@
     - checksum
   - controllo di parità
     - pari e dispari
+- classi diverse per indirizzi
+- host id numero 1
+- magazzino net id: numero 0

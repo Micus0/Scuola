@@ -1,0 +1,83 @@
+# Filosofia
+## Hegel
+
+- visione del mondo rigorosa
+- fondata sulla necessità
+- ogni cosa ha il suo posto
+- panologistica
+- idealismo panologistico
+  - tutto è ragione
+  - tutto ciò che è razionale è reale, tutto ciò che è reale è razionale
+- usa ragione dialettica
+- hegel professore universitario
+  - topo da biblioteca (come kant)
+  - passa il tempo a studiare
+  - religioso: religione considerata via di accesso all'assoluto
+  - fase giovanile scrive molte opere
+    - fede e sapere
+      - conflitto aperto (non sempre vanno d'accordo)
+    - vita di gesù
+      - nome di gesù divide
+    - lo spirito del cristianesimo e il suo destino
+      - mito del diluvio come viene raccontato dalla bibbia e dai greci
+        - bibbia: diluvio scatenato da dio perché umanità diventata cattiva
+          - mosé carica una coppia di animali per specie e la sua famiglia (proteggersi dal diluvio)
+          - monte arat quando finisce il diluvio
+          - riprende umanità con timore (obbedire e affidarsi a dio)
+        - mitologia greca: una coppia deucalione e pirra
+          - finito diluvio rimangono macerie
+          - tutto da ricostruire
+          - guardano cosa trovano e lo buttano alle spalle
+            - occasione per far rinascere l'umanità
+            - ogni pietra, ricomincia una vita
+      - nel diluvio universale umanità sceglie di schierarsi (affidarsi a dio e contro la natura) (non unisce ma impone)
+        - condizione di mortificazione rispetto a dio giudice ma che salvifica
+      - nel diluvio greco deucalione e pirra non attendono di salvarsi da qualcun altro, accettano condizione presente
+        - si riconcigliano con la natura
+      - mose --> crea divisione
+      - greci --> stanno dentro
+- --> religione via di accesso insufficiente
+  - causa occasione di divisione
+- ragione strumento di eccellenza per riconoscere e spiegare la realtà
+  - definizione filosofia dai greci --> usa ragione
+- --> tutto ha un senso, nulla avviene per caso e tutto è giustificabile perché è necessario
+- visione del mondo unitario/infinito che ha senso nella sua totalità
+  - le parti del tutto assumono significato proprio in quanto parti del tutto
+  - es: puzzle
+    - tessere singole --> non hanno significato
+      - ognuna ha il suo posto
+    - il tutto si vede un'immagine ---> ha significato
+  - il tutto si manifesta nelle parti, le parti sono manifestazione del tutto
+- realtà ha un senso che è ragione stessa
+- natura ontologica e gnoseologica
+  - fondamento dell'essere/esistenza/reale
+  - il mezzo per spiegare la ragione è la ragione stessa
+- es riv francese
+  - si arriva da li
+  - napoleone si crede dio ma schiavo della ragione
+- ragione dialettica processuale
+  - il tutto si srotola
+  - ritornare il tutto attraverso la dialettica (tesi, antitesi, sintesi)
+    - es ancien regime, riv, napoleone
+
+Critiche
+- fichte
+  - da hegel filosofia paragonabile ad una semiretta (inizio ma non fine)
+- schelling
+  - da hegel filosofia come la notte in cui le vacche sono tutte nere
+- ritiene di essere migliore
+  - idealismo panlogistico fondato su 3 capisaldi
+    - risoluzione del finito nell'infinito
+      - la realtà è tutto, e che la parte è manifestazione del tutto
+      - il finito assume significato in quanto parte dell'infinito
+      - --> manifestazione dell'infinito
+      - singolo non conta niente
+    - identità tra ragione e realtà
+      - detto e ridetto
+    - funzione giustificatrice della filosofia
+      - immagine della nottola di minerva
+        - immagine filosofo e funzione filosofia stessa
+          - spiegare la realtà fondata sulla ragione
+        - cosi come la nottola di minerva inizia quando la giornata è finita ed inizia la sua azione, cosi anche la filosofia
+        - spiega la realtà e la giustifica
+      - --> filosofia funzione giustificatrice
