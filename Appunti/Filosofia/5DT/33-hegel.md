@@ -1,6 +1,7 @@
 # Filosofia
 ## Hegel
 
+Introduzione e biografia
 - visione del mondo rigorosa
 - fondata sulla necessità
 - ogni cosa ha il suo posto
@@ -59,6 +60,8 @@
   - il tutto si srotola
   - ritornare il tutto attraverso la dialettica (tesi, antitesi, sintesi)
     - es ancien regime, riv, napoleone
+- muore nel 1831 --> fine romanticismo/restaurazione
+- maestro di molti filosofi (es Marx)
 
 Critiche
 - fichte
@@ -81,3 +84,133 @@ Critiche
         - cosi come la nottola di minerva inizia quando la giornata è finita ed inizia la sua azione, cosi anche la filosofia
         - spiega la realtà e la giustifica
       - --> filosofia funzione giustificatrice
+
+Parole chiavi
+  - panlogismo
+  - ragione dialettica
+  - tutto e parte
+  - religione non via per l'assoluto (es diluvio)
+  - tutto, infinito, spirito, ragione, coscienza....stessa cosa
+
+Tesi, antitesi e sintesi spiegate bene nelle opere
+
+Opere:
+- fenomenologia dello spirito (FS)
+  - romanzo/storia romanzata della coscienza
+    - che si rileva! (epifania)
+      - no sguardo..??
+      - no storia romanzata
+        - dura nel tempo e nello spazio
+          - anche al di là
+          - nelle fasi della dialettica
+    - coscienza sensibile --> coscienza assoluta
+    - come ragione (coincide con coscienza) fonda la realtà
+      - manifestarsi in coscienza assoluta (totalità)
+  - fenomenologia = fanomain (mostrarsi) + logia (discorso) --> discorso sulla manifestazione
+  - tappe FS
+    - tesi --> affermazione coscienza comune (sensibile)
+      - momento del qui e ora
+      - es tesserina
+    - antitesi --> si trasforma in autocoscienza
+      - prende coscienza di se in relazione ad altro
+      - es tesserina con altre tesserine
+    - sintesi --> coscienza assoluta
+      - es puzzle
+        - secondo modello predefinito
+        - una volta completato --> capire significato
+  - --> filosofia et et (kirkegard o o)
+  - schema estremamente rigido
+    - rigidità dialettica
+    - non c'è un fuori dal puzzle
+    - tanti seguaci, ma anche tanti oppositori
+  - schema fenomenologia dello spirito (tanti parti da non sapere) (485)
+    - coscienza (tesi)
+      - certezza sensible, percezione, intelletto
+    - autocoscienza (antitesi)
+      - relazione dipendenza/indipendenza --> figura ideale del servo-padrone
+        - rendersi conto di chi è in relazione al resto
+        - sempre conflitto
+          - servo diventare padrone
+          - padrone paura di perdere servo
+        - si manifesta in
+          - paura della morte
+          - servizio
+          - lavoro
+      - padrone più alto: dio
+        - e l'uomo è il servo
+        - --> coscienza infelice
+          - tentativo liberazione rapp servo-padrone
+          - uomo non può mettersi al posto di dio
+      - --> uomo pedina in mano della ragione (es napoleone)
+    - ragione (sintesi)
+  - fenomelogia dello spirito in due parti (489)
+    - prima parte sulla coscienza
+      - coscienza sensibile --> oggetto
+        - tesserina (verde) non ha un ruolo
+      - autocoscienza --> soggetto
+        - tesserina (pezzo di prato) assume un ruolo dopo essersi rapp con gli altri
+      - ragione --> puzzle
+    - seconda parte (solo prima tripartizione) (sarà oggetto di studio della seconda opera)
+      - spirito (eticità, cultura, moralità )
+      - religione
+      - filosofia
+- enciclopedia delle scienze
+  - ha organizzato il sistema scientifico/epistemico (sapere) e le diverse scienze
+  - sistema sapere --> ambiti del sapere
+  - ragione che spiega la realtà
+  - sapere si fonda sull'idea
+    - realtà è idea che si manifesta in maniera dialettica
+    - perché ragione spirituale (ragione = spirito)
+      - l'idea è tutto != platone idea oltre il mondo sensibile
+  - l'idea che: (continua tripartizione)
+    - è in sé
+      - sapere è logica
+    - fuori di sé
+      - filosofia della natura (spirito che esce in relazione con natura)
+    - ritorna in sé e per sé
+      - filosofia dello spirito
+        - spirito soggetto (individuo)
+        - spirito oggetto
+        - spirito assoluto
+
+Rapporto ragione con FS e ES
+- tanti percorsi diversi per arrivare ad un idea
+- tutto cio che è razionale è reale, e tutto cio che è reale è razionale
+  - ragione è fondamento della realtà --> FS --> coscienza...
+  - e spiegazione della realtà --> ES --> idea
+- ragione
+  - coscienza --> fondamento
+  - idea --> spiegazione
+
+Critica ad Hegel
+- FS
+  - dialettica di Hegel chiusa o aperta?
+    - chiusa
+      - sintesi coincide con tesi --> circolarità
+        - tende a giustificare la conservazione della storia/status quo
+      - --> non cambia si ripete
+      - serve moltissimo ai conservatori
+        - difendere status quo
+    - aperto
+      - circolarità ad aspirale
+        - si aggiungono pezzi
+        - aspirare alla ricerca
+      - --> sembra più corretta
+    - approfondimento
+      - non per forza un puzzle
+        - tesserine puzzle in più puzzle o diverse dimensioni
+      - --> ragionare in sottosistemi
+        - la fisica fa cosi
+          - leggi si completano tra di loro
+          - fino ad arrivare ad un'equazione finale
+      - si scopre qualcosa che genera altre domande o mette in discussioni affermazioni precedenti
+
+Considerazion varie
+- oltre il tutto non c'è niente --> tutto è infinito
+- tutto è destino
+  - non si può cambiare
+  - es napoleone
+    - ragione si è servito di lui per manifestarsi
+  - --> giustificare
+    - trovare un significato!!!
+- 506 confronto idealisti

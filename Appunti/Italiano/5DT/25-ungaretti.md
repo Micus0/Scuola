@@ -399,3 +399,30 @@ Testi per argomentare ma faremo solo allegria di naufragi
   - ascoltare i morti --> non gridare --> non fare la guerra
 - antitesi
 - rispetto per chi è morto nella guerra e per chi l'ha combattuta
+
+## Riepilogo per verifica/interrogazioni
+
+- i fiumi
+  - formazione identitaria
+  - fiumi levano, scarnificano
+- il porto sepolto
+  - folgorazione del poeta sacerdote
+  - sigla: SP
+    - dopo modulo sullo statuto del poeta
+      - quando poeti si interrogano sul proprio ruolo
+- --> allegria di naufragi
+  - tema naufragi e allegria
+- --> veglia, sono una creatura
+- mattina: folgorazione
+- san martino del carso: cuore, paese, muro
+- soldati --> fratelli
+  - fogliolina appena nata
+- non gridate più
+  - richiesta di pace
+  - erba che fa un suono
+- per interrogazioni si può stampare foglio con poesie
+- modulo pp su WWI
+- verifica: tipologia A
+  - poesia nota
+  - verifica scritta come Tip A
+  - parte produzione storia
