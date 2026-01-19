@@ -204,6 +204,7 @@ Riassunto
   - di indentità
     - fiumi e descrizione
     - acrobata (Palazzeschi)
+      - un muoversi su un terreno non solido (non come verista che cammina sul terreno stabile della scienza)
   - vita e morte
     - come reliquia ho riposato
   - illuminazione e tenebre
@@ -426,3 +427,12 @@ Testi per argomentare ma faremo solo allegria di naufragi
   - poesia nota
   - verifica scritta come Tip A
   - parte produzione storia
+
+## Ripasso
+
+- parole chiave per analizzare i testi
+- ogni poesia estrapolare: contenuto, senso primario
+- da una di quelle si collega ad altre poesie
+- significato parole per i temi
+- analisi: iniziare con poesia di..
+- citare: i versicoli ungarettiani come il verso 4: "..."
