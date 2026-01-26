@@ -1,0 +1,63 @@
+# Italiano
+## Pascoli
+
+- fanciullino
+
+## Novembre
+
+- strofe
+  - prima
+    - primaverile
+    - sole
+    - avverti odore (non è che ci siano: deca)
+  - seconda
+    - ma
+    - rami neri rispetto al cielo
+    - autunno
+    - cielo vuoto dagli uccelli
+  - terza
+    - silenzio intorno
+    - inverno
+    - estate fredda dei morti
+      - san martino --> giorno più caldo di novembre
+      - finisce parola morti
+      - chiusura lapidaria
+  - cosa prepara estate morti
+    - amaro
+    - trame nere
+    - cielo vuoto
+- sgrattare via prima impressione
+  - entrare pienamente decadentismo
+- elementi deca
+  - aria decadenza
+  - sinestesia (es amaro nel cuore)
+  - cadere fragile (foglie fragili)
+    - ipallage: attribuire qualcosa a qualcos'altro
+      - es sudate carte (è lui sudato)
+  - verità al di là delle cose
+    - vivi in un mondo con simboli di un altro mondo
+  - sembra di essere estate, ma invece rimandano a novembre
+  - --> realtà non è come appare
+    - cosa dice che non è primavera? giorno san martino (estate fredda dei morti)
+  - ossimoro estate fredda (stagione del calore)
+- poesie pascoli innervate dal tema della morte
+  - in generale grande tema decadentismo
+- morte a livello letterario qualsiasi cosa (non solo scientifica)
+- quadretto impressionistico si va al di là
+- formale e sintattico
+  - struttura classica
+    - rime alternate
+    - quartine
+  - ma
+    - frasi nominali (frase elittica del verbo)
+      - manca verbo
+    - --> sintassi più frantumata
+    - analisi periodo
+      - crea legami logici
+      - simbolismo rinuncia ai legami logici (es immagini non devono essere guidate unga)
+    - sintassi meno ipotattica
+    - poesia del simbolo
+    - si accompagna di meno il lettore
+- con leo [..]
+- linguaggio pre grammaticale, grammaticale, post grammaticale
+- precisa scelta

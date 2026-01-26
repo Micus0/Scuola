@@ -1,0 +1,52 @@
+# English literature
+## Modernism
+
+- after ww1: patriottism isn't more the way
+- inconsciusness
+  - freud --> influence con consciusness
+- --> change on perception of the world: from objective to subjective
+- influence all the arts
+- focus on rappresentation of dreams
+- all influence by new important discovery: theory of relativity by einstein
+- philosopher: henry berkson
+  - different perception of time
+  - not unit, but a flow of thoughts
+  - influence virginia wolf, joyce
+- in medias res
+  - the story start in a particular moment
+  - isnt more important the story but a particular moment
+    - decentralization
+  - es missis dollaway
+    - all the story is around one day
+- change of time perception
+- other philospher: william james
+  - consciousness not chopped in tiny parts, but in flow
+  - strong impact on arts
+- --> another perception of time
+- importanec of moments of beings
+- narrator isn't percepavle
+- stream of consciousness IS NOT a narrative technique
+  - is a fenomenum of the consciousness
+- stream of thoughts
+  - fluss
+- ex: interior monologue
+  - no punctuation: stream
+- --> active reader
+  - is need an effort by the reader to catch the message
+- 2 types of interior monologue
+  - direct
+    - when we don't percive the presence of the narrator
+    - not mediator between monologue and reader
+      - reading stream of thoughts of the characters
+    - --> necessity to find a meaning for the reader
+    - travelling into the mind of the character
+    - internal time isn't the cronological time
+      - time of the mind
+    - --> time of the novel is dilated
+  - indirect
+    - mediation of narrator that introduce the thoughs of the characters
+    - influence of svevo
+      - joyce lived in trieste and had contact with him
+    - --> easier to read
+  - memory important element
+    - for thinking and understanding background of the character
