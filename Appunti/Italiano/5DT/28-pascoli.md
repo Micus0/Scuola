@@ -61,3 +61,82 @@
 - con leo [..]
 - linguaggio pre grammaticale, grammaticale, post grammaticale
 - precisa scelta
+- lessico bonatico (ornitologico per gli animali)
+
+## Biografia
+
+- nasce a san mauro di romagna 1867 --> estrazione provinciale
+- muore nel 1912
+- quarto di 10 figli
+- lutti familiari
+  - cercare nella complessità dell'argomento (come per leo: non gobboe sua condizione)
+  - padre ucciso a fucilate da due sicari
+  - muore sorella maggiore
+  - muore madre
+  - --> casa deserta
+    - orfani divisi in collegi
+  - muore fratello luigi
+- protesta contro ministro pubblica istruzione --> perdita borsa di studio --> interrompe carriera accademica
+- 1879 arrestato e in carcere per 3 mesi protestato contro gli arresti di alcuni anarchici
+  - --> depressione durezza avvenimenti
+- --> socialismo umanitario
+- continua studi e si laurea in lettere
+- ricrea nido familiare con le sorelle minori Ida e Maria (Mariù)
+  - ma ida si sposa
+- --> forte turbamento (dopo aver ricostruito nido familiare)
+- --> rafforzo legame con Mariù
+  - lei si rifiuterà di sposarsi (alla sua scomparsa terra molto la memoria di pascoli)
+- --> gelosia di mariu spezza suo fidanzamento con una cugina
+- pubblicazioni
+  - Myricae
+  - Poemetti (?vince concorsi di poesia latina?)
+  - Canti di Castelvecchio
+  - Poemi conviviali
+  - Nuovi poemetti
+    - la grande proletaria si è mossa
+- visione mondo
+  - ripiegato su stesso (poeta provinciale)
+  - ma rielabora fermenti culturali europei, senza varcare frontiere dell'italia
+- poetica di pascoli: fanciullo che soppravvive all'idea dell'uomo e vede tutte le cose come la prima volta
+  - meraviglia e stupore
+    - all'inizio precisione linguistica nel bambino
+      - non usa altri termini o sinonimi
+    - != no positivista
+      - usare il nome specifico della cosa
+      - ma come adamo dava i nomi agli animali (pascoli)
+  - regressione al pre razionale
+    - linguaggio pregrammaticale che ha a che fare con il mondo del fanciullo
+  - --> visione alogica
+    - no processo logico che caratterizza bambini
+    - != illogica
+      - no contro logica
+      - ma senza logica/viene prima/si sottrae
+        - poi può anche coincidere in parte
+  - spirito irrazionale intuitivo
+    - lui unisce tutti i simboli (foresta simboli baudelaire)
+  - poeta quando ascolta fanciullo: poeta vate/veggente
+
+
+## Una poetica decadente da "Il Fanciullino"
+
+- riassunto
+  - deca
+    - pregrammaticale
+      - visione prerazionale dei bambini
+    - grammaticale
+    - postgrammaticale
+      - specificità termini settoriali
+        - non solo formazione positivista
+  - lutto nella sua identità
+    - necessità di creare un nido di protezione
+- testo (tanto sul foglio)
+  - saggio
+  - quando si cresce: differenza noi e fanciullino aumenta
+  - uomo si vergogna: ma non deve farlo
+  - fanciullino risveglia parti opposte che pensiamo non sarebbero più riemerse
+  - fanciullino come: l'Adamo che mette il nome a tutto ciò che vede e sente
+    - relazione simboli che usa il bambino
+      - le cose hanno un preciso nome
+  - paragone con i mestieri --> fanciullo si ferma
+  - --> bisogna ascoltarlo
+  - [....]
