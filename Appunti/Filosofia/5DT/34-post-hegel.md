@@ -1,0 +1,45 @@
+# Filosofia
+## Post Hegel
+
+- muore nel 1831
+- due correnti (**in comune critica**)
+  - **avversari**
+    - non sono d'accordo
+      - prendono distanze
+    - più importanti
+      - **schopenhauer**
+      - **kierkegaard**
+    - ragioni (2/3 elementi)
+      - **assolutizzazione ragione**
+        - ragione potrebbe non essere principio unitario che spiega la realtà
+      - **sistema estremamente rigido**
+        - non permette libertà di scelta
+        - non tiene in considerazione valore individuale
+      - **giustificazionismo**
+        - talmente rigida che tende a giustificare la realtà
+  - **discepoli**
+    - lo apprezzano molto
+      - critica per superarlo
+    - più importanti
+      - **marx**
+      - **feuerbach**
+    - a sua volta due correnti
+      - **destra hegeliana**
+        - dialettica hegeliana **chiusa**
+          - **cerchio**
+          - tesi, antitesti, sintesi e **ricomincia da tesi**
+            - ricade su se stessa
+        - **posizione conservatrice**
+          - giustifica restaurazione
+          - no ispiratori di forza filosofica importante
+            - muore subito e non lascia eredità
+            - dopo riv industriale, positivismo (progresso a livelli massimi)
+      - **sinistra hegeliana**
+        - dialettica hegeliana **aperta**
+          - **spirale**
+          - tesi, antitesi, sintesi e **ricomincia aggiungendo sintesi**
+            - aggiunge pezzi
+          - **posizione progressista**
+            - cambiamento, trasformazione, progresso
+          - creano pensiero originale proprio
+            - superano il maestro

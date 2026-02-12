@@ -1,0 +1,86 @@
+# Filosofia
+## Schopenhauer
+### Biografia
+
+- la pensa cosi perché personaggio dell'epoca
+- educazione:
+  - platone
+  - kant
+  - romanticismo
+  - hegel
+  - filosofie orientali
+    - viaggi in oriente
+- **figlio dei fiori**
+  - suo pensiero volontarismo (no corrente filosofica)
+  - classico figlio di papà
+    - studia
+    - viaggia
+    - droga (oppio)
+      - viaggi in oriente
+      - liberazione dal dolore attraverso **paradisi artificiali**
+        - es baudelaire
+        - es episodio black mirror
+          - cosa ti fa sentire vivo è il dolore
+          - mancanza di empatia
+            - es hannah harendt
+
+
+### Pensiero
+
+- collegare leopardi teoria del piacere
+- critica tutto ciò che è reale è razionale
+- visione del mondo dal libro: mondo come volontà e rappresentazione
+- --> **mondo è volonta perché tutto è volontà**
+- principio che fonda la realtà è la volontà
+  - perché **forza cieca e irrazionale** che **condanna alla vita**
+    - **volontà di vivere**
+      - necessaria per continuare la specie
+      - energia a-logica e irrazionale (?pascoli?)
+    - illusione + grande: l'amore
+      - al momento buono ti delude
+- **ciò che io vedo**
+  - mondo è **rappresentazione**
+    - nulla è come è, ma tutto è come appare
+  - la realtà coperta da un velo (**velo di maya**)
+    - credere che le cose sono in un certo modo
+    - se tolgo il velo mi rimane:
+      - la constatazione della volontà di vivere
+        - vita è una condanna
+    - ribaltamento di kant
+      - fenomeno --> illusione sogno (velo)
+      - noumeno --> dietro il velo: volontà di vivere
+        - --> conoscibile
+- allora ci suicidiamo tutti
+  - non buon sistema
+    - non è suicidio di tutti
+  - suicidio non è liberarsi dalla volontà, ma dalla vita
+- --> liberarsi dalla volontà di vivere
+  - **liberazione dal dolore** attraverso
+    - arte
+    - morale/compassione
+    - ascesi (+alta)
+      - allontanamento bisogni materiali
+      - condizione del Nirvana (viaggi in oriente)
+        - controllo di sé + alto in cui non ci sono + problemi
+      - apatia --> assenza emozioni
+      - atarassia --> assenza dolore
+- vita è un pendolo che oscilla tra dolore e noia
+  - bisogno --> crea dolore --> soddisfare bisogno --> appagato --> ma non basta --> noia --> bisogno
+  - --> tutto è vanità
+- **dolore universale**
+  - ginestra leopardi spacca la rocce
+  - uomo si rende conto
+    - animale metafisico (corpo e anima)
+      - in grado di andare oltre l'apparenza
+    - cosciente e lo vuole combattere
+    - sta nella condanna dell'esistenza
+- **visione del mondo pessimista** --> tutto destinato al dolore
+- schemi a confronto
+  - hegel
+    - sistema che si ripete
+      - soffocante
+  - schopenhauer
+    - vita è una merda
+      - distaccarsi dal dolore
+    - ma nessuna via di fuga
+    - --> visione pessimistica

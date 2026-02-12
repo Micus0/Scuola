@@ -87,6 +87,7 @@ Critiche
 
 Parole chiavi
   - panlogismo
+    - tutto è ragione
   - ragione dialettica
   - tutto e parte
   - religione non via per l'assoluto (es diluvio)

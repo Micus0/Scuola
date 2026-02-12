@@ -139,4 +139,282 @@
       - le cose hanno un preciso nome
   - paragone con i mestieri --> fanciullo si ferma
   - --> bisogna ascoltarlo
-  - [....]
+  - [....] (sul foglio)
+- chiuso con visione socialismo umanitario
+  - convivenza pacifica tra le classi != lotta violenta rivoluzionaria
+  - appello alla fratellanza, bontà e solidarietà tra gli uomini
+- sofferenza
+  - elemento che purifica
+- valore del perdono
+  - orizzonte cristianesimo
+- mondo rurale: mitizzazione (reso un mito: togliere aspetti reali) piccolo proprietario rurale
+  - != verga: anche nel mondo rurale prevale lotta per la vita
+  - mondo in cui si incastra il nido
+
+
+## Myricae
+
+- raccolta di 22 poesie
+- la myricae: nome tecnico/latino delle tamerici
+  - piante semplici che si trovano nella macchia mediterranea
+  - poeta non ha bisogno di citare le avaghe americane (piante esotiche)
+  - cit bucoliche virgilio
+    - non a tutti piacciono e le si addicono le cose umili (myricae)
+  - pascoli ribalta togliendo il non
+    - senza ubriacare con qualcosa di esotico
+- anche forma strutturale della poesia
+  - quadretti
+    - si abbandona argomentazione ginestra
+    - illuminazione folgorazione poeta decadentista
+- temi
+  - natura
+  - morte
+    - influenzato dalla sua tragedia familiare
+    - dimensione funebre
+- stile (siamo nel decadentismo)
+  - elementi deca
+  - quadretti
+  - fonosimbolismo
+    - suono parola precede il suo significato
+    - raggiunge prima il lettore
+      - es onomatopea --> pregrammaticale --> fanciullino
+        - es fru fru tra le fratte
+      - o anche termine botanico esatto --> postgrammaticale
+        - adamo che mette per la prima volta il nome alle cose
+
+
+## X Agosto (dieci agosto)
+
+- notte di san lorenzo (stelle cadenti)
+- testo (analisi nostra)
+  - malinconia/compassione/dolore
+  - elementi cristologici
+    - spine, croce, perdono, Cielo, Male
+- struttura
+  - quartine: rima alternata abab
+  - sinalefe: due vocali fanno stessa sillaba (fine parole e inizio parola successiva)
+  - decasillabo-novenario (per verso)
+- molto tempo spiegata in modo semplicistico
+  - solo collegamento morte uomo e rondine
+- testo (analisi prof)
+  - concavo che si collega con atomo opaco
+    - termine scientifico che non rievoca stato scientifico, ma adamo che nomina cose
+  - Cielo e Male
+    - personificazione
+    - apostrofe: interlocutore a cui ci si rivolge
+    - enjambemant mondi sereni
+  - opaco
+    - assorbe no luce propria
+    - il buio e la luce (male e bene)
+      - terra regna bene se opaca?
+        - terra popolata agli uomini: refrattaria al bene
+  - natura partecipe dolore umano?
+    - no distante
+  - nell'ambito deca religione non 100% positiva, consolatoria
+  - sofferenza di chi muore non ha riscatto positivo
+    - come in cristo
+  - quartine uomo e rondine
+    - chiasmo tra uomo e rondine
+      - tetto all'uomo, nido alla rondine
+    - simmetria l'uccisero
+    - rondine
+      - spine
+      - portava cibo per i figli
+    - uomo
+      - perdono
+      - portava bambole in dono ai figli
+  - il Cielo non si fa carico
+    - condizione orfani
+  - forma consolatoria del piantow
+  - metonimia
+    - rondine rondinine: una volta contenitore e poi contenuto
+
+
+## Assiuolo
+
+- assiuolo una specie di gufo
+- di notte
+- testo prime impressioni
+  - prima strofa: quiete positiva
+  - seconda strofa: inquietudine
+    - sentivo in anafora
+    - singulto (specie di singhiozzo)
+  - terza strofa
+    - vocali ed effetto fonosimbolico
+      - vocali cupe
+      - tante i
+        - in 2 versi tante
+        - --> suono sistri acuto
+          - nome onomatopeico
+          - strumento musicale nel culto di iside in egitto
+          - dea notte morte
+  - elemento che richiama al climax con senso di ascendenza
+    - voce, singulto, pianto
+  - uccelli diventano simboli
+- analisi più approfondita
+  - prima strofa
+    - luna immagine indefinita (d'annunzio sera fiesolana: in cui luna non si vede ma luce argentata)
+      - sta sorgendo
+      - come l'alba
+        - colore chiaro e lucente = perla
+        - = mare (luce si sparge in tutto il cielo che diventa come un mare)
+          - luna nuota
+      - luna --> alba ---> chiaro --> perla --> mare --> nuota
+    - ma fanciullino: cielo nuotava in un'alba di perla
+      - luna --> nuota
+      - salta i gradini del pensiero
+    - lessico botanico: 
+      - natura antropotizzata: vuole vedere la luna
+    - soffi di lampi
+    - nero di nubi
+      - in realtà nubi nere (salto passaggi)
+    - la, laggiù
+  - elementi
+    - messaggio oracolare (mess dorato)
+    - immagini visive
+  - seconda strofa
+    - nebbia densa come latte (nebbia di latte)
+    - sentivo si ripete
+    - com'eco grido che fu (?lutto?)
+  - terza strofa
+    - tremavano alberi dal vento (salta ancora)
+    - effetto fonosimbolico versi con tante i
+    - porte che non si aprono più (della morte)
+      - poca speranza
+  - escalation
+    - prima strofa
+      - dov'era la luna
+      - voce
+    - seconda strofa
+      - inizia con le stelle lucevano
+      - verso fine: grido che fu
+    - terza strofa
+      - tutte le lucidi vette
+      - morte
+  - morte non angosciata, ma di inquietudine
+    - != veglia
+      - angoscia di vedere la morte
+      - elemento concreto agressivo presente
+    - no disperazione
+  - fanciullino presente nell'uso onomatopee e analogie
+  - regressione nido: rimasto in quella dimensione
+
+## Il gelsomino notturno (501)
+
+- no myricae ma racconti castelvecchio
+- profumo molto intenso dolce
+- testo impressioni
+  - prima strofa: malinconia
+  - 2 strofa: quiete
+  - 3 strofa: immagine intensa e morte
+  - 4 strofa:
+  - 5 strofa: luce si spegne completamente
+  - 6 strofe:
+- scritta come epitaliamo
+  - poesie per il matrimonio
+- analisi
+  - nidi presenti
+  - prima notte di nozze il lume si è spento
+    - consumano il matrimonio
+    - tre puntini
+  - poeta nell'immagine di eros
+  - immagina di esclusione
+    - dimensione notturna ma la casa è lontana
+    - ape va nelle celle ma sono vuote
+  - si chiudono i petali, ma celebrazione vita
+    - ma immagine morte non scompare
+      - permeano il testo
+        - ora penso ai miei cari
+        - ...
+  - --> poeta si sente escluso
+    - luce che si spegne osserva da lontano
+    - ape esclusa
+  - si esclude perché non vuole abbandonare il nido
+    - passaggio adulto che però si sente escluso
+- se solo quadretto
+  - paesaggio notturno
+  - luce casa
+  - immagine gelsomino
+  - celebrazione vita
+- altrimenti
+  - autore staccato non esce dal nido
+  - a causa dei lutti: morte innervata in ogni testo
+- lessico botanico
+  - rimandano a simbologia
+- contare sillabe
+  - accento (tronca, piana, sdrucciola, bisdrucciola)
+  - versi si contano in base se è piano
+    - sdrucciola --> si toglie una
+    - tronca --> si aggiunge una
+
+## I canti del Castelvecchio
+
+- raccolta poetica
+- richiamano tantissimo Myricae
+  - continuità
+- in campagna
+- temi
+  - natura
+  - ciclo stagioni
+  - morte
+- suggestioni ancora più inquiete, morbose
+  - es sensazione da lontano di eros
+- lontananza
+  - casa la, ape che rimane fuori
+- negli epitalami
+  - maggiore felicità rito nuziale e nozze cosa comportano
+  - ma al mattino dopo petali sgualciti
+- --> tragedia familiare
+  - congestionato nel nido
+  - impedisce di uscire nella maturità del mondo esterno
+    - chiuso nel fanciullino
+
+## Poemetti
+
+- poemi differenza liriche
+  - poemetti
+  - più lunghi
+  - taglio narrativo
+- famiglia di barga (italy)
+  - zona dove viveva lui
+  - sfera di campagna
+    - dimensione del nido
+      - valori familiari che rassicurano
+    - contrapporsi alla macchina del progresso che sta distruggendo quello
+      - rientra nell'utopia
+        - diventa regressiva
+          - recupare qualcosa che si sta esaurendo
+- != verga
+  - valori non presenti nella campagna
+  - raccontare il quotidiano per documentare
+    - lingua come strumento di realtà
+- pascoli
+  - lingua usata come dal fanciullino
+    - parola precisa non per documentare, ma aspetto postgrammaticale del fanciullino
+  - campagna non idealizzata
+    - vita difficile
+- elenco pascoli
+  - teorizzazione fanciullino
+  - ...
+
+## Italy
+
+- nel 1904
+- famiglia di barga
+  - ispirata a famiglia reale
+  - due fratelli emigranti
+    - ghita e beppe
+    - tornano dagli usa
+  - portano una nipotina molly
+    - deve respirare aria buona
+    - prima volta in italia
+  - conosce prima volta nonna e realtà campagna italiana
+  - occasione riflessione tra generazioni di migranti
+    - nonna parla solo dialetto
+    - nipotina inglese
+    - generazione di mezzo impasto di lingua italianizzando l'inglese
+- stile
+  - terzine rime incatenate (come dante)
+- temi
+  - migrazioni
+  - lingua mezzo in base alla generazione
