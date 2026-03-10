@@ -3,7 +3,7 @@
 
 - fanciullino
 
-## Novembre
+## Novembre (484)
 
 - strofe
   - prima
@@ -19,6 +19,7 @@
     - silenzio intorno
     - inverno
     - estate fredda dei morti
+      - giorno dei morti --> 2 novembre
       - san martino --> giorno più caldo di novembre
       - finisce parola morti
       - chiusura lapidaria
@@ -61,7 +62,7 @@
 - con leo [..]
 - linguaggio pre grammaticale, grammaticale, post grammaticale
 - precisa scelta
-- lessico bonatico (ornitologico per gli animali)
+- lessico botanico (ornitologico per gli animali)
 
 ## Biografia
 
@@ -69,7 +70,7 @@
 - muore nel 1912
 - quarto di 10 figli
 - lutti familiari
-  - cercare nella complessità dell'argomento (come per leo: non gobboe sua condizione)
+  - cercare nella complessità dell'argomento (come per leo: non gobbo e sua condizione)
   - padre ucciso a fucilate da due sicari
   - muore sorella maggiore
   - muore madre
@@ -85,7 +86,7 @@
   - ma ida si sposa
 - --> forte turbamento (dopo aver ricostruito nido familiare)
 - --> rafforzo legame con Mariù
-  - lei si rifiuterà di sposarsi (alla sua scomparsa terra molto la memoria di pascoli)
+  - lei si rifiuterà di sposarsi (alla sua scomparsa terrà molto la memoria di pascoli)
 - --> gelosia di mariu spezza suo fidanzamento con una cugina
 - pubblicazioni
   - Myricae
@@ -207,7 +208,7 @@
     - assorbe no luce propria
     - il buio e la luce (male e bene)
       - terra regna bene se opaca?
-        - terra popolata agli uomini: refrattaria al bene
+        - terra popolata dagli uomini: refrattaria al bene
   - natura partecipe dolore umano?
     - no distante
   - nell'ambito deca religione non 100% positiva, consolatoria
@@ -225,7 +226,7 @@
       - portava bambole in dono ai figli
   - il Cielo non si fa carico
     - condizione orfani
-  - forma consolatoria del piantow
+  - forma consolatoria del pianto
   - metonimia
     - rondine rondinine: una volta contenitore e poi contenuto
 
@@ -397,7 +398,7 @@
   - teorizzazione fanciullino
   - ...
 
-## Italy
+## Italy (scheda)
 
 - nel 1904
 - famiglia di barga
@@ -416,5 +417,37 @@
 - stile
   - terzine rime incatenate (come dante)
 - temi
-  - migrazioni
+  - migrazione vita di campagna (squallore non come accusa)
   - lingua mezzo in base alla generazione
+    - ricerca di linguaggio pre e post
+      - analogico
+  - diverso punto di vista --> livello linguistico diverso
+  - verga eclissa, lui no
+- testo:
+  - resto sul foglio
+  - "magnifiche sorti progressive"
+    - ginestra
+    - ironico
+  - pasolini: progresso solo una cerchia di persone
+    - no perifieria
+
+## La grande proletaria si è mossa (scheda)
+
+- tesi
+  - giusto che l'italia faccia un campagna coloniale
+    - sembra strano detto da pascoli
+  - sono alienati, esclusi
+- argomentazioni
+  - italia proletaria non riesce a badare ai suoi figli
+    - --> condizioni lavoratori
+    - storia italia
+  - --> libia è come il nido
+  - 2 tipi di guerre
+    - conquista
+    - difesa
+      - pascoli la esprime così
+  - fa leva sui tratti comuni di identità (es dante)
+  - migrare --> spostarsi
+- testo:
+  - resto sul foglio
+
