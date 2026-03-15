@@ -70,6 +70,24 @@ Visione mondo
           - es per essere banalmente accettato: sposarsi
 - si capisce bene dalle trame dei romanzi
 
+Influenze culturali
+- Nietzche
+- darwinismo
+- marxismo
+  - conflitto tra le classi imprime fondamentalmente segni di anatomia psicologica
+  - no psicologia astratta ma è il ritratto di tutti quei conflitti/ambiguità tipiche della borghesia di quel periodo
+    - non profilo in valore assoluto ma solo l'inetto borghese specifico
+  - approfondimento per chi vuole qualcosa di più
+    - la tribù: metafora pos socialiste di turati...
+- psicanalisi
+  - no strumento di guarigione/terapia
+  - ma strumento conoscitivo --> potente strumento narrativo
+    - "grande uomo quel nostro Freud, ma più per i romanzieri che per gli ammalati"
+  - imp: cercare tratti malattia in svevo (nel libro da legg)
+- Joyce*
+  - in inglese fatto meglio
+
+
 
 ## Trame romanzi
 
@@ -101,7 +119,73 @@ La coscienza di Zeno
 - sembra aver scritto 3 volte lo stesso romanzo o sua vita
   - ma evoluzione vita e cambiano cose
 - cosa parla coscienza o incoscienza?
+- metodo ricordare romanzi
+  - cognomi ABC
 
 Elementi
 - simili
 - distanti
+
+## Una vita
+
+- inaugura personaggio inetto
+- debolezza/insicurezza psicologica
+- --> incapace e impreparato alla vita
+- è originale?
+  - inetto ennesima reazione come fanciullino e superuomo
+- debolezza negli aspetti sociali
+- Alfonso Nitti
+  - piccolo borghese
+  - dedito e amante della cultura
+  - dissesto nella collocazione sociale
+    - escluso --> inadeguatezza/inettitudine
+  - != modello di forza a cui si guarda con immirazione
+    - guarda contemplivamente il suo protagonista
+- romanzo psicologico
+  - come anche il piacere
+  - ma con sequenze riflessive
+    - qui tutto innervato cosi
+- critica lo stronca/insuccesso
+  - pubblico del tempo non ha le coordinate per comprenderlo
+    - Freud poi al tempo non è così conosciuto in Italia
+- focalizzazione interna
+
+## Senilità
+
+- più insuccesso del primo
+- Emilio Brentani
+  - anche lui borghese intellettuale
+  - spinto al godimento piacere
+    - incarna nella figura di Angiolina
+      - ma relazione in cui emerge ancora di più la sua inettitudine
+- anche qui presente il dominatore
+  - caratteristiche del superuomo
+- atteggiamento fortemente critico dell'autore verso i personaggi
+  - interventi espliciti narratore
+    - voce fuori campo
+    - per smascherare autoinganni
+      - ci si giustifica per assolversi
+        - meccanismo psicologico
+- raccontare questi meccanismi potere conoscitivo/narrativo
+
+## La coscienza di Zeno
+
+- coordinate per leggere le parti del libro
+  - esce nel 1923
+    - WWI
+    - teoria relatività
+    - impatto sul sentire comune dell'uomo
+    - in qualcosa si può trovare riflessione guerra (alla fine la faremo)
+  - tempo misto
+    - nuclei tematici
+    - tempo della coscienza
+      - ep lunghi --> corti o vice versa
+  - attenzione attendibilità/inattendibilità narratore
+    - la sua coscienza lo vede così
+    - parte già dall'inizio nella prefazione
+    - cercare autoinganni/incoscienza
+  - chi considera sano e quante volte si considera malato
+  - attenzione forma che sembra che non scorra
+    - costrutti che sembra scriva male
+      - es concordanze che noi non usiamo
+        - io volevo di andare

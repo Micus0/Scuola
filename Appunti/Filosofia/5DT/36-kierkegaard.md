@@ -10,25 +10,25 @@
     - colpe dei padri ricadono sui figli
   - cucciolata di figli numerosa
   - serie di lutti e grandi dolori
-- grande dolore peccato di suo padre
+- **grande dolore peccato di suo padre**
   - ha tradito la moglie con la serva di casa
   - --> senso di colpa per il padre
-- regina olsen chiede si sposarlo
-  - --> rifiuta
+- **regina olsen chiede si sposarlo**
+  - --> **rifiuta**
     - anche se si amavano tanto
     - potrebbe tradirlo
 - rifiuta anche estrema unzione
   - morire con il confronto dei sacramenti
   - non si sente all'altezza del perdono
-- --> vissuto male la sua vita
-  - condizionato dai sensi di colpa
+- --> **vissuto male la sua vita**
+  - condizionato dai **sensi di colpa**
 - ma pensiero in tutta un'altra direzione
 
 ### Pensiero
 
 - padre esistenzalismo contemporaneo
   - tema esistenza
-- **pensiero del singolo, possibilità, out out**
+- **pensiero del singolo, possibilità, aut aut**
   - != hegel et et (tesi, antitesi, sintesi) --> no alternativa
   - basato sulla scelta --> dell'individuo
   - --> esistere vuol dire scegliere
@@ -36,9 +36,9 @@
   - agisce in un altro modo
     - condizionato dai sensi di colpa e quindi vissuto male la sua vita
 - 3 modelli di esistenza
-  - estetico
+  - **estetico**
     - es don giovanni (europeo) o casanova (italiano/veneziano)
-    - uomo libero per eccellenza
+    - **uomo libero per eccellenza**
       - ogni notte cambia donna
       - non si lega con nessuno
         - pensa di non avere capacità di prendere impegni
@@ -46,18 +46,18 @@
       - disperazione
       - mancanza di speranza nella possibilità di scelta
     - vive di sensazione, il momento (carpe diem), l'attimo
-    - --> schiavo di se stesso, nel suo futuro e nelle sue passioni
-  - uomo sposato
-    - uomo che sceglie
+    - --> **schiavo di se stesso**, nel suo futuro e nelle sue passioni
+  - **uomo sposato**
+    - **uomo che sceglie**
       - esclude tutte le altre dalla sua esistenza
         - scelta che lo costringe per dovere
         - ma non certezza che si rivela la migliore
       - --> dovere più che convinzione
       - porta a fare errori che portano a rimurginare
-    - --> schiavo dei suoi doveri
-  - uomo di fede
-    - es abramo
-      - sceglie di fidarsi
+    - --> **schiavo dei suoi doveri**
+  - **uomo di fede**
+    - es **abramo**
+      - **sceglie di fidarsi**
         - dio gli dice di andare nella terra di adur
         - viaggio per la terra promessa
         - ripagata --> figlio nonostante infecondi (isacco)
@@ -66,7 +66,7 @@
           - ma gli dice di sacrificarlo
             - prova uommo di fide
         - --> grande discendenza
-    - né schiavo delle passioni né dovere
+    - **né schiavo delle passioni né dovere**
       - ripone la sua fiducia in se stesso e negli altri
       - accetta quello che la vita propone
         - ??? opportunità da affrontare
@@ -74,32 +74,42 @@
           - sa di potercela fare
             - accetta vita cosi com'è
             - mantiene fiducia
-      - --> sempre possibilità di salvezza
-    - --> stato d'animo angoscia
+      - --> **sempre possibilità di salvezza**
+    - --> **stato d'animo angoscia**
       - stato del rischio
-      - no felice, ma serio e libero
+      - **no felice, ma serio e libero**
       - scegliere è difficile
-        - fiducia cosa seria
+        - **fiducia cosa seria**
           - infatti uomo sfiduciato (attenzione chi in malafede)
             - padre tradito, famiglia, modello, valori
               - non riesce a recuperare fiducia
               - mal??? cosi tanto che non ce l'ha in se stesso
-    - comunque vada --> occasione per scegliere
+      - angoscia come categoria umana necessaria
+      - angoscia --> rapp l'io con il mondo
+      - **disperazione** --> rapp l'io con se stesso
+    - --> **fede certezza angosciosa**
+      - fede è paradossale
+      - tutto è impensabile
+        - la fede è il capovolgimento paradossale dell'esistenza
+    - **comunque vada --> occasione per scegliere**
     - fidarsi non è delegare scelta?  
       - no perché fidarsi della scelta di qualcun altro, non lasciare decidere a qualcun altro
-- cristianesimo
+    - **solitudine della fede**
+      - rapporto privato tra l'uomo e dio/assoluto
+        - non si entra in compagnia e non si scorgono regole
+- **cristianesimo**
   - religione rispetta di più dimensione libertà che si fa uomo
-    - gesù uomo autenticamente libero
+    - **gesù uomo autenticamente libero**
       - accetta morte ingiusta, innociente
         - bene superiore --> salvezza degli uomini
-  - paradossale e scandalosa
-    - propone fiducia in dio infinito che si fa uomo
+  - **paradossale e scandalosa**
+    - **propone fiducia in dio infinito che si fa uomo**
       - dio accetta condizione umana del perdente
         - dio il peggiore nella croce
           - gesù ha bestemmiato
             - si è detto dio
             - mancato di rispetto autorità (socrate) e alla tradizione
-  - --> ma se possibilità di riscatto per l'ultimo, allora per tutti
+  - --> **ma se possibilità di riscatto per l'ultimo, allora per tutti**
     - ma anche fiducia di riscattarsi dal proprio male (manca a kirkegaard)
       - ma se la strada giusta
         - ma non la sceglie
@@ -107,6 +117,6 @@
         - sceglie di non scegliere
 - != shopenhauer
   - riscattarsi rinunciando al proprio essere
-- --> individui libero arbitrio
+- --> **individui libero arbitrio**
   - possibilità
   - no puzzle (!= hegel)

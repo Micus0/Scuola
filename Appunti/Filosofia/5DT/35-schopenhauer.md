@@ -35,8 +35,8 @@
   - perché **forza cieca e irrazionale** che **condanna alla vita**
     - **volontà di vivere**
       - necessaria per continuare la specie
-      - energia a-logica e irrazionale (?pascoli?)
-    - illusione + grande: l'amore
+      - energia **a-logica** e irrazionale (?pascoli?)
+    - **illusione + grande: l'amore**
       - al momento buono ti delude
 - **ciò che io vedo**
   - mondo è **rappresentazione**
@@ -46,7 +46,7 @@
     - se tolgo il velo mi rimane:
       - la constatazione della volontà di vivere
         - vita è una condanna
-    - ribaltamento di kant
+    - **ribaltamento di kant**
       - fenomeno --> illusione sogno (velo)
       - noumeno --> dietro il velo: volontà di vivere
         - --> conoscibile
@@ -56,9 +56,9 @@
   - suicidio non è liberarsi dalla volontà, ma dalla vita
 - --> liberarsi dalla volontà di vivere
   - **liberazione dal dolore** attraverso
-    - arte
-    - morale/compassione
-    - ascesi (+alta)
+    - **arte**
+    - **morale/compassione**
+    - **ascesi** (+alta)
       - allontanamento bisogni materiali
       - condizione del Nirvana (viaggi in oriente)
         - controllo di sé + alto in cui non ci sono + problemi

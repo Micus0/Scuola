@@ -2,16 +2,16 @@
 ## Hegel
 
 Introduzione e biografia
-- visione del mondo rigorosa
+- **visione del mondo rigorosa**
 - fondata sulla necessità
 - ogni cosa ha il suo posto
 - panologistica
-- idealismo panologistico
-  - tutto è ragione
-  - tutto ciò che è razionale è reale, tutto ciò che è reale è razionale
-- usa ragione dialettica
-- hegel professore universitario
-  - topo da biblioteca (come kant)
+- **idealismo panologistico**
+  - **tutto è ragione**
+  - **tutto ciò che è razionale è reale, tutto ciò che è reale è razionale**
+- **usa ragione dialettica**
+- **hegel professore universitario**
+  - **topo da biblioteca** (come kant)
   - passa il tempo a studiare
   - religioso: religione considerata via di accesso all'assoluto
   - fase giovanile scrive molte opere
@@ -19,7 +19,7 @@ Introduzione e biografia
       - conflitto aperto (non sempre vanno d'accordo)
     - vita di gesù
       - nome di gesù divide
-    - lo spirito del cristianesimo e il suo destino
+    - **lo spirito del cristianesimo e il suo destino**
       - mito del diluvio come viene raccontato dalla bibbia e dai greci
         - bibbia: diluvio scatenato da dio perché umanità diventata cattiva
           - mosé carica una coppia di animali per specie e la sua famiglia (proteggersi dal diluvio)
@@ -35,49 +35,49 @@ Introduzione e biografia
         - condizione di mortificazione rispetto a dio giudice ma che salvifica
       - nel diluvio greco deucalione e pirra non attendono di salvarsi da qualcun altro, accettano condizione presente
         - si riconcigliano con la natura
-      - mose --> crea divisione
-      - greci --> stanno dentro
-- --> religione via di accesso insufficiente
-  - causa occasione di divisione
+      - **mose --> crea divisione**
+      - **greci --> stanno dentro**
+- --> **religione via di accesso insufficiente**
+  - causa **occasione di divisione**
 - ragione strumento di eccellenza per riconoscere e spiegare la realtà
   - definizione filosofia dai greci --> usa ragione
-- --> tutto ha un senso, nulla avviene per caso e tutto è giustificabile perché è necessario
-- visione del mondo unitario/infinito che ha senso nella sua totalità
+- --> **tutto ha un senso, nulla avviene per caso e tutto è giustificabile perché è necessario**
+- **visione del mondo unitario/infinito** che ha senso nella sua totalità
   - le parti del tutto assumono significato proprio in quanto parti del tutto
-  - es: puzzle
+  - es: **puzzle**
     - tessere singole --> non hanno significato
       - ognuna ha il suo posto
     - il tutto si vede un'immagine ---> ha significato
   - il tutto si manifesta nelle parti, le parti sono manifestazione del tutto
 - realtà ha un senso che è ragione stessa
-- natura ontologica e gnoseologica
+- **natura ontologica e gnoseologica**
   - fondamento dell'essere/esistenza/reale
   - il mezzo per spiegare la ragione è la ragione stessa
 - es riv francese
   - si arriva da li
-  - napoleone si crede dio ma schiavo della ragione
-- ragione dialettica processuale
+  - **napoleone si crede dio ma schiavo della ragione**
+- **ragione dialettica processuale**
   - il tutto si srotola
   - ritornare il tutto attraverso la dialettica (tesi, antitesi, sintesi)
     - es ancien regime, riv, napoleone
-- muore nel 1831 --> fine romanticismo/restaurazione
+- **muore nel 1831 --> fine romanticismo/restaurazione**
 - maestro di molti filosofi (es Marx)
 
 Critiche
 - fichte
-  - da hegel filosofia paragonabile ad una semiretta (inizio ma non fine)
+  - da hegel filosofia **paragonabile ad una semiretta** (inizio ma non fine)
 - schelling
-  - da hegel filosofia come la notte in cui le vacche sono tutte nere
+  - da hegel filosofia come la **notte in cui le vacche sono tutte nere**
 - ritiene di essere migliore
   - idealismo panlogistico fondato su 3 capisaldi
-    - risoluzione del finito nell'infinito
+    - **risoluzione del finito nell'infinito**
       - la realtà è tutto, e che la parte è manifestazione del tutto
       - il finito assume significato in quanto parte dell'infinito
       - --> manifestazione dell'infinito
       - singolo non conta niente
-    - identità tra ragione e realtà
+    - **identità tra ragione e realtà**
       - detto e ridetto
-    - funzione giustificatrice della filosofia
+    - **funzione giustificatrice della filosofia**
       - immagine della nottola di minerva
         - immagine filosofo e funzione filosofia stessa
           - spiegare la realtà fondata sulla ragione
@@ -86,49 +86,49 @@ Critiche
       - --> filosofia funzione giustificatrice
 
 Parole chiavi
-  - panlogismo
+  - **panlogismo**
     - tutto è ragione
-  - ragione dialettica
-  - tutto e parte
-  - religione non via per l'assoluto (es diluvio)
-  - tutto, infinito, spirito, ragione, coscienza....stessa cosa
+  - **ragione dialettica**
+  - **tutto e parte**
+  - **religione non via per l'assoluto** (es diluvio)
+  - tutto, infinito, spirito, ragione, coscienza....**stessa cosa**
 
 Tesi, antitesi e sintesi spiegate bene nelle opere
 
 Opere:
-- fenomenologia dello spirito (FS)
-  - romanzo/storia romanzata della coscienza
+- **fenomenologia dello spirito** (FS)
+  - **romanzo/storia romanzata della coscienza**
     - che si rileva! (epifania)
       - no sguardo..??
       - no storia romanzata
         - dura nel tempo e nello spazio
           - anche al di là
           - nelle fasi della dialettica
-    - coscienza sensibile --> coscienza assoluta
+    - **coscienza sensibile --> coscienza assoluta**
     - come ragione (coincide con coscienza) fonda la realtà
       - manifestarsi in coscienza assoluta (totalità)
-  - fenomenologia = fanomain (mostrarsi) + logia (discorso) --> discorso sulla manifestazione
+  - fenomenologia = fanomain (mostrarsi) + logia (discorso) --> **discorso sulla manifestazione**
   - tappe FS
-    - tesi --> affermazione coscienza comune (sensibile)
-      - momento del qui e ora
+    - tesi --> **affermazione coscienza comune** (sensibile)
+      - **momento del qui e ora**
       - es tesserina
-    - antitesi --> si trasforma in autocoscienza
-      - prende coscienza di se in relazione ad altro
+    - antitesi --> **si trasforma in autocoscienza**
+      - prende **coscienza di se in relazione ad altro**
       - es tesserina con altre tesserine
-    - sintesi --> coscienza assoluta
+    - sintesi --> **coscienza assoluta**
       - es puzzle
         - secondo modello predefinito
         - una volta completato --> capire significato
-  - --> filosofia et et (kirkegard o o)
-  - schema estremamente rigido
+  - --> **filosofia et et** (kirkegard o o)
+  - **schema estremamente rigido**
     - rigidità dialettica
     - non c'è un fuori dal puzzle
     - tanti seguaci, ma anche tanti oppositori
   - schema fenomenologia dello spirito (tanti parti da non sapere) (485)
-    - coscienza (tesi)
+    - **coscienza** (tesi)
       - certezza sensible, percezione, intelletto
-    - autocoscienza (antitesi)
-      - relazione dipendenza/indipendenza --> figura ideale del servo-padrone
+    - **autocoscienza** (antitesi)
+      - relazione dipendenza/indipendenza --> **figura ideale del servo-padrone**
         - rendersi conto di chi è in relazione al resto
         - sempre conflitto
           - servo diventare padrone
@@ -139,61 +139,61 @@ Opere:
           - lavoro
       - padrone più alto: dio
         - e l'uomo è il servo
-        - --> coscienza infelice
+        - --> **coscienza infelice**
           - tentativo liberazione rapp servo-padrone
           - uomo non può mettersi al posto di dio
-      - --> uomo pedina in mano della ragione (es napoleone)
-    - ragione (sintesi)
+      - --> **uomo pedina in mano della ragione** (es napoleone)
+    - **ragione** (sintesi)
   - fenomelogia dello spirito in due parti (489)
-    - prima parte sulla coscienza
-      - coscienza sensibile --> oggetto
+    - **prima parte sulla coscienza**
+      - coscienza sensibile --> **oggetto**
         - tesserina (verde) non ha un ruolo
-      - autocoscienza --> soggetto
+      - autocoscienza --> **soggetto**
         - tesserina (pezzo di prato) assume un ruolo dopo essersi rapp con gli altri
-      - ragione --> puzzle
-    - seconda parte (solo prima tripartizione) (sarà oggetto di studio della seconda opera)
-      - spirito (eticità, cultura, moralità )
+      - ragione --> **puzzle**
+    - **seconda parte** (solo prima tripartizione) (sarà oggetto di studio della seconda opera)
+      - **spirito** (eticità, cultura, moralità)
       - religione
       - filosofia
-- enciclopedia delle scienze
-  - ha organizzato il sistema scientifico/epistemico (sapere) e le diverse scienze
-  - sistema sapere --> ambiti del sapere
+- **enciclopedia delle scienze**
+  - **ha organizzato il sistema scientifico/epistemico** (sapere) e le diverse scienze
+  - sistema sapere --> **ambiti del sapere**
   - ragione che spiega la realtà
-  - sapere si fonda sull'idea
+  - **sapere si fonda sull'idea**
     - realtà è idea che si manifesta in maniera dialettica
     - perché ragione spirituale (ragione = spirito)
       - l'idea è tutto != platone idea oltre il mondo sensibile
   - l'idea che: (continua tripartizione)
-    - è in sé
+    - **è in sé**
       - sapere è logica
-    - fuori di sé
+    - **fuori di sé**
       - filosofia della natura (spirito che esce in relazione con natura)
-    - ritorna in sé e per sé
+    - **ritorna in sé e per sé**
       - filosofia dello spirito
-        - spirito soggetto (individuo)
-        - spirito oggetto
-        - spirito assoluto
+        - **spirito soggetto** (individuo)
+        - **spirito oggetto**
+        - **spirito assoluto**
 
 Rapporto ragione con FS e ES
-- tanti percorsi diversi per arrivare ad un idea
+- **tanti percorsi diversi per arrivare ad un idea**
 - tutto cio che è razionale è reale, e tutto cio che è reale è razionale
   - ragione è fondamento della realtà --> FS --> coscienza...
   - e spiegazione della realtà --> ES --> idea
 - ragione
-  - coscienza --> fondamento
-  - idea --> spiegazione
+  - coscienza --> **fondamento**
+  - idea --> **spiegazione**
 
 Critica ad Hegel
 - FS
   - dialettica di Hegel chiusa o aperta?
-    - chiusa
+    - **chiusa**
       - sintesi coincide con tesi --> circolarità
         - tende a giustificare la conservazione della storia/status quo
-      - --> non cambia si ripete
+      - --> **non cambia si ripete**
       - serve moltissimo ai conservatori
         - difendere status quo
-    - aperto
-      - circolarità ad aspirale
+    - **aperto**
+      - **circolarità ad aspirale**
         - si aggiungono pezzi
         - aspirare alla ricerca
       - --> sembra più corretta
@@ -215,3 +215,5 @@ Considerazion varie
   - --> giustificare
     - trovare un significato!!!
 - 506 confronto idealisti
+
+Aggiungere parte sull'eticità dai fogli

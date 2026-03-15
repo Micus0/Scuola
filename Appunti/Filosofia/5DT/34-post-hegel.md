@@ -20,7 +20,7 @@
   - **discepoli**
     - lo apprezzano molto
       - critica per superarlo
-    - più importanti
+    - più importanti (della sinistra)
       - **marx**
       - **feuerbach**
     - a sua volta due correnti

@@ -16,24 +16,24 @@
     - anche in filo es: platone, filosofia cristiana, cartesio, locke
       - idealismo di senso gnoseologico
 - idealismo romantico
-  - trascendentale
+  - **trascendentale**
     - occhio! es kant
       - filosofia trascendentale: riv copernicana conoscienza su forme a priori
     - viene dopo kant
       - fare i conti con la sua riv: al centro il soggetto
-  - soggettivo
+  - **soggettivo**
     - --> soggetto al centro
     - no l'io penso kantiano (principio ordinatore)
       - finito
     - --> **io principio soggettivo creatore**
       - **infinito**
-  - assoluto
+  - **assoluto**
     - --> infinito = assoluto
       - non esiste altro da lui
     - unico, è tutto
       - essendo tutto, si manifesta attraverso le parti
       - insieme di soggettività
-  - es puzzle
+  - es **puzzle**
     - tante tesserine
     - scopo ricostruire immagine
       - quindi non fare quello che vogliamo

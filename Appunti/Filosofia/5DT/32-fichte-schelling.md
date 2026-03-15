@@ -37,7 +37,7 @@
 
 ## Schelling
 
-- idealismo estetico ed oggettivo
+- **idealismo estetico ed oggettivo**
 - principio unitario che fonda la realtà è l'assoluto
 - dialettica:
   - tesi: **oggettivo** (natura=visibile dello spirito)

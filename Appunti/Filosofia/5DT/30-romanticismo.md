@@ -1,7 +1,7 @@
 # Filosofia
 ## Romanticismo
 
-- ripresa kant: manifesto illuminismo
+- ripresa kant: **manifesto illuminismo**
   - tutti uomini dotati di ragione
   - maggioranza rifiuta di emanciparsi
     - codardi e paurosi
@@ -22,21 +22,21 @@
       - noumeno: solo pensato ma non conoscere
         - non condizioni a priori
 - apre le porte al pensiero successivo
-- illuminismo entra in crisi
-  - storico
+- **illuminismo entra in crisi**
+  - **storico**
     - bagno di sangue rivoluzione francese
       - contesto in cui la ragione illuminista affoga
       - principi rivoluzione da nobili illuminati
       - terrore giacobino e ghigliottina
         - nemico rivoluzione destinato al patibolo (alla faccia della libertà)
-    - fine riv --> ascesa napoleone
+    - **fine riv** --> ascesa napoleone
       - lui è tutto o niente
         - non si può rimanere indifferenti
       - fermato dal gelo e tattica terra bruciata
         - superato il limite
       - uomo di una passione: non capisce poi più niente
         - --> **uomo non solo fatto di ragione, ma anche passione/irrazionalità che brucia**
-  - filosofico
+  - **filosofico**
     - **ragione illuminista** riconoscerne il limite
       - ragione empirica/statica
         - **non riesce ad andare oltre se stessa**
@@ -54,13 +54,13 @@
             - solo ora non posso raggiungerla, in futuro si può raggiungere
     - si apre di nuovo la ricerca/dibattito filosofico
       - si nutre di gusti letterari estetici
-        - sturmungrand
+        - **sturmungrand**
           - esalta la tempesta e assalto
             - animo uomo pura irrazionalità
             - parte più buia dell'essere umano
               - affascinata dal mistero
               - es dentro cimitero quando piove
-        - neoclassicismo
+        - **neoclassicismo**
           - moda greca
           - armonia delle forme
             - es statue di canova
