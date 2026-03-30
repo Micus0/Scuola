@@ -216,4 +216,37 @@ Considerazion varie
     - trovare un significato!!!
 - 506 confronto idealisti
 
-Aggiungere parte sull'eticità dai fogli
+Eticità, stato etico, storia
+- da FS spirito soggettivo --> processo dialettico
+  - antropologia
+  - fenomenologia
+  - psicologia
+- da FS spirito oggettivo (sovra individuale) --> processo dialettico
+  - diritto astratto
+    - proprietà contratto contro il torto
+    - legalità
+    - proteggere comunità
+    - --> legge
+      - da osservare
+  - moralità
+    - ci possono essere leggi ingiuste moralmente (o eticamente)
+    - senso del bene presente in ognuno
+      - ma soggettivo
+    - quindi moralità ma dello spirito oggettivo
+    - morale insieme di valori
+    - --> anche senza legge
+      - fonte ispirazione comportamento
+  - **eticità**
+    - diritto che si fa morale o morale che si trasforma in diritto
+    - assenza --> banalizzazione male
+    - attraverso le istituzioni
+- da eticità --> istituzioni --> processo dialettico
+  - famiglia
+    - si fondono qui
+  - società civile
+    - insieme famiglia in relazione
+    - in virtù dei valori e con leggi
+  - stato
+    - sintesi relazione famiglia società civile
+      - interesse partecipazione individuale e interesse collettivo
+    - garantisce tutti

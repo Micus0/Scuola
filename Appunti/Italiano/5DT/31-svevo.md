@@ -189,3 +189,89 @@ Elementi
     - costrutti che sembra scriva male
       - es concordanze che noi non usiamo
         - io volevo di andare
+
+### Prefazione (114)
+
+- firmata dal dottor S
+- quello che zeno scrive lo scrive alla fine
+- commissionato di scrivere su dei temi i suoi ricordi/riflessioni
+  - autobiografia
+  - come terapia
+- ad un certo punto ha smesso la terapia
+  - non crede che abbia una funzione terapeutica
+- analisi
+  - finzione narrativa
+    - sdogana principio inattendibilità
+    - stesso dottore è inattendibile
+      - repubblica per vendetta
+  - bugie accumulate
+    - perché zeno mente?
+      - percezione diversa che ha
+      - autoinganniamo
+        - la nostra cattiva coscienza porta in direzione che non è reale
+      - anche lapsus/atti mancati
+        - tipici della coscienza (non solo di zeno)ù
+  - inceppamento linguistico
+    - io sono pronto di (invece di a) dividere
+- meccanismi della coscienza
+  - con psicoanalisi studio dell'io
+
+### Il fumo (117)
+
+- vuole smettere di fumare
+  - motivo per cui va dallo psicoanalista
+- gli provoca una nevrosi
+  - malattia che è fulcro della sua riflessione
+- anche prossimi capitoli figura paterna
+  - figura forte/solida
+  - ammirazione perché non riesce a raggiungere
+    - a livello economico
+    - violino ma non bravo
+  - --> irrisolto
+- testo
+  - non ha smesso
+    - sigaretta quasi musa aspiratrice
+  - 8-12
+    - si ricordo come si faceva capanello???
+  - fino a 26
+    - quante volte si inganna per raggiungere la fine
+    - ultima sigaretta
+  - [..]
+  - reazione a quando lui fuma
+    - è disgustato
+  - questa è proprio l'ultima e me la gusto
+  - rapporto lui fumo e padre
+    - fuma per raggiungere solidità padre
+      - lui non lo riconosce
+    - appropriarsi di quella forza
+    - non smette perché entra in conflitto con questo
+      - e poi lui la chiama malattia
+      - nevrosi
+  - senilità????
+  - cambia corso di studi
+    - inizia traccia intettitudine
+      - non conclude mai niente
+  - alibi che si dava
+    - avrei smesso ma mancava quella roba lì
+    - autoinganni
+      - segni inettitudine
+  - **credersi grande di una grandezza latente**
+    - latente
+      - nascosta
+    - io sarei se solo questa sarebbe un po' diversa
+      - ma in effetti non si palesa mai
+  - guarderà ad un altro personaggio di solidità
+    - ma...
+      - es padre
+        - modello solidità di chi dice che la terra non gira
+        - poi la terra gira? si
+      - --> modello non positivo
+        - danno risposte non basate
+        - a fine romanzo modelli che verranno rovesciati
+      - --> vita inautentica (heidegger)
+  - atti mancati
+    - non ha fatto una cosa perché è successo un'altra cosa
+  - senza fumare
+    - sarebbe un uomo maturo
+    - non si fa influenzare da modelli di solidità apparente
+
