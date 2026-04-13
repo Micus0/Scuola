@@ -275,3 +275,175 @@ Elementi
     - sarebbe un uomo maturo
     - non si fa influenzare da modelli di solidità apparente
 
+Analisi nuova post lettura
+
+Matrimonio
+- destrutturazione romanzo novecentesco
+  - riflessioni raccolte per tema
+  - dissoluzione sequenze logico..
+  - tempo narrativo, cronologico...etc
+    - diversi tempi
+    - tempo della coscienza che ci mette ad elaborare
+    - piani temporali sfasati
+- inattendibilità narratore
+  - neanche soggettività dannnunziana
+  - è la coscienza che è anche cattiva
+    - creazione alibi
+    - coscienza borghese
+- genialità romanzo sta nel rendere narrativamente il flusso di coscienza
+  - difficile da leggere ma è la rappresentazione della coscienza
+- matrimonio e malattia
+- ruolo malattia
+  - intesa come nevrosi è il motore della vicenda
+  - va dal psichiatra per il fumo e per la nevrosi
+  - lui vuole sentirsi malato
+  - guarda e ammira la salute degli altri
+  - ammira la sicurezza e solidità borghese del padre
+    - terra piatta
+  - scelta augusta
+    - sembra frutto dell'errore
+    - guido vincente e lui perdente
+      - inettitudine
+    - atti mancanti/lapsus in maniera incosapevole sulla scelta di augusta
+      - non è la più bella ma la migliore per lui
+      - aver scelto augusta è stata la scelta per ottenere la solidità borghese
+  - augusta descrizione corrosiva
+    - non si fa certe domande (differenza col padre)
+    - guarda solo oggi
+  - malattia serve ad evolversi
+    - motore dinamico
+  - chi è sano non si adatta
+    - inetto eccesso di pensiero non conclude
+  - atto mancato/lapsus es funerale di guido
+- nuova sensazione di malattia
+  - mondo malato e sguardo corrosivo che sembra che sia atroce la salute degli altri
+- errori frutto dell'inconscio
+- bilancio zeno
+  - negativa falsa coscienza borghese presente in lui
+  - positiva perché riusciamo grazie a lui a capire questa falsa coscienza
+
+Psicoanalisi
+- indomani della prima guerra mondiale
+- riflessione sulla lingua
+- radiose giornate di maggio ed entrata in guerra WWI
+- smesso di guardare gli altri con invidia e per una volta si è elevato
+- malattia fulcro/nucleo/centro per osservare chi cosi non è malato
+  - anche se sarebbe quello che secondo lui sembra
+  - realtà non si può stabilire
+- guerra crea condizione che ribalta la sua prospettiva
+  - da perdente a vincente
+  - malato reale chi ha problemi fisici della guerra o chi non ce la fa
+
+Da sapere dai testi
+- non tanto trama ma evoluzione inetto
+
+Coscienza di zeno: romanzo di guerra?
+
+Ultime pagine:
+- poco tempo perché commercio occupa
+  - prima volta che lo dice
+- pensa di essere guarito grazie al commercio
+  - ha dimostrato a se stesso di essere passato dalla parte dei vincitori/lottatori (shopenhauer)
+- si comincia a realizzare senza l'olivi e le condizioni che lo portavano ad essere un insuccesso
+- con la WWI riesce ad investire su risorse che mancheranno
+  - attuale
+  - vincitore chi sfrutta meccanismi economici che lo consentono di arricchirsi
+    - speculazioni incredibili
+
+Da pag 470 peak
+- riflessione sulla vita come malattia senza cura
+  - mortale
+- proliferazione uomo
+  - spazio e risorse non disponibile per tutti
+  - promotore del progresso
+    - meccanismo di natura
+- darwinismo prendendo esempio gli animali
+  - gli animali di fronte alle loro mancanze non possono fare niente
+- l'uomo utilizza ordigni fuori di se oltre l'evoluzione naturale
+  - per inserirsi nella catena del progresso
+- --> no evoluzione fisica ma produrre ordigni esterni che gli permettano di partecipare al progresso
+- ordigno inventato per buona causa
+  - ma utilizzato per tutto
+- --> più furbizia --> più debolezza
+- prima: ordigno prolungamento dell'arto
+  - es clava nei primitivi
+- dopo: ordigno slegato dal fisico
+- --> crea la malattia
+  - non soppravvive più chi è più forte
+  - ma chi sa usare meglio l'ordigno
+- --> persa selezione salutare
+  - salute del mondo sta che ci sia un principio naturale
+  - uomo l'ha rotto
+- vita inquinata alle radici
+  - quel tipo di malattia
+- per tornare alla salute: catastrofe inaudita prodotta dagli ordigni
+  - quando gas non basterà più: uomo inventerà esplosivo incomparabile
+    - quelli esistenti giocattoli
+  - il problema è chi la userà
+    - un uomo più ammalato degli altri lo userà per distruggerlo
+- ci ha visto molto lungo
+
+Malattia
+- inizio
+  - zoppica, nevrosi
+- poi salute malata di augusta
+  - vedere in maniera straniante la salute
+- quello che all'inzio si pensa sano, rimane sano
+- l'inetto malato prova a cambiare
+- fine
+  - salute malata
+  - malattia serve a progredire
+- vita è una malattia inquinata alle radici
+- utilizzo ordigni cambia la selezione naturale
+  - unico modo ripristinare con ordigno che riporti allo stato naturale
+  - chi detiene ordigni sta al potere
+    - strumenti di potere
+- più ammalato è quello più assetato di potere
+
+Ordigno
+- strumento del campo semantico bellico
+  - l'uomo è in lotta continua
+- cambia la selezione naturale
+  - chi lo usa esercita strumento di potere
+  - vince chi sa usare meglio gli ordigni (occhialuto uomo)
+    - non più chi è forte
+- vita ammalata alle radici
+  - uomo è il batterio
+- si può permettere di essere più debole
+  - ordigno sostituisce l'uomo
+  - --> razza umana si indebolisce
+
+Vera profezia
+- conclusione profetica
+- per eliminare la malattia --> eliminare la vita umana
+  - ordigno esplosivo che distrugga tutto
+- vince chi è più ammalato e utilizza meglio gli ordigni
+  - sottratto spazi che non erano suoi
+  - adattarsi in luoghi in cui senza ordigni non ci sarebbe riuscito
+
+Maloney critico: romanzo di zeno è di guerra?
+- esce negli anni '20
+- dove la WWI?
+  - ha portato come pirandello perdita delle certezze
+    - dove si colloca l'io
+  - psicoanalisi
+  - la guerra per zeno è quello gli permette di guarire
+    - allontana personaggi che lo rimandavano alla sua inettitudine
+    - grazie alla guerra si arricchisce
+  - alla fine principio per cui l'uomo si fa la guerra: la radice di tutte le guerre
+    - arriverà un uomo più ammalato premerà il pulsante
+  - quindi:
+    - come oggetto della narrazione no
+    - ma nell'ultima parte si
+      - spiega le cause
+
+Inetto è l'antitesi del superuomo?
+- se preso superficialmente si
+- ma nel profondo no
+- accostare non il risultato finale, ma il motivo
+  - degrado, nido, superuomo, inetto
+
+Perché è presente questo desiderio di potere che porta all'utilizzo degli ordigni per colmare le mancanze dell'uomo?
+
+Collegare con Socrate dialogo con Diotima
+- l'amore <---> la malattia
