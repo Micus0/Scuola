@@ -174,9 +174,9 @@ La formula motiva il fatto che le onde p si propagano anche nei fluidi e nei gas
 
 Definizione
 - prodotto di 3 fattori
-  - pericolosità (terremoti)
-  - vulnerabilità (edifici vulnerabili)
-  - esposizione (popolazione)
+  - **pericolosità** (terremoti)
+  - **vulnerabilità** (edifici vulnerabili)
+  - **esposizione** (popolazione)
 - vale per ogni tipo di rischio
 
 
