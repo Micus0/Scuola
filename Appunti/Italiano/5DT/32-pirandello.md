@@ -187,3 +187,407 @@ Vita come flusso continuo
 - alcune cittadine
   - più forte il meccanismo
   - lavoro alienante
+
+
+## Ciaula scopre la Luna
+
+[..]
+
+
+## Parole chiavi/filosofia
+
+- umorismo
+- filosofia del lontano
+  - forestiere della vita
+- famiglia opprimente
+- famiglia e lavoro trappole sociali
+  - obbligano ad indossare quelle maschere
+    - imprigionano
+    - bloccano flusso magmatico della vita
+      - cristallizzandosi non permette di continuare la nostra tendenza evoluzionistica
+- soluzione: la follia
+  - belluca
+    - capisce il gioco
+  - nasce dalla consapevolezza
+- soluzione: strumentalizzare la maschera a proprio favore
+  - chiacchero
+    - patente
+- c'è dolore
+  - prendere consapevolezza frammentazione proprio io
+- umorismo
+  - concetto avvertimento/sentimento del contrario
+- la realtà cos'è?
+  - no
+  - è soggettiva
+- relativismo conoscitivo
+  - perdita delle certezze
+  - se realtà magmatica e quindi polivalente multiforme e non una sola forma cristallizzata
+  - se non è possibile identificarla in un solo aspetto, allora ognuno di noi ha la sua verità
+    - bernardino lamis
+- allora su cosa si basa la comunicazione?
+  - --> incomunicabilità
+  - --> solitudine
+- titoli romanzi spiegano molto meglio
+  - il fu mattia pascal
+    - se fu allora non c'è più
+  - uno, nessuno, centomila
+- presa di coscienza inizio '900
+  - certezze positiviste granitiche antropocentriche si sono sgretolate
+  - quando vanno a toccare l'io
+    - solo e profondo dolore
+
+
+## La signora Frola e il signor Ponza, suo genero
+
+- testo
+  - già elemento di follia
+    - non si sa chi è
+  - fortuna di impazzirne
+    - forma di salvezza
+  - voce narrante: qualcuno del paese
+  - ponza maschera del lavoro
+    - segretario di prefettura
+  - [..]
+  - alla fine donna che si affaccia sul balcone non si sa chi è
+- analisi
+  - finale chiuso
+    - relativismo conoscitivo
+  - portata innovativa questa visione e narrativa
+    - tra verga e pirandello generazione
+      - tutti e due siciliani
+      - stravolto totalmente pensiero
+      - realtà oggettiva immodificabile e substrato culturale/genetico --> non esiste realtà oggettiva
+
+
+## Novelle per un anno (continuo)
+
+- novelle multiformi provenienti da ambienti diversi
+  - ?sperero casuale nel tempo? (critico inizia con r)
+- ambiente sociale riferimento: classe borghese
+  - novelle piccole borghesi
+    - prevalgono di più trappole
+- novelle siciliane
+  - aspetto più folclorico/mitico e ancestrale
+  - assurdi come quello della patente
+
+## Ciaula scopre la Luna
+
+- analisi
+  - uscita schema ciaula
+    - ma non consapevole del forestiere
+      - minorato mentale
+  - paragone con rosso malpelo
+    - ambientazione simile
+    - condizioni economiche e di lavoro non cambiano
+    - verga si eclissava per raccontare il vero
+      - chi guarda non può giudicare perché non si può cambiare
+    - pirandello non vuole raccontare il vero
+    - malpelo: ha capito lotta per la vita
+      - aiuta ranocchio con prospettiva straniante
+    - ciaula: non ha capito come funziona
+  - dimensione più primitiva e ancestrale
+    - mondo quando ancora non era razionale
+    - elementi di epifania che sembrano dei riti
+      - quando vede la luna
+        - paura folle perché stava al buio
+  - luna: come nuova nascita
+    - veniva su dal ventre della montagna
+      - come se fosse una gestazione
+      - nascita con tutto il suo dolore nel processo di nascita
+    - epifania luna
+      - riti misterici/iniziazione del passato
+        - aura mistica
+      - es la sera fiesolana (d'annunzio)
+  - mondo privo di consapevolezza animalesca/primordiale
+  - epifania luna: teofania
+    - apparizione divina
+    - ciaula: istintività animalesca
+    - != malpelo: lucido
+
+
+## Romanzi
+
+- il fu mattia pascal
+- uno, nessuno, centomila
+- uno il punto di arrivo dell'altro
+  - pars destruens
+  - pars costruens
+- in comune
+  - inizio in medias res
+  - famiglia e lavoro
+  - stile
+    - discorso indiretto libero
+    - umorismo
+    - focus interiore
+    - io voce narrante rappr frammentarietà
+    - perdita concetto eroico
+    - narratore inattendibile
+      - non tanto come svevo
+        - di natura perché coscienza
+
+
+## Il fu mattia pascal
+
+- trama
+  - fabula intreccio ribaltato
+    - parte dal fondo
+  - [..]
+  - mattia vive in liguria
+    - fallimento azienda
+      - come anche pirandello
+  - ritorna figura dell'inetto
+  - trappole familiari che diventano tentacolari
+  - [..]
+  - finalmente esce dal mattia pascal
+    - scappa dalle trappole
+  - ma errore
+    - non si accontenta di vivere da ogni forma limitante
+    - ma vuole forgiare nuova identità
+      - pensa che motivo di sofferenza sia la precedente identità
+    - troppo attaccato a concezione comune dell'identità
+      - il problema è l'identità
+        - si ritorna alle trappole
+  - altra cristallizzazione dell'identità
+    - cambia nome, vestiti, barba/capelli
+    - si ricostruisce da zero
+    - ma senso di vuoto e solitudine/estraniato
+      - sentisse la necessità di rientrare in quel meccanismo sociale
+  - ma problemi della nuova identità
+    - documenti
+  - suicidio nuova identità per ritornare alla nuova identità
+    - ma nessuno lo riconosce
+    - vecchia moglie si risposa, etc
+  - --> identità vecchia non c'è più
+  - si chiude in biblioteca a scrivere le memorie del mattia pascal
+    - epigrafe funeraria
+
+### Uno strappo nel cielo di carta (187)
+
+- tragedia di oreste
+  - tragedia classico di vendetta
+  - classico eroe greco tutto di un pezzo
+  - etc...
+  - vede che il fondale si strappa
+  - attore vede oltre la scena
+    - recitare una parte ma capire che c'è un mondo fuori
+  - se si strappa il cielo di carta e lui vede dietro?
+- oreste diventerebbe amleto
+  - personaggio del dubbio/certezza
+    - essere o non essere, questo è il dilemma
+- come trumanshow
+  - sensazioni: confusione, smarrimento, perdita di certezze, angoscia (kierkegaard)
+- tra antico e moderno
+  - moderno ha preso coscienza del dubbio
+
+### La lanterninasofia (188)
+
+- da riga 34 fino a 47
+  - lanternini
+    - noi ci muoviamo dove c'è la luce
+      - ognuno di noi ha il suo lanternino
+        - nostre conoscenze, nostra percezione vita
+  - anche lanternoni grandi (riga 64)
+    - ideologie
+    - che noi possiamo seguire
+  - seguire il lanternino ci limita
+    - cose che non conosciamo che stanno nel buio
+    - sembra che ci muoviamo nel giusto ma ci limita
+  - != verga
+    - da realtà scientifica a realtà soggettiva
+      - buio
+      - ci si muove come in una foresta di simboli
+  - quando si spegne il lanternino
+    - entri nel buio
+    - ti accorgi che erano solo le tue convinzioni
+
+
+### Il fu mattia pascal (epigrafe) (193)
+
+- epigrafe funeraria
+- cristallizzazione identità
+
+
+## Uno, nessuno, centomila (195)
+
+- non ha più il nome
+- trama
+  - narrare è Vitangelo Moscarda
+  - Mia moglie e il mio naso (197)
+    - rendersi conto naso un po' storto
+      - non se ne era mai accorto
+      - sciocchezza banalità
+    - ma allora potrebbe avvenire per tutti gli aspetti del proprio carattere
+  - inizia a distruggere le maschere che gli altri gli attribuiscono (anzi le centomila)
+- inetto inconsapevole
+  - vive di rendita
+    - proprietario di una banca
+  - considerato strozzino
+  - --> vende la banca
+- scardinare aspettative della sua personalità
+  - considerato pazzo
+- [..]
+- muore rinasce ogni volta
+  - gli altri non percepiscono la maschera --> allora libertà
+  - non si cristallizza in un'identità
+  - non si tratta di cambiarla sempre ma non averla proprio
+
+### Non conclude (200)
+
+- tribunale
+- dire moscarda non si collega a niente
+- si collega ora al fu mattia pascal
+- [..]
+- prima parte:
+  - concetti lapidari
+- seconda parte:
+  - più rilassante
+  - più lento
+  - senso di libertà di perdersi
+- stile torna di nuovo veloce
+  - perché è di nuovo lui
+  - non devo più pensare
+  - != augusta
+    - lui arriva dopo un tribunale in cui ha preso coscienza e ha scelto
+    - lei non è mai partita
+- di nuovo lento (ultima parte)
+  - filosofia del lontano
+  - muore ogni attimo e rinasce di nuovo senza ricordi
+  - fusione panica
+    - d'annunzio
+      - si fonde con la natura
+      - lui per dominare/elevarsi
+      - solo il superuomo può 
+    - Moscarda
+      - si fonde con la natura
+      - lui per distaccarsi dalla sua identità
+      - democratica
+        - tutti posso farlo
+          - cosi nessuno si cristallizzi come un epigrafe funeraria
+      - non dominio ma anarchia
+
+Eppure pirandello si iscrive al fascismo
+- pensiero e ideali no
+  - infatti no funerali di stato
+- mussolini aveva bisogno di coinvolgere gli intellettuali e cultura
+- investimenti nel teatro
+- lui costretto
+  - firma manifesto intellettuali fascisti ma lui non supporta ideologia
+- != d'annunzio ideologia fascista
+  - ma non con quello che ha fatto mussolini
+
+Follia per pirandello scelta lucida
+- come Belluca che vuole sentire il treno
+- come Moscarda il massimo arriva alla fusione panica
+- per diventare il forestiere della vita
+- se tu diventi folle, gli altri possono aspettare qualsiasi cosa da te
+  - quindi sei libero
+
+Nome delle cose
+- pascoli
+  - precisa identità che rievoca un simbolo
+  - l'adamo il fanciullino
+- es intel amd
+
+
+## Teatro pirandelliano
+
+- contesto storico
+  - andavano a teatro i borghesi/ceto medio
+  - dai greci: commedia/tragedia
+    - tutti andavano
+  - medioevo di piazza
+  - rinascimento si chiude diventa di corte
+  - ....
+  - riforma goldoni
+  - ora dramma borghese
+    - coinvolge borghesia non solo come pubblico ma come oggetto
+    - porta in maniera abbastanza bidimensionale i drammi della vita borghese
+      - legati aspetto economico/famigliare
+- visione pirandello
+  - sappiamo che gli è caro dissesto economico e problemi famigliari
+  - relativismo conoscitivo
+    - in scena porta l'assurdo
+    - situazioni contradditorie...
+  - di base pubblico accetta realtà che viene proposta
+    - es gente che vola
+  - --> pirandello
+    - la realtà non esiste però
+  - linguaggio si fa interprete
+- all'inizio non piace
+  - anticipa tanto conoscenza culturale che arriverà dopo
+  - sovvienzione stato necessaria
+    - ecco perché entra nel partito
+- elementi umoristici che in teatro --> grotteschi
+- modifica dramma borghese deformandolo
+  - rende inverosimile le situazioni di somiglianza
+- --> criticare valori/maschera borghese
+- apice visione: metateatro
+  - porta se stesso dentro se stesso
+    - meta condizione: rifletto su quello che rifletto
+- massima opera: sei personaggi in cerca di autore
+  - porta in scena impossibilità rappresentare dramma borghese
+  - quindi impossibilità rappresentare questo dramma
+  - --> il teatro non può mai rappresentare la realtà
+  - trama
+    - inizia con regista che esegue prove a degli attori che fanno delle prove per un altro dramma
+    - ma patto iniziale pubblico prendere realtà per vera
+      - ma inizia con effetto di straniamento
+    - dal pubblico arrivano 6 personaggi che daranno vita ad un dramma borghese
+      - ma autore non vuole più scrivere quest'opera
+    - ma personaggi chiedono cmq di mettere in scena questo dramma
+    - molto pittoresco
+    - volontariamente si chiamano padre madre figlio
+      - mancano nomi
+    - --> non può portare in scena il dramma
+
+### Sei personaggi in cerca di autore
+
+- massima opera concezione metateatro
+- porta in scena impossibilità rappresentare dramma borghese
+- quindi impossibilità rappresentare questo dramma
+- --> il teatro non può mai rappresentare la realtà
+- trama
+  - inizia con regista che esegue prove a degli attori che fanno delle prove per un altro dramma
+    - attrezzista che si muove nel mentre
+  - ma patto iniziale pubblico prendere realtà per vera
+    - ma inizia con effetto di straniamento
+  - dal pubblico arrivano 6 personaggi che daranno vita ad un dramma borghese
+    - ma autore non vuole più scrivere quest'opera
+  - ma personaggi chiedono cmq di mettere in scena questo dramma
+  - molto pittoresco
+  - volontariamente si chiamano padre madre figlio
+    - mancano nomi
+  - --> non può portare in scena il dramma
+- pubblico totalmente disorientato
+  - gente che usciva anche
+  - non si capiva bene
+
+Doppia trama (211)
+- primo segmento
+  - drammone borghese
+  - drammi legati a famiglie, tradimenti, dissesti economici
+    - padre interpretato da quello che faceva recensioni
+  - padre spinto madre fuori casa dopo aver avuto figlio
+  - madre altri 3 figli altra relazione
+    - per mantenere famiglia lavora come sarta (atelier madama pace)
+    - figliastra si prostituisce
+  - padre cliente di madama pace
+    - si intrattiene con figliastra che non ha riconosciuto
+  - madre interrompe rapporto incestuoso
+- secondo segmento
+  - ...
+- terzo segmento
+  - ...
+
+Impossibilità messa in scena dramma
+- incomunicabilità ruolo attori da parte dell'autore agli attori
+- nasce dal fatto che ognuno di noi ha una visione soggettiva che rimane sconosciuta agli altri
+  - non possiamo riconoscerci nella visione che gli altri di noi
+  - ognuno pensa di avere una verità che ha, ma poi c'è la finzione
+- ad un certo punto dice: personaggi più veri degli attori
+  - personaggio artistico veramente ha una sua vita
+  - sempre un qualcuno
+  - l'uomo invece è nessuno
+- conflitto vita e forma
+  - vita in evoluzione
+  - la forma la cristallizza

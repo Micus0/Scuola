@@ -6,7 +6,7 @@
 - **Crosta** (SiAl)
 - **Mantello** (SiMa)
 - **Nucleo esterno** (NiFe)
-- **Nucleo interno** (NiFe)
+- **Nucleo interno** (NiFe + Ca)
 
 ### Composizione reologica (comportamento materiali)
 
