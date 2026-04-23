@@ -27,7 +27,7 @@ Critica Hegel presupposto del suo pensiero
 ### Pensiero
 
 #### Ateismo umanistico
-- **dio è una proiezione dell'uomo**
+- **dio è una proiezione dell'uomo** (reference senofane)
   - perché l'uomo non è in grado di contenere/guardare la sua umanità
 - umanità **talmente forte**/potente/esplosiva/infinita --> **impossibile guardarla e contenerla**
   - di fronte se stessa si spaventa

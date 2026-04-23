@@ -561,3 +561,33 @@ Nome delle cose
 - pubblico totalmente disorientato
   - gente che usciva anche
   - non si capiva bene
+
+Doppia trama (211)
+- primo segmento
+  - drammone borghese
+  - drammi legati a famiglie, tradimenti, dissesti economici
+    - padre interpretato da quello che faceva recensioni
+  - padre spinto madre fuori casa dopo aver avuto figlio
+  - madre altri 3 figli altra relazione
+    - per mantenere famiglia lavora come sarta (atelier madama pace)
+    - figliastra si prostituisce
+  - padre cliente di madama pace
+    - si intrattiene con figliastra che non ha riconosciuto
+  - madre interrompe rapporto incestuoso
+- secondo segmento
+  - ...
+- terzo segmento
+  - ...
+
+Impossibilità messa in scena dramma
+- incomunicabilità ruolo attori da parte dell'autore agli attori
+- nasce dal fatto che ognuno di noi ha una visione soggettiva che rimane sconosciuta agli altri
+  - non possiamo riconoscerci nella visione che gli altri di noi
+  - ognuno pensa di avere una verità che ha, ma poi c'è la finzione
+- ad un certo punto dice: personaggi più veri degli attori
+  - personaggio artistico veramente ha una sua vita
+  - sempre un qualcuno
+  - l'uomo invece è nessuno
+- conflitto vita e forma
+  - vita in evoluzione
+  - la forma la cristallizza
