@@ -1,0 +1,351 @@
+# Italiano
+## Montale
+### Biografia
+
+- nasce a **genova** 1896
+  - paesaggio ligure importante
+- muore 1991
+- legge poeti decadenti, leopardi, etc
+  - qualcosa si trova
+- a 20 anni parte per il fronte
+- dirige campo prigionia a lanzo torinese
+- inizia a comporre nel 1916
+- nel 1925 esce raccolta **ossi di seppia**
+- antifascismo non militante (1922-25)
+  - solo ideologico
+- nel 1927 trasferisce a firenze
+- [..]
+- nel 1939 raccolta **le occasioni**
+- richiamato alle armi 1940
+  - dopo 2 anni concedo per motivi di salute
+- nel 1948 a milano
+- premi internazionali e senatore a vita
+- 1975 **premio nobel per la letteratura**
+
+
+### Stile/temi/pensiero
+
+- no ermetismo
+  - versi più lunghi
+  - **oggetti semplici**
+- rinunciare legame irrazionale legato all'istinto
+  - quello che accoglie il bambino o chi si muove nella foresta di simboli
+- --> per creare legami con oggetti concreti
+  - **scalcinato muro**, croco perduto 
+    - muro oggetto che torna
+      - divide e difficile da passare
+        - sopra anche con i cocci di bottiglia
+      - correlativo oggettivo
+      - **tra uomo e senso ultimo delle cose**
+        - es unga
+          - sentirsi docile fibra dell'universo
+        - in montale **luogo inaccessibile**
+          - poeta non può farsi carico
+            - es non domandarci la formula che mondi possa aprirti
+
+### Poetica
+
+- nel '25 **ossi di seppia**
+  - oggetti semplici poveri
+  - no aulico
+  - inarriditi
+    - aridità dell'esistenza della vita umana
+    - il senso della mancata di senso della vita
+  - immagine impoetica
+    - es spleen in baudelaire
+      - ragni che tessono
+- nel '39 **le occasioni**
+  - la poetica si innalza un po'
+  - poesia elevata
+  - barbarie che assiste
+  - il "male di vivere"
+    - spleen di montale raccontato con gli oggetti
+    - condizione di vivere --> condizione di vivere della storia
+      - allarga lo sguardo
+- nel '56 **bufera e altro**
+  - bufera in cui si sente montale: bomba atomica
+    - predetto svevo
+    - si chiede dove può portare
+  - anche il boom economico
+    - sconcerto
+    - smarrimento disagio per quello che diventerà
+- ultima parte nel '71 : **Satura**
+  - stile basso prosaico
+  - disincantato caustico (brucia/corrode) della realtà
+    - si toglie lo smalto dell'illusione
+  - ironia e critica verso la società dei mass media del dopoguerra
+- sentire del contesto a portato a raccolte diverse
+  - come torrente magrelli
+
+
+## Ossi di seppia
+
+- pessimismo di Shopenhauer
+  - apparenze ingannevoli (velo maja)
+- sorta di d'annunzianesimo
+  - montale attraversa e supera
+- porta bagaglio precedente
+  - saba/crepuscolari
+- oggetti semplici
+  - condizione di vita impoverita
+  - realtà di detriti
+- **sole**
+  - secca e inarridisce
+  - != d'annunzio
+    - visione panica
+  - paesaggi appiattiti in cui non passa aria
+- **muro**
+  - impossibile da valicare
+  - verità ultima da quando l'uomo cerca
+- --> condizione di prigionia
+  - esistenza
+  - qualcosa che si ripete
+  - alcune volte varco che ti illude di arrivare al senso
+    - epifania
+    - illusione
+      - non si apre mai del tutto
+  - siepe e muro
+    - leopardi
+      - limite ma occasione per immaginare
+    - montale
+      - meno romantico
+      - con cocci di bottiglia sopra
+        - non dà speranza
+  - frammentazione anima pirandello
+    - osservati in un unico modo
+      - porta stabilità
+      - ma poi porta alla solitudine
+  - non chiederci..
+- presenta **oggetti concreti**
+  - correllativo oggettivo
+    - mette in correlazione lo stato dell'uomo, messaggio poesia
+
+### I limoni (477)
+
+- 1 strofa
+  - ascoltami
+    - pioggia nel pineto d'annunzio
+    - ma lo supera subito
+      - poeti lauerati nomi poco usati
+      - no agavi ma myricae
+  - sintassi molto colloquiale
+    - ma non informale
+- 2 strofa
+  - anastrofi
+    - parafrasi
+  - qualcosa che lo avvicina ai limoni
+    - oggetti semplicissimi gli dessero qualcosa
+  - in pioggia nel pineto
+    - pioggia fusione panica
+    - qui no
+  - noi poveri basta poco
+    - odore dei limoni
+    - d'annunzio si eleva
+- 3 strofa
+  - loro ultimo segreto
+    - le cose/natura hanno un segreto
+      - d'annunzio sa
+  - scoprire uno sbaglio di natura
+    - non comunica con l'uomo
+    - non interessa che l'uomo capisca
+      - leopardi
+    - illusione che tu pensi di capire ma invece
+- 4 strofa
+  - ma
+    - momento disillusione
+  - la pioggia stanca la terra
+    - != pioggia nel pineto
+  - tedio esistenziale
+    - amarezza
+    - spleen
+    - leopardi
+  - cade visione decadente di accedere alla realtà
+  - giallo dei limoni momento di epifania
+    - sembra riproporre
+    - chiude con aspettativa di speranza
+      - prospettiva illusoria
+      - ma per un attimo ti salva dalla pioggia grigia
+- oltre decadentismo
+  - idea frammentazione dell'io
+  - difficoltà mettersi a contatto con la verità
+  - accedere alla verità ultima
+  - pioggia semplicemente un oggetto
+- corriere della sera odore limoni montale
+  - odore effetti celebrali
+    - capace di generare pensieri
+  - capace
+  - es primo levi primo racconto
+    - creare boccetti
+  - es faggin odore rosa
+  - legare scienza con montale
+- usa limoni per
+  - richiama la sua terra
+  - anni '20 non c'erano tanti frutti diversi
+  - colore e dolore si stagliano di fronte alla città e in mezzo alla natura
+- analisi libro fatta bene
+  - soffocante prigionia
+  - epifania limoni anima un attimo l'illusione
+    - vuole andare a conoscere la verità
+    - impulso di andare a conoscere, ma poi si disgrega
+      - atteggiamento etico dell'uomo
+        - riscontra nella critica al conformista borghese (come augusta svevo)
+
+### Meriggiare pallido e assorto (483)
+
+- già titolo: d'annunzio
+  - meriggio
+    - ma non è pallido il suo
+- analisi
+  - linguaggio ornitologico bonatico
+  - figure di suono
+    - != fonosimbolismo usato prima
+      - poeta veggente che coglie le sensazione e la trasmette per arrivare alla verità
+    - qua no
+      - precisi suoni di oggetti concreti
+      - no finalità fonosimbolica
+      - correllativo oggettivo
+      - != novembre pascoli
+        - quadretto sembra una cosa ma la verità un'altra
+        - qua invece quadretto e realtà coincidono
+  - muraglia che ha in cima cocci aguzzi di bottiglia
+    - paragonato alla vita e al travaglio
+    - scalcinato muro
+  - stile e oggetti
+    - certa ricercatezza
+      - richiama dante
+        - pruni/sterpi/serpi
+          - canto suicidio
+          - una parola contiene l'altra
+    - crepe suole/aridità
+      - natura comunica con l'uomo
+        - indifferente all'uomo
+          - uomo vive in condizione di prigionia
+      - scaglie di mare immagine forte
+        - acqua dovrebbe essere rinfrescante, ma il mare no
+          - paesaggio metafisico
+  - l'io lirico
+    - tutti verbi all'infinito
+      - inerte statico
+      - paesaggio che non comunica
+      - nell'io lirico avverte prigionia esistenziale
+        - che non può essere valicato
+  - != meriggio
+    - fusione panica
+    - qua uomo metafora condizione arida dell'uomo prigioniero dietro il muro
+  - parole
+    - meriggiare: trascorrere il mezzo giorno
+    - pruni/sterpi: arbusti spinosi
+    - merli: cantano
+      - suoni secchi
+    - serpi: strusciano
+    - spiar: io inerte che cerca di comunicare con la natura
+    - scaglie muro
+      - in dannunzio vele di panna delle barche dal vento fermo
+    - calve alture: tutto secco non c'è erba
+    - abbaglia: impedisce di vedere
+    - vita come seguitare muraglia con cocci aguzzi
+- unico atteggiamento da adottare: **prendere atto**
+  - non c'è un modo per gestire il fatto
+  - sentire con triste meraviglia di camminare affianco muraglia...
+    - consapevoli di essere di fronte a condizione di prigionia
+
+### Spesso il male di vivere ho incontrato (486)
+
+- reifica: rende oggetto
+  - il male di vivere --> cosa e definito con 3 oggetti
+    - rivo strozzato che gorgoglia
+      - acqua che passa in una strettoia e fa fatica
+    - incartocciarsi della foglia riarsa
+      - tante poesie con le foglie
+      - foglia secca
+    - cavallo stramazzato
+      - caduto per terra sfinito
+        - no morte perché sarebbe soglievo
+          - male di vivere
+      - funerale nello spleen: speranza
+- bene: non avverbio, ma complemento oggetto
+  - non ho conosciuto altra forma di bene
+  - usa bene perché in antitesi male
+  - se riesci ad essere indifferente come le divinità/miracolo
+    - es limoni: sembra vedere una divinità indifferente
+  - correllativi oggettivi bene
+    - statua nella sonnolenza del meriggio
+      - indifferente a tutto il resto
+    - nuvola
+    - falco alto elevato
+    - != con quelli di prima
+      - questi in verticale
+        - bene reificato con verticalità
+      - male di vivere reificato con orizzontalità
+    - assumere atteggiamento storico della rassegnazione
+      - leo godi garzoncello scherzoso
+    - qui dopo presa atto consapevolezza di unica via per scappare dal male di vivere
+      - ma non dice se è possibile intraprenderla
+
+## Satura
+
+- premessa
+  - raccolte di montale molto diverse tra di loro
+- satura
+  - concetto saturazione
+- satira
+  - registro colloquiale
+- --> titolo sull'equivoco
+- diversi livelli stilistici e temi differenti
+- storia sovrabbondanza di immagini
+- stile
+  - comico
+  - stile argomenti bassi legati alla quotidianità
+  - ironia e sarcasmo
+    - società del tempo, anche giornalismo
+  - si autocita
+  - tono sovrabbondanza: saturazione del mondo assediato dalle cose
+    - con il boom economico case si riempie di oggetti
+
+### La storia (532)
+
+- disposizione ordinata di fatti/avvenimenti umani del passato
+  - con indagine critica volta ad accertare verità di essi, connessioni e riconoscere in essi unità di sviluppo
+- machiavelli: historia magistra vite (storia maestra di vita)
+- contenuto
+  - no serie di anelli e molti non tengono
+    - visione non unitaria
+  - non contiene prima e dopo
+    - no causa effetto
+  - non è prodotta da chi la pensa o da chi la ignora
+    - procede in maniera indifferente
+  - non giustifica e non deplora
+    - non premi o punizioni
+  - non contiene prima e dopo
+    - no impianto deterministico
+  - --> visione disordinata
+    - fenomeno incontrollabile
+    - non ha una direzione e piano stabilito
+    - --> non può essere gestito dagli uomini
+    - non ha una dimensione morale
+      - bilancio si effettua dopo
+        - si giudica con ordine morale che non nasce con quel fatto storico
+  - la storia non è magistra di niente
+    - contro machiavelli
+    - dibattito
+      - sull'individuo si
+      - ma in maniera universale dovrebbe ma non riesce
+        - cambio generazionale
+  - rete a strascico con qualche strappo e più di un pesce fugge
+    - gli altri nel sacco si credono più liberi
+      - quando sei dentro
+    - verga???
+    - ectoplasma
+      - parola impoetica
+      - chi sta fuori
+  - meglio se esagerasse
+    - lui ha visto tutto: WWII e poi boom economico
+      - disgregazione
+- stile
+  - andamento prosastico colloquiale
+    - procede recede rima in mezzo
+      - qualcosa di raffinato rimane
+  - andamento satirico
+  - anafora ed elenco di non
+    - palazzeschi
+    - alla fine non dice cos'è

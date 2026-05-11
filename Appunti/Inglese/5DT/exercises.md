@@ -97,3 +97,19 @@ Style
 *   Paragraph 14: The use of "free direct speech" (interior monologue) removes the narrator’s voice, allowing the reader direct access to the character's mind.
 *   Paragraph 15: The language is objective and neutral, but it is highly adaptive, changing its tone to match the age and social class of the character described.
 *   Paragraph 16: Joyce uses chiasmus to create melodic, poetic effects in his prose, most notably in the final paragraph of The Dead.
+
+
+## I was thinking of so many thigns (Ulysses Joyce)
+### Ex 1
+
+1. f
+2. i
+3. e
+4. g
+5. h
+6. a
+7. c
+8. j
+9. b
+10. d
+

@@ -42,3 +42,53 @@
       - tante pecore
         - anulla differenze
         - tutti proletari
+
+**Oltre/Superuomo**
+- castello di carta è crollato --> ora vivere senza certezza
+  - vita umana soggiogata da etica dello schiavo --> ora etica dell'eroe
+  - **uomo capace di vivere senza certezza**
+    - sa muoversi nell'incertezza più profonda
+    - vive in un contesto di sola **interpretazione** (heidegger/gadamer)
+- es un funanbolo che cammina sul filo (o fari macchina di notte)
+  - non può distrarsi
+    - no guardare dietro/sotto
+    - né in avanti
+  - --> **vedere passo dopo passo**
+- != d'annunzio
+  - andrea spirelli esteta
+  - ubermench (oltre non super)
+- **etica**
+  - no esteta
+    - non vive secondo impulsi
+  - uomo che vive andando oltre se stesso
+    - prima uomo malato di razionalità
+    - ora guarito da malattia
+      - vita è caos e dolore
+- --> **eterno presente**
+  - si morde sempre la coda
+  - storia per nietzche
+    - sensa senso
+    - **concentrarsi sul presente**
+  - momento fattuale in cui noi ci giochiamo il nostro passo (passato??)
+
+Occorre trasmutazione dei valori
+- etica schiavi --> etica eroi
+- es patroclo e achille
+  - come gli eroi
+- nietzche: primo uomo decente della storia
+  - unico essere in grado di capire/accettare l'annuncio
+    - --> **morte di dio**
+  - unico a vivere in una realtà priva di senso
+
+Definire filosofia di nietzche
+- tradiamo la sua filosofia perché non è definita
+  - siamo malati non possiamo farne a meno
+- filosofo del **nichilismo**
+  - pensiero che esalta il nulla/l'assenza di senso/significato
+  - 2 tipi
+    - **passivo**
+      - chi si asseconda??? all'inferno e lo aumenta
+      - non si rende conto dell'inferno
+      - rifiuta la verità
+        - non accetta la morte di dio
+    - **attivo**
