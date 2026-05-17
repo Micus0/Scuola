@@ -51,7 +51,7 @@
 Approfondimento:
 - teoria del male già dai filosofi greci
   - socrate: male a causa della mancanza di conoscenza (ignoranza)
-  - platone: male a causato dalla volontà dell'uomo di farsi prendere dagli impulsi
+  - platone: male causato dalla volontà dell'uomo di farsi prendere dagli impulsi
 - ma platone reminscenza dell'anima
   - a priori l'anima decide che vita compiere
 - --> caso non chiuso

@@ -229,9 +229,12 @@
 ---
 
 schema:
-- banalità del male
+- banalità del male (titolo consigliato dal marito anders)
   - mancanza di empatia e scoscientizzazione
     - coscienza no individuale ma collettiva
+  - l'uomo parte di una macchina più grande
+    - lo scopo sfugge e se non sfugge non ne è responsabile
+      - --> pura banalità del lavorare
 - causa totalitarismi
   1. società di massa
       - tante persone: individuo diventa debole

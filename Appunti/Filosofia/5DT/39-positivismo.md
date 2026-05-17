@@ -5,13 +5,13 @@
 Filosofia opposta a marx
 - 1830-70 in francia
   - fine romanticismo e inizio crisi certezze
-- esalta la scienza
+- **esalta la scienza**
   - --> mai più metafisica
 
 Cos'è positivo?
-- reale/effettivo/sperimentale
+- **reale/effettivo/sperimentale**
   - != astratto/metafisico/chimerico/illusorio
-- pratico/effettivo/utile
+- **pratico/effettivo/utile**
   - != ozioso..
 
 Opposizione radicale all'idealismo
@@ -22,33 +22,33 @@ Opposizione radicale all'idealismo
   - --> metodo scientifico
 
 No oggetto specifico
-- ma a fondamento di tutte le scienze
-- strumento attraverso cui si riconosce struttura epistemiologica
+- ma a **fondamento di tutte le scienze**
+- **strumento attraverso cui si riconosce struttura epistemiologica**
   - no ontologia/gnoseologia
   - ma sapere che si riconduce in:
-- scienza --> epistemiologia
+- **scienza --> epistemiologia**
 
-Nascita nuove scienze
+**Nascita nuove scienze**
 - es scienze umane
   - psicologia
   - antropologia
   - pedagogia
   - sociologia (imp)
-- formule matematiche e rapp causa-effetto
+- **formule matematiche e rapp causa-effetto**
   - metodo della scienza (galileo)
-  - da estendere a tutti i campi del sapere
+  - **da estendere a tutti i campi del sapere**
 
-Parola d'ordine: progresso
+Parola d'ordine: **progresso**
 - riorganizzazione globale vita in società
-- filosofia dei borghesi
-  - giustificazione filosofica fame del progresso
-    - per amore del sapere e del denaro
-      - --> visione materialistica
-  - si difende
-    - merito
-    - proprietà privata
-    - individualità (attuale)
-- piegare la natura a proprio vantaggio
+- **filosofia dei borghesi**
+  - **giustificazione filosofica fame del progresso**
+    - per **amore** del **sapere** e del **denaro**
+      - --> **visione materialistica**
+  - si **difende**
+    - **merito**
+    - **proprietà privata**
+    - **individualità** (attuale)
+- **piegare la natura** a proprio vantaggio
   - si oppone al marxismo
     - altra faccia della medaglia
 
