@@ -194,6 +194,14 @@ Non solo WWII
   - ignoro cosa governi
     - non c'è un meccanismo scientifico che preveda
 
+### In aggiunta (non con ruolo poesia): Timore e Tremore
+
+- amore-clorofilla
+  - figlio che non può sopravvivere senza genitore
+  - --> centro gravità per genitori
+    - attratto fornisce amore
+      - --> diventa ninfa vitale per il figlio
+- sul foglio
 
 ## Primo Levi; Versificatore, Storie Naturali
 

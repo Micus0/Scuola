@@ -63,3 +63,73 @@
         - ritornare realtà collettiva
       - riconosce che qualcuno è morto per questo suo deragliamento
       - dimensione più profonda
+- quando
+  - estate '44
+- dove
+  - langhe
+- chi
+  - milton
+    - non uno dei tanti
+    - accentra su di sé
+      - romanzo costruito sulla soggettività
+        - tranne capitolo in cui viene ucciso riccio
+  - romanzo ruota attorno a lui
+  - storia individuale dentro storia resistenza
+- romanzo pubblicato dopo
+- tempo
+  - 4 giorni
+- racconta resistenza in maniera antieroica
+  - resistenza disorganizzata
+    - non sanno dov'è giorgio
+  - divisioni classiste
+    - lo prendono in giro
+      - pigiama di seta
+    - anche il riccio
+      - la gente come me la ammazzano subito
+- definire questo romanzo resistenza
+  - partigiani non sono eroi
+    - non per sminuirli
+      - ambito neorealismo
+        - raccontare fatti grazie al dato biografico di come è stata vissuta
+          - non dato scientifico
+  - scelta etica combattere contro fascismo
+    - no programmazione politica
+  - deragliamento dalla guerra
+  - deragliamento amoroso
+  - perdita senno
+    - fulvia a momenti mi ammazzi
+    - orlando
+- tanto romanticismo
+  - grande preparazione romanticismo inglese
+- prospettiva critica e antieroica
+  - ma senza svilire l'etica e il coraggio
+- epico
+  - ragazzi consacrato esistenza ad una scelta etica
+- scelte linguistiche molto vicine
+  - lingua prossima alla realtà
+    - ma non dialettismi
+  - senza ammantarli di eroismo
+- non smette di pensarti
+  - prende consapevolezza
+  - fulvia motore dell'azione
+    - ma dentro di lui
+- questione privata diventa pubblica
+  - uccisione ufficiale fascista
+  - --> uccisione riccio e bellini
+  - --> guerra non può essere una cosa privata
+    - la sua causa ha conseguenze per gli altri
+    - diventa causa di tutti
+- morte riccio sono presenti dettagli reali
+  - consacrato anni migliori per una prospettiva etica
+- milton insegue il suo nemico: dubbio che li viene
+  - non è giorgio
+- fine capitolo 3
+  - non poteva più vivere senza sapere e, soprattutto, non poteva morire senza sapere, in un'epoca in cui i ragazzi come lui erano chiamati più a morire che a vivere
+
+### Produzione
+
+- valore romanzi successivo morte
+- collegato letteratura resistenziale nella zona delle langhe
+  - molto connottato
+  - focus 20 mesi
+    - letteratura esistenziale questione privata

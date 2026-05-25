@@ -1,67 +1,184 @@
 # Filosofia
 ## Freud
+### Pensiero
 
-Scoperta inconscio
-- studi su isteria
-- caso eccezionale: hannah oho
-  - paura dell'acqua
-  - --> ricordo cane da piccola
-  - --> inconscio
+**Scoperta inconscio**
+- **padre psicoanalisi**
+  - esperienza scientifica
+  - **medico** che studia medicina
+    - visione mondo uomo/originale
+      - != visione spirtualista
+        - bergson
+    - comprendere e curare
+  - 1932 Einstein scrive a freud (carteggio???)
+    - perché c'è la guerra?
+      - risponde con l'impulso della lotta (eros-thanatos)
+- **studia l'inconscio**
+- **dimensione onirica**
+  - collegamenti
+    - svevo
+    - arte '900
+  - tutto ciò che appartiene al mondo dei sogni
+- **studi su isteria**
+  - si pensava colpisse soprattutto donne
+  - incontra Joseph Breuer (maestro)
+    - cercano di capire cause
+  - anche ricerche ipnosi per curare
+    - caso Charcout
+    - Freud successivamente si distanzia
+  - **caso eccezionale: Anna O.**
+    - **paura dell'acqua**
+      - sia lavarsi che bere
+    - --> ricordo cane da piccola
+    - --> inconscio
+  - --> emerge ipotesi
+    - **stimoli fisici --> elaborazione inconscio**
+  - **trauma il suo cane che beve l'acqua**
+    - chiuso nel cassetto ma ha lasciato delle tracce
+      - idrofobia
+- allora teoria:
+  - **nostro essere si compone anche della dimensione dell'inconscio**
 
-Topiche
-- prima: mente
-  - conscio
-  - preconscio
-  - inconscio
-- seconda: personalità
-  - es
-  - io
-  - superio
-- dimensione onirica
-  - via regia per arrivare all'inconscio
+**Topiche**
+- mappe topografiche
+- prima: **mente**
+  - **conscio**
+    - tutto ciò di cui siamo **consapevoli**/ci sta davanti/vediamo
+    - **ricordi**
+  - **preconscio**
+    - zona in cui sono presenti i **ricordi accessibili**
+      - ricordi che escono quando ci pensiamo
+        - ma non presenti sempre nella mente
+  - **inconscio**
+    - zona che contiene **desideri/impulsi/ricordi di esperienze/traumi rimossi**
+    - **non si apre mai ed è chiusa**
+      - ma **condiziona** il nostro comportamento/vita
+- seconda: **personalità**
+  - **es** (io)
+    - sede **istinti primari**
+    - impulsi
+  - **io** (ego)
+    - **mediazione** tra piacere/dovere
+    - istinto/norma
+      - io adulto
+  - **superio** (superego)
+    - **norme morali/sociali**
+      - che si trova in rapporto con il mondo da fuori
+- io bambino
+  - soddisfazione beni primari
+  - prima la madre
+    - piacere
+    - allattare
+  - dopo il papà
+    - norme
+    - es controllo sfinteri
+      - togliere pannolino
+- **tutte le personalità sono nevrotiche**
+  - tutto per capire personalità comune
+    - non per patologie
+  - siamo tutti nevrotici
+    - **comportamento personalità sana risultato tra conflitto delle 3 parti**
+      - nessuna è schiacciata
+    - **entrare in relazione con inconscio**
+      - **accettandolo/fare pace**
+        - soprattutto momenti traumatici vita
+          - che non sappiamo identificare
+- **dimensione onirica**
+  - **sogni via regia per arrivare all'inconscio**
     - non possiamo far saltare il lucchetto
-    - aprire vaso di pandora
-  - l'apsus
-  - associazioni libere
-  - sogno
-    - incontrollabile
-  - metodo clinico
-- io per proteggersi da traumi/desideri inaccettabili
-  - rimozione
-  - negazione
-  - proiezione
-    - es difetti in qualcos'altro
-  - razionalizzazione
+    - **come aprire vaso di pandora**
+    - assecondare natura
+  - **lapsus**
+    - per dire una cosa si dice un'altra
+      - perché dentro di te
+  - **associazioni libere**
+    - idee concatenate
+  - **sogno**
+    - **incontrollabile**
+      - non scelgo quello che avviene
+        - inconscio si manifesta
+  - **metodo clinico**
+    - metodo scientifico con cui lo psicoanalista può indagare l'inconscio
+    - sogni: complicato
+      - si annota ma resoconto non chiaro
+      - --> **interpretazione sogni**
+  - **contengono**
+    - **desideri nascosti**
+    - **significato simbolico**
+      - ma realtà fatti sono tutt'altro
+- **io per proteggersi da traumi/desideri inaccettabili**
+  - **rimozione**
+  - **negazione**
+  - **proiezione**
+    - es proietta in un altro qualcosa che non accetta
+      - difetti degli altri
+  - **razionalizzazione**
     - fare una ragione di qualcosa
+    - se troppo esagerato no
       - ma non si può fare di tutto
 
-Sessualità infantile
-- sesso argomento scientifico
-  - l'uomo in quanto essere umano è la sua sessualità
-    - sviluppa il suo sesso
-    - ci condiziona dall'inizio
-- fasi:
-  - orale
-    - succhiare il latte in bocca
+**Sessualità infantile**
+- rompe schema
+  - fa diventare **sesso argomento scientifico**
+    - prima tabù/controllo sociale/morale
+  - **l'uomo in quanto essere umano è la sua sessualità**
+    - nasce maschio/femmina e diventa uomo/donna
+      - sviluppa il suo sesso
+      - modo di essere nel mondo da maschio e femmina
+    - strettamente collegata dalla sessualità
+      - **si fa di tutto per il sesso**
+  - ci condiziona dall'inizio
+  - ora pensiero superato
+- **fasi**:
+  - **orale**
+    - **succhiare il latte in bocca**
+      -  mette in bocca tutto
+        - sede del gusto
     - soddisfare piacere
       - fare qualsiasi cosa
         - regolato dalle norme
-    - --> complesso di edipo
+    - --> **complesso di edipo**
       - edipo: ha ucciso il padre per sposare la madre
-  - anale
-    - controllare sfinteri
+        - es incesto
+          - visto come tabù
+  - **anale**
+    - **controllare sfinteri**
       - piacere fisico
       - mondo ci dice bravo
         - sta diventando grande
-  - latente
-    - differenza bambini/bambine si notano
-      - intanto curiosità differenza
+  - **latente**
+    - va tutto bene
+    - ma differenza **bambini/bambine** si notano
+      - intanto **curiosità differenza**
       - bambine invidia del pene
-        - complesso di elettra
+        - --> **complesso di elettra**
           - sostituire la madre per il padre
-  - genitale
+  - **genitale**
     - sviluppo
       - si trasforma in un adulto
-    - condizione per riprodursi
+    - **condizione per riprodursi**
       - genitali iniziano a crescere
-- civiltà nasce quando si costruisce i suoi totem e tabù
+- **civiltà nasce quando si costruisce i suoi totem e tabù**
+  - totem: punti di riferimento sacri intoccabili
+  - girano attorno
+    - non si deve parlare
+
+Perché in filosofia?
+- molto curioso
+- apre una frontiera
+  - maestro sospetto
+    - marx: società
+    - nietzche: nulla ha senso
+    - lui: **mette in discussione apparato morale**
+      - nuova visione uomo e relazione tra gli uomini
+- umanità **"tre grandi umiliazioni"**
+  - cosmologica
+    - riv copernicana
+    - la terra (e l'uomo) ha perso la sua posizione centrale nell'universo
+  - biologica
+    - teoria di Darwin
+    - l'uomo ha perso la propria centralità nel mondo dei viventi
+  - **psicologica**
+    - **dottrina psicoanalitica** di Freud
+    - uomo **privato anche dell'illusione** di **essere al centro di se stesso**
+      - e di **essere padrone a casa propria**
